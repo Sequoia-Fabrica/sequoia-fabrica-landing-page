@@ -1,5 +1,6 @@
 import DOMPurify from "dompurify";
 import './App.css';
+import Footer from './Footer';
 
 function App() {
 
@@ -35,6 +36,7 @@ function App() {
       <h2>Location</h2>
       <p>We are in the process of securing a space for our community. The space will be in San Francisco</p>
       </div>
+      <Footer />
     </div>
   );
 }
