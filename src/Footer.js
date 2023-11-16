@@ -5,17 +5,17 @@ import React from 'react';
 const copyright="©2023 Sequoia Fabrica. All rights reserved."
 
 const Footer = () => {
-    const getContactItem = () => {
+    // const getContactItem = () => {
 
-    }
+    // }
 
-    const getLocationItem = () => {
+    // const getLocationItem = () => {
 
-    }
+    // }
 
-    const getDonationItem = () => {
+    // const getDonationItem = () => {
 
-    }
+    // }
 
     const footerItems = []
     return (
