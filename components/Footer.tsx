@@ -53,10 +53,10 @@ export default function Footer() {
 
     return (
         <footer className='footer bg-pigment_green-200  text-center dark:bg-neutral-700 lg:text-left'>
-            <div className='p-5 m-5'>
+            <div className='p-10'>
                 <div className='text-center flex flex-wrap'>
                     {footerItems.map((item, index) => (
-                        <div className='flex-auto' key={index}>{item}</div>
+                        <div className='flex-auto p-2' key={index}>{item}</div>
                     ))}
                 </div>
             </div>

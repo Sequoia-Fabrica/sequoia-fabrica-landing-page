@@ -3,7 +3,7 @@ import Horizontal_Logo from "@/public/sf_logo_horizontal.svg";
 import Stacked_Logo from "@/public/sf_logo_stacked.svg";
 
 interface LogoProps {
-    type: 'stacked' | 'horizontal'
+    type?: 'stacked' | 'horizontal'
 }
 
 const Logo: React.FC<LogoProps> = ({ type = 'horizontal' }) => {
