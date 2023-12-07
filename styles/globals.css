@@ -9,11 +9,11 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
+  /* :root { */
 /*    --foreground-rgb: 255, 255, 255;*/
 /*    --background-start-rgb: 0, 0, 0;*/
 /*    --background-end-rgb: 0, 0, 0;*/
-  }
+  /* } */
 }
 
 body {
@@ -24,4 +24,25 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+}
+
+@layer base {
+  h1 {
+    @apply text-2xl;
+    @apply text-center;
+    @apply font-bold;
+  }
+  
+  h2 {
+    @apply text-xl;
+    @apply text-center;
+    @apply font-bold;
+  }
+  ul {
+    @apply list-disc;
+    @apply list-inside;
+    @apply pt-2;
+    @apply pb-2;
+    @apply pl-4;
+  }
 }

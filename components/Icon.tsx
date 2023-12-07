@@ -9,7 +9,7 @@ interface IconProps {
 const Icon: React.FC<IconProps> = ({ iconName }) => {
 
     return (
-        <Image className='inline fill-blue' src={getIconComponent(iconName)} alt={iconName} />
+        <Image className='inline' src={getIconComponent(iconName)} alt={iconName} />
     );
 };
 

@@ -34,11 +34,21 @@ export default function Footer() {
             </a>
         );
     };
+    
+    const getCodeOfConduct = () => {
+        return (
+            <a className="text-md text-tea_green hover:text-tea_green-400" href="/docs/code_of_conduct">
+                <Icon iconName='user_group' />
+                <span className="pl-1 align-middle">Code Of Conduct</span>
+            </a>
+        );
+    }
 
     const footerItems: JSX.Element[] = [
         getContactItem(),
         getDonationItem(),
         getEventsItem(),
+        getCodeOfConduct(),
     ];
 
     return (
