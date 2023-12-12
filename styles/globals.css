@@ -38,6 +38,11 @@ body {
     @apply text-center;
     @apply font-bold;
   }
+
+  h3 {
+    @apply text-lg;
+  }
+
   ul {
     @apply list-disc;
     @apply list-inside;
