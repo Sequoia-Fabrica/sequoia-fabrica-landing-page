@@ -13,9 +13,14 @@ export default function Footer() {
         );
     }
 
-    // const getLocationItem = () => {
-
-    // }
+    const getInstagramItem = () => {
+        return (
+            <a className="text-md text-tea_green hover:text-tea_green-400" href="https://www.instagram.com/sequoia.fabrica/">
+                <Icon iconName='instagram' />
+                <span className="pl-1 align-middle">Instagram</span>
+            </a>
+        );
+    }
 
     const getEventsItem = () => {
         return (
@@ -45,14 +50,15 @@ export default function Footer() {
     }
 
     const footerItems: JSX.Element[] = [
-        getContactItem(),
-        getDonationItem(),
         getEventsItem(),
+        getInstagramItem(),
+        getDonationItem(),
+        getContactItem(),
         getCodeOfConduct(),
     ];
 
     return (
-        <footer className='footer bg-pigment_green-200  text-center dark:bg-neutral-700 lg:text-left'>
+        <footer className='footer bg-pigment_green-200  text-center lg:text-left'>
             <div className='p-10'>
                 <div className='text-center flex flex-wrap'>
                     {footerItems.map((item, index) => (
@@ -61,7 +67,7 @@ export default function Footer() {
                 </div>
             </div>
             <div>
-                <p className="p-4 text-center text-tea_green dark:text-neutral-200">
+                <p className="p-4 text-center text-tea_green">
                     {copyright}
                 </p>
             </div>
