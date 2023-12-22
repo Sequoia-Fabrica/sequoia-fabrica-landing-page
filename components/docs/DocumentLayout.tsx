@@ -8,6 +8,5 @@ export default function MdxLayout({ children }: { children: React.ReactNode }) {
         <div className="bg-white_smoke">
         <div className="m-auto max-w-2xl p-5">{children}</div>
         </div>
-        <Footer />
     </div>
 }

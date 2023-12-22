@@ -40,7 +40,6 @@ export default function Home() {
         <h2 className="text-center">Code of Conduct</h2>
         <p className="md:m-4">We have a <a className="text-primary_blue hover:text-primary_blue-200" href="/docs/code_of_conduct">Code of Conduct</a> that is required reading for all members. Anyone involved either in classes or otherwise is expected to review this.</p>
       </div>
-      <Footer />
     </div>
   )
 }
