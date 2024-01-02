@@ -2,10 +2,11 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is the source code for the Sequoia Fabrica Landing page, hosted at [sequoiafabrica.org](sequoiafabrica.org)
+
 ## Getting Started
 
 First, run the development server:
-
 ```bash
 npm run dev
 ```
@@ -32,3 +33,6 @@ npm run clean
 All project resources are located in the `public` directory. All source code is in the `src` directory.
 
 - preference goes to formatting with tailwindcss whenever possible. Avoid adding custom css for every component you add.
+
+# Contributing
+Please file any bugs here or report them via email sequoiafabrica@gmail.com

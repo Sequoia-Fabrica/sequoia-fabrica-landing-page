@@ -6,7 +6,7 @@ const copyright = "©2023 Sequoia Fabrica. All rights reserved."
 export default function Footer() {
     const getContactItem = () => {
         return (
-            { name: "Contact", href: urlConstants.mailto, iconName: "at_symbol" }
+            { name: "Contact", href: "/docs/contact", iconName: "at_symbol" }
         );
     }
 

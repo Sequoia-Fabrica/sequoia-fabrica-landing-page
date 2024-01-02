@@ -3,6 +3,7 @@ import { useState } from "react";
 import MenuBar from "../MenuBar/MenuBar";
 import Logo from "../Logo/Logo";
 import NavigationBarItem from "./NavigationBarItem";
+import { urlConstants } from "@/src/text/urlConstants";
 
 export default function NavigationBar() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -19,10 +20,11 @@ export default function NavigationBar() {
                 </div>
                 
                 <div className="hidden lg:block m-auto" >
-                    <NavigationBarItem name='Events' url='/docs/events' />
-                    <NavigationBarItem name='Donate' url='/docs/donate' />
+                    <NavigationBarItem name='Events' url={urlConstants.meetup} />
+                    <NavigationBarItem name='Donate' url={urlConstants.openCollective} />
                     <NavigationBarItem name='Membership' url='/docs/membership' />
                     <NavigationBarItem name='About' url='/docs/about' />
+                    <NavigationBarItem name='Contact' url='/docs/contact' />
                 </div>
 
                 <div className="lg:hidden">
