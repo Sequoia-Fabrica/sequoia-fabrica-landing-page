@@ -1,5 +1,5 @@
 
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import MenuBar from "../MenuBar/MenuBar";
 import Logo from "../Logo/Logo";
 import NavigationBarItem from "./NavigationBarItem";
@@ -7,10 +7,23 @@ import { urlConstants } from "@/src/text/urlConstants";
 
 export default function NavigationBar() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
+    const [wasMenuOpenedOnClick, setWasMenuOpenedOnClick] = useState(false);
 
     const toggleMenu = () => {
-        setIsMenuOpen(!isMenuOpen);
+        if (!wasMenuOpenedOnClick) {
+            setIsMenuOpen(!isMenuOpen);
+        }
     };
+    
+    const clickMenu = () => {
+        if (!wasMenuOpenedOnClick) {
+            setIsMenuOpen(!isMenuOpen);
+            setWasMenuOpenedOnClick(true);
+        }
+    }
+
+    const wrapperRef = useRef(null);
+    useOutsideClick(wrapperRef, toggleMenu);
 
     return (
         <>
@@ -28,7 +41,7 @@ export default function NavigationBar() {
                 </div>
 
                 <div className="lg:hidden">
-                    <button className="navbar-burger items-center text-tea_green hover:text-tea_green-200 p-3" onClick={toggleMenu}>
+                    <button className="navbar-burger items-center text-tea_green hover:text-tea_green-200 p-3" onClick={clickMenu}>
                         <svg className="block h-4 w-4 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                             <title>Mobile menu</title>
                             <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path>
@@ -36,7 +49,24 @@ export default function NavigationBar() {
                     </button>
                 </div>
             </nav>
-            <MenuBar isMenuOpen={isMenuOpen} toggleMenu={toggleMenu}/>
+            <div ref={wrapperRef}>
+                <MenuBar isMenuOpen={isMenuOpen}/>
+            </div>
         </>
     );
 };
+
+function useOutsideClick<T extends HTMLElement>(ref: React.RefObject<T>, callback: () => void) {
+  useEffect(() => {
+    function handleClickOutside(event: MouseEvent) {
+      if (ref.current && !ref.current.contains(event.target as Node)) {
+        callback();
+      }
+    }
+
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, [ref, callback]);
+}
