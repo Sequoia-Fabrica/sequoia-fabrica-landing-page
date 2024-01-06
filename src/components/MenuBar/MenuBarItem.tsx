@@ -7,7 +7,7 @@ export interface MenuBarItemProps {
 const MenuBarItem: React.FC<MenuBarItemProps> = ({ name, url }) => {
     return (
         <li className="mb-1">
-            <a className="block p-4 text-mda font-semibold text-gray-400 hover:bg-tea_green-800 hover:text-pigment_green-300 rounded"
+            <a className="block p-4 text-mda font-semibold text-pigment_green hover:bg-tea_green hover:text-pigment_green-300 rounded-lg"
                href={url} >
                 {name}
             </a>

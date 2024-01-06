@@ -13,7 +13,7 @@ const MenuBar: React.FC<MenuBarProps> = ({ isMenuOpen = false }) => {
     
 
     return (
-      <ul className="list-none">
+      <ul className="p-4 bg-tea_green-800 absolute list-none w-full rounded-b-lg">
           <MenuBarItem name='Events' url={urlConstants.meetup} />
           <MenuBarItem name='Donate' url={urlConstants.openCollective} />
           <MenuBarItem name='Membership' url='/docs/membership' />

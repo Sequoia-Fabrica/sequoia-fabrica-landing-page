@@ -7,23 +7,10 @@ import { urlConstants } from "@/src/text/urlConstants";
 
 export default function NavigationBar() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
-    const [wasMenuOpenedOnClick, setWasMenuOpenedOnClick] = useState(false);
-
-    const toggleMenu = () => {
-        if (!wasMenuOpenedOnClick) {
-            setIsMenuOpen(!isMenuOpen);
-        }
-    };
-    
-    const clickMenu = () => {
-        if (!wasMenuOpenedOnClick) {
-            setIsMenuOpen(!isMenuOpen);
-            setWasMenuOpenedOnClick(true);
-        }
-    }
 
     const wrapperRef = useRef(null);
-    useOutsideClick(wrapperRef, toggleMenu);
+    const hamburgerMenuRef = useRef(null);
+    useOutsideClick(wrapperRef, hamburgerMenuRef, () => setIsMenuOpen(false));
 
     return (
         <>
@@ -41,7 +28,7 @@ export default function NavigationBar() {
                 </div>
 
                 <div className="lg:hidden">
-                    <button className="navbar-burger items-center text-tea_green hover:text-tea_green-200 p-3" onClick={clickMenu}>
+                    <button className="navbar-burger items-center text-tea_green hover:text-tea_green-200 p-3" ref={hamburgerMenuRef} onClick={() => setIsMenuOpen(!isMenuOpen)}>
                         <svg className="block h-4 w-4 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                             <title>Mobile menu</title>
                             <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path>
@@ -56,10 +43,10 @@ export default function NavigationBar() {
     );
 };
 
-function useOutsideClick<T extends HTMLElement>(ref: React.RefObject<T>, callback: () => void) {
+function useOutsideClick<T extends HTMLElement>(ref: React.RefObject<T>, hamburgerMenuRef: React.RefObject<T>, callback: () => void) {
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
-      if (ref.current && !ref.current.contains(event.target as Node)) {
+      if (ref.current && !ref.current.contains(event.target as Node) && hamburgerMenuRef.current && !hamburgerMenuRef.current.contains(event.target as Node)) {
         callback();
       }
     }
