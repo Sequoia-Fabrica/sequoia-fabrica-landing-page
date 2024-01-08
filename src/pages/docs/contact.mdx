@@ -1,0 +1,27 @@
+import DocumentLayout from '@/src/components/docs/DocumentLayout'
+import { urlConstants } from '@/src/text/urlConstants';
+
+# Contacting Us
+
+Sequoia Fabrica run by members and volunteers. If you need to contact the board of directors, you can send an email to <a href={urlConstants.mailto}>sequoiafabrica@gmail.com</a>
+
+## Join our Newsletter
+
+You can follow updates on our organization through the platforms below, or if you want news delivered directly to you on a regular basis, add yourself to <a href={urlConstants.tinyLetter}>our newsletter</a>.
+
+
+## Follow us on Social Media
+
+- [Instagram](https://www.instagram.com/sequoia.fabrica/)
+- [Mastodon](https://sfba.social/@sequoiafabrica)
+- [Meetup](https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/)
+
+
+## Donate
+
+- [Open Collective](https://opencollective.com/sequoia-fabrica)
+
+
+export default function MDXPage({ children }) {
+  return <DocumentLayout>{children}</DocumentLayout>;
+}

@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 :root {
-  --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 }
@@ -44,19 +43,26 @@ body {
   }
 
   ul {
-    @apply list-disc;
-    @apply list-inside;
+    /* @apply list-inside; */
     @apply pt-2;
     @apply pb-2;
     @apply pl-4;
+    list-style-type: circle;
   }
   
-  p {
+  ol {
+    @apply pt-2;
     @apply pb-2;
+    @apply pl-4;
+    list-style-type: decimal;
   }
   
-  a {
-    @apply text-primary_blue;
-    @apply hover:text-primary_blue-200;
+  p, li {
+    @apply pb-2;
+  
+    a {
+      @apply text-primary_blue;
+      @apply hover:text-primary_blue-200;
+    }
   }
 }

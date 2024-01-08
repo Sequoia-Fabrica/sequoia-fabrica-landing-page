@@ -1,8 +1,8 @@
 import React from 'react';
 import Image from 'next/image';
-import { getIconComponent } from '@/common/iconComponentMap';
+import { getIconComponent } from '@/src/common/iconComponentMap';
 
-interface IconProps {
+export interface IconProps {
     iconName: string;
 }
 
