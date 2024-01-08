@@ -43,14 +43,21 @@ body {
   }
 
   ul {
-    @apply list-disc;
-    @apply list-inside;
+    /* @apply list-inside; */
     @apply pt-2;
     @apply pb-2;
     @apply pl-4;
+    list-style-type: circle;
   }
   
-  p {
+  ol {
+    @apply pt-2;
+    @apply pb-2;
+    @apply pl-4;
+    list-style-type: decimal;
+  }
+  
+  p, li {
     @apply pb-2;
   
     a {

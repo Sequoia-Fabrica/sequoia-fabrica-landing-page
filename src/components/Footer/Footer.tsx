@@ -33,6 +33,12 @@ export default function Footer() {
             { name: "Code of Conduct", href: "/docs/code_of_conduct", iconName: "user_group" }
         );
     }
+    
+    const getFAQ = () => {
+        return (
+            { name:"FAQ", href: "/docs/faq", iconName: 'question' }
+        );
+    }
 
     const footerItems: FooterItemProps[] = [
         getEventsItem(),
@@ -40,6 +46,7 @@ export default function Footer() {
         getDonationItem(),
         getContactItem(),
         getCodeOfConduct(),
+        getFAQ(),
     ];
 
     return (
