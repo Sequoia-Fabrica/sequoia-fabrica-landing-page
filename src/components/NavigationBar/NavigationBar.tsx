@@ -55,5 +55,5 @@ function useOutsideClick<T extends HTMLElement>(ref: React.RefObject<T>, hamburg
     return () => {
       document.removeEventListener('mousedown', handleClickOutside);
     };
-  }, [ref, callback]);
+  }, [ref, callback, hamburgerMenuRef]);
 }

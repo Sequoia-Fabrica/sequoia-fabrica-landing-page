@@ -1,24 +1,18 @@
 // Button.stories.tsx
 import React from 'react';
-import { Story, Meta } from '@storybook/react';
 import MenuBar from './MenuBar';
+import { Meta, StoryObj } from '@storybook/react';
 
-export default {
-  title: 'Components/MenuBar',
+const meta: Meta<typeof MenuBar> = {
   component: MenuBar,
-  // Here you can add argTypes to control the props
-} as Meta;
-
-const Template: Story = (args) => <MenuBar {...args} />;
-
-export const Primary = Template.bind({});
-Primary.args = {
-  // Define the props for your Primary button variant
 };
 
-export const Secondary = Template.bind({});
-Secondary.args = {
-  // Define the props for your Secondary button variant
-};
+export default meta;
+type Story = StoryObj<typeof MenuBar>;
 
-// Add more variants as needed
+//👇 Throws a type error it the args don't match the component props
+export const Primary: Story = {
+  args: {
+    isMenuOpen: false,
+  },
+};
