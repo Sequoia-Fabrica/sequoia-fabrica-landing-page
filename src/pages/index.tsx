@@ -1,11 +1,8 @@
 import DOMPurify from "isomorphic-dompurify";
-import Logo from "@/src/components/Logo/Logo";
-import NavigationBar from "../components/NavigationBar/NavigationBar";
-import MailChimp from "../components/Newsletter/NewsletterForm";
 
 export default function Home() {
 
-  const tinyLetterHTML = `<div id="mc_embed_shell">
+  const mailchimpHTML = `<div id="mc_embed_shell">
   
   <div id="mc_embed_signup">
       <form action="https://sequoiafabrica.us21.list-manage.com/subscribe/post?u=e67b644f9532ceb232cf38ac2&amp;id=28291a8406&amp;f_id=00e7f6e6f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
@@ -31,7 +28,7 @@ export default function Home() {
   </div>
   
 `  
-  const tinyLetterSanitized = DOMPurify.sanitize(tinyLetterHTML);
+  const mailchimpSanitized = DOMPurify.sanitize(mailchimpHTML);
   
 
   return (
@@ -46,7 +43,7 @@ export default function Home() {
 
         <h2 className="text-center">Mailing List</h2>
         <p className="md:m-4">Want to learn more about our space and hear updates on our search for a physical home? Join our mailing list below!</p>
-        <div dangerouslySetInnerHTML={{ __html: tinyLetterSanitized }} />
+        <div dangerouslySetInnerHTML={{ __html: mailchimpSanitized }} />
 
         <h2 className="text-center">Membership Opportunities</h2>
         <p className="md:m-4">We will be open to the general public for regular, hosted events and workshops. If you’d like access to the space or use our equipment at other times, you should become a member!</p>
