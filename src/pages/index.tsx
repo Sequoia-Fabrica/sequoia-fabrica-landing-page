@@ -1,10 +1,36 @@
 import DOMPurify from "isomorphic-dompurify";
 import Logo from "@/src/components/Logo/Logo";
 import NavigationBar from "../components/NavigationBar/NavigationBar";
+import MailChimp from "../components/Newsletter/NewsletterForm";
 
 export default function Home() {
 
-  const tinyLetterHTML = `<form style="border:1px; margin-left:20%; margin-right:20%; solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/sequoiafabrica" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/sequoiafabrica', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><input type="text" style="width:200px" name="email" id="tlemail" placeholder="email address"/></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>`;
+  const tinyLetterHTML = `<div id="mc_embed_shell">
+  
+  <div id="mc_embed_signup">
+      <form action="https://sequoiafabrica.us21.list-manage.com/subscribe/post?u=e67b644f9532ceb232cf38ac2&amp;id=28291a8406&amp;f_id=00e7f6e6f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
+          <div id="mc_embed_signup_scroll">
+              <div class="mc-field-group"><label for="mce-EMAIL">Email Address </label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span></div>
+  <div hidden=""><input type="hidden" name="tags" value="2893983"></div>
+          <div id="mce-responses" class="clear foot">
+              <div class="response" id="mce-error-response" style="display: none;"></div>
+              <div class="response" id="mce-success-response" style="display: none;"></div>
+          </div>
+      <div style="position: absolute; left: -5000px;" aria-hidden="true">
+          /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+          <input type="text" name="b_e67b644f9532ceb232cf38ac2_28291a8406" tabindex="-1" value="">
+      </div>
+          <div class="optionalParent">
+              <div class="clear foot">
+                  <input class="p-1 flex-auto text-tea_green  bg-pigment_green-300 hover:text-tea_green-200 text-sm rounded" type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+              </div>
+          </div>
+      </div>
+  </form>
+  </div>
+  </div>
+  
+`  
   const tinyLetterSanitized = DOMPurify.sanitize(tinyLetterHTML);
   
 
