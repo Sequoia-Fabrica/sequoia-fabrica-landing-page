@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --background-start-rgb: 214, 219, 220;
+  --background-start-rgb: 240, 240, 240;
   --background-end-rgb: 255, 255, 255;
 }
 
@@ -30,16 +30,19 @@ body {
     @apply text-2xl;
     @apply text-center;
     @apply font-bold;
+    @apply my-6;
   }
   
   h2 {
     @apply text-xl;
     @apply text-center;
     @apply font-bold;
+    @apply my-6;
   }
 
   h3 {
     @apply text-lg;
+    @apply my-6;
   }
 
   ul {
@@ -59,6 +62,7 @@ body {
   
   p, li {
     @apply pb-2;
+    @apply my-3;
   
     a {
       @apply text-primary_blue;
