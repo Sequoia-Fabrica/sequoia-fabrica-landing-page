@@ -48,7 +48,7 @@ export default function Home() {
         <div className="col-span-1">
           <h2 className="text-center">Stay in Touch!</h2>
           <div className=""></div><div dangerouslySetInnerHTML={{ __html: mailchimpSanitized }} />
-          <p><a href="https://instagram.com/sequoia.fabrica">Instagram</a>, <a href="https://sfba.social/@sequoiafabrica">Mastodo</a></p>
+          <p><a href="https://instagram.com/sequoia.fabrica">Instagram</a>, <a href="https://sfba.social/@sequoiafabrica">Mastodon</a></p>
           <p><a href="/docs/membership">Become a member</a></p>
         </div>  
 
