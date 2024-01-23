@@ -33,16 +33,19 @@ export default function Home() {
 
   return (
     <div className="App">
-      <div className="About m-4 md:m-16">
-        <h2 className="text-center">Upcoming Events</h2>
-        <p className="md:m-4">Our events are visible on our <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">Meetup page</a>.</p>
+      <div class="header"></div>
+      <div className="About m-4 md:m-16 max-w-screen-lg">
+        <p className="md:m-4">We are Sequoia Fabrica, an intergenerational community workshop in the San Francisco’s Potrero Hill neighborhood fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and laser cutter, electronics, crafts and fine arts stations. </p>
+        <p className="md:m-4">We are a volunteer-run non-profit (501c3 status pending), and host <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">classes, events and workshop hours</a> open to the public. </p>
 
-        <h2 className="text-center">Our Mission</h2>
-        <p className="md:m-4">We aim to provide a space to disseminate knowledge and craftsmanship skills to a diverse community of people working in multiple disciplines of interest</p>
-        <p className="md:m-4">Sequoia Fabrica (or SeqFab) grew out of other San Francisco makerspaces and hackerspaces with the intention of creating a space focused on building tangible projects through wood, textiles, and electronics. We expect the space to continually undergo change as it ages and welcomes new community members</p>
+        <p className="md:m-4">We offer <a href="https://sequoiafabrica.org/docs/membership">memberships</a> for makers and families who want to access the space and equipment outside of classes. Want to teach a class or organize an event at Sequoia? Please contact us.
+</p>
+        <h2>Visit and Learn a New Skill</h2>
+        <p className="md:m-4">We will be opening to the public gradually from February 17. Sign-up <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">for a visit or a class</a>.</p>
 
-        <h2 className="text-center">Mailing List</h2>
-        <p className="md:m-4">Want to learn more about our space and hear updates on our search for a physical home? Join our mailing list below!</p>
+        
+
+        <h2 className="text-center">Stay in Touch!</h2>
         <div dangerouslySetInnerHTML={{ __html: mailchimpSanitized }} />
 
         <h2 className="text-center">Membership Opportunities</h2>
