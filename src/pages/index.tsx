@@ -19,7 +19,7 @@ export default function Home() {
       </div>
           <div class="optionalParent">
               <div class="clear foot">
-                  <input class="p-1 flex-auto text-tea_green  bg-pigment_green-300 hover:text-tea_green-200 text-sm rounded" type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
+                  <input class="p-1 flex-auto text-tea_green  bg-emerald-800 hover:text-tea_green-200 text-sm rounded" type="submit" name="subscribe" id="mc-embedded-subscribe" class="button" value="Subscribe">
               </div>
           </div>
       </div>
@@ -33,7 +33,7 @@ export default function Home() {
 
   return (
     <div className="App">
-      <div className="About m-4 md:m-16 max-w-screen-lg mx-auto grid grid-cols-2 gap-4">
+      <div className="About m-4 max-w-screen-md mx-auto grid grid-cols-2 gap-4">
         <div className="col-span-2">
             <p className="md:m-4">We are Sequoia Fabrica, an intergenerational community workshop in the San Francisco’s Potrero Hill neighborhood fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and laser cutter, electronics, crafts and fine arts stations. </p>
             <p className="md:m-4">We are a volunteer-run non-profit (501c3 status pending), and host <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">classes, events and workshop hours</a> open to the public. </p>
