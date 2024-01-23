@@ -33,7 +33,7 @@ export default function Home() {
 
   return (
     <div className="App">
-      <div className="About m-4 md:m-16 max-w-screen-lg">
+      <div className="About m-4 md:m-16 max-w-screen-lg mx-auto">
         <p className="md:m-4">We are Sequoia Fabrica, an intergenerational community workshop in the San Francisco’s Potrero Hill neighborhood fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and laser cutter, electronics, crafts and fine arts stations. </p>
         <p className="md:m-4">We are a volunteer-run non-profit (501c3 status pending), and host <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">classes, events and workshop hours</a> open to the public. </p>
 
