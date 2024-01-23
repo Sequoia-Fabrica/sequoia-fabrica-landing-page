@@ -28,14 +28,14 @@ body {
 @layer base {
   h1 {
     @apply text-2xl;
-    @apply text-center;
+    @apply text-left;
     @apply font-bold;
     @apply my-6;
   }
   
   h2 {
     @apply text-xl;
-    @apply text-center;
+    @apply text-left;
     @apply font-bold;
     @apply my-6;
   }
@@ -65,8 +65,9 @@ body {
     @apply my-3;
   
     a {
-      @apply text-primary_blue;
-      @apply hover:text-primary_blue-200;
+      @apply text-orange-700;
+      @apply underline;
+      @apply hover:text-orange-900;
     }
   }
 }
