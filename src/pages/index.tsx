@@ -7,7 +7,7 @@ export default function Home() {
   <div id="mc_embed_signup">
       <form action="https://sequoiafabrica.us21.list-manage.com/subscribe/post?u=e67b644f9532ceb232cf38ac2&amp;id=28291a8406&amp;f_id=00e7f6e6f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
           <div id="mc_embed_signup_scroll">
-              <div class="mc-field-group"><label for="mce-EMAIL">Email Address </label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span></div>
+              <div class="mc-field-group"><label for="mce-EMAIL" class="hidden">Email Address</label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" placeholder="Your email address"><span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span></div>
   <div hidden=""><input type="hidden" name="tags" value="2893983"></div>
           <div id="mce-responses" class="clear foot">
               <div class="response" id="mce-error-response" style="display: none;"></div>
