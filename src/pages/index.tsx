@@ -41,6 +41,7 @@ export default function Home() {
             <p>We offer <a href="https://sequoiafabrica.org/docs/membership">memberships</a> for makers and families who want to access the space and equipment outside of classes. Want to teach a class or organize an event at Sequoia? Please contact us.
 </p>
           </div>
+        </hr/>
         <div className="col-span-1">
           <h2>Visit and Learn a New Skill</h2>
           <p>We will be opening to the public gradually from February 17. Sign-up <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">for a visit or a class</a>.</p>
@@ -51,7 +52,7 @@ export default function Home() {
           <p><a href="https://instagram.com/sequoia.fabrica">Instagram</a>, <a href="https://sfba.social/@sequoiafabrica">Mastodon</a></p>
           <p><a href="/docs/membership">Become a member</a></p>
         </div>  
-
+        <hr/>
       
         <h2 className="text-center">Donations</h2>
         <p className="md:m-4">Please visit our <a href="http://opencollective.com/sequoia-fabrica">donations page</a> on Open Collective to donate to our organization. We are a California Public Benefit Corporation and have filed an application for 501(c)(3) status with the IRS. Our application is pending. If this is approved your <a href="https://www.irs.gov/charities-non-profits/charitable-organizations/contributions-to-organization-with-irs-application-pending">contribution may be tax-deductible</a>.</p>
