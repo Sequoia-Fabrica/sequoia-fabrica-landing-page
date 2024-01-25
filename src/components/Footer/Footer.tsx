@@ -50,7 +50,7 @@ export default function Footer() {
     ];
 
     return (
-        <footer className='footer bg-pigment_green-200  text-center lg:text-left'>
+        <footer className='footer bg-emerald-800  text-center lg:text-left'>
             <div className='p-10'>
                 <div className='text-center flex flex-wrap'>
                     {footerItems.map((props, index) => (
