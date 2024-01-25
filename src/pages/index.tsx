@@ -33,7 +33,7 @@ export default function Home() {
 
   return (
     <div className="App">
-      <div className="bg-cover w-screen bg-[url('/sequoia-banner.png')] h-[400px]"></div>
+      <div className="bg-cover w-screen bg-[url('/sequoia-banner.png')] h-[300px]"></div>
       <div className="About m-4 max-w-screen-md mx-auto grid grid-cols-2 gap-4 p-8">
         <div className="col-span-2">
             <p>We are Sequoia Fabrica, an intergenerational community workshop in the <a href="https://maps.app.goo.gl/pfgdThhr7yy42nGZA">San Francisco’s Potrero Hill neighborhood</a> fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and laser cutter, electronics, crafts and fine arts stations. </p>
