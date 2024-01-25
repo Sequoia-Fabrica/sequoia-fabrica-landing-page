@@ -18,7 +18,7 @@ export default function Footer() {
 
     const getEventsItem = () => {
         return (
-            { name: "Meetup", href: urlConstants.meetup, iconName: "meetup" }
+            { name: "Events and Classes", href: urlConstants.meetup, iconName: "meetup" }
         );
     };
 
