@@ -1,4 +1,6 @@
 import DOMPurify from "isomorphic-dompurify";
+import Card from "../components/Card/Card";
+import Link from "next/link";
 
 export default function Home() {
 
@@ -27,36 +29,42 @@ export default function Home() {
   </div>
   </div>
   
-`  
+`
   const mailchimpSanitized = DOMPurify.sanitize(mailchimpHTML);
-  
+
 
   return (
     <div className="App">
-      <div className="About m-4 max-w-screen-md mx-auto grid grid-cols-2 gap-4">
-        <div className="col-span-2">
-            <p>We are Sequoia Fabrica, an intergenerational community workshop in the <a href="https://maps.app.goo.gl/pfgdThhr7yy42nGZA">San Francisco’s Potrero Hill neighborhood</a> fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and laser cutter, electronics, crafts and fine arts stations. </p>
-            <p>We are a volunteer-run non-profit (501c3 status pending), and host <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">classes, events and workshop hours</a> open to the public. </p>
-            <p>We offer <a href="https://sequoiafabrica.org/docs/membership">memberships</a> for makers and families who want to access the space and equipment outside of classes. Want to teach a class or organize an event at Sequoia? Please contact us.</p>
+      <div className="About m-4 md:mx-20">
+        <div className="mx-auto max-w-screen-md">
+        <h1>Welcome to Sequoia Fabrica!</h1>
+          <p>We are an intergenerational community workshop in the <a href="https://maps.app.goo.gl/pfgdThhr7yy42nGZA">San Francisco’s Potrero Hill neighborhood</a> fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and laser cutter, electronics, crafts and fine arts stations. </p>
+          <p>We are a volunteer-run non-profit (501c3 status pending), and host <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">classes, events and workshop hours</a> open to the public. </p>
+          <p>We offer <Link href="/docs/membership">memberships</Link> for makers and families who want to access the space and equipment outside of classes. Want to teach a class or organize an event at Sequoia? Please contact us.</p>
+        </div>
+
+        <div>
+          <div className="mx-auto grid grid-cols-2 max-w-4xl">
+            <Card title="Visit and Learn a New Skill">
+              <p>We will be opening to the public gradually from February 17. Sign-up <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">for a visit or a class</a>.</p>
+            </Card>
+
+            <Card title="Stay in Touch!">
+              <div dangerouslySetInnerHTML={{ __html: mailchimpSanitized }} />
+              <br />
+              <p><a href="https://instagram.com/sequoia.fabrica">Instagram</a>, <a href="https://sfba.social/@sequoiafabrica">Mastodon</a></p>
+              <p><a href="/docs/membership">Become a member</a></p>
+            </Card>
+
+            <Card title="Donations">
+              <p>Please visit our <a href="http://opencollective.com/sequoia-fabrica">donations page</a> on Open Collective to donate to our organization. We are a California Public Benefit Corporation and have filed an application for 501(c)(3) status with the IRS. Our application is pending.</p>
+            </Card>
+
+            <Card title="Code of Conduct">
+              <p>We have a <a href="/docs/code_of_conduct">Code of Conduct</a> that is required reading for all members. Anyone involved either in classes or otherwise is expected to review this.</p>
+            </Card>
           </div>
-        <hr/>
-        <div className="col-span-1">
-          <h2>Visit and Learn a New Skill</h2>
-          <p>We will be opening to the public gradually from February 17. Sign-up <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">for a visit or a class</a>.</p>
-        </div>  
-        <div className="col-span-1">
-          <h2 >Stay in Touch!</h2>
-          <div className=""></div><div dangerouslySetInnerHTML={{ __html: mailchimpSanitized }} />
-          <p><a href="https://instagram.com/sequoia.fabrica">Instagram</a>, <a href="https://sfba.social/@sequoiafabrica">Mastodon</a></p>
-          <p><a href="/docs/membership">Become a member</a></p>
-        </div>  
-        <hr/>
-      
-        <h2 className="text-center">Donations</h2>
-        <p className="md:m-4">Please visit our <a href="http://opencollective.com/sequoia-fabrica">donations page</a> on Open Collective to donate to our organization. We are a California Public Benefit Corporation and have filed an application for 501(c)(3) status with the IRS. Our application is pending.</p>
-        
-        <h2 className="text-center">Code of Conduct</h2>
-        <p className="">We have a <a href="/docs/code_of_conduct">Code of Conduct</a> that is required reading for all members. Anyone involved either in classes or otherwise is expected to review this.</p>
+        </div>
       </div>
     </div>
   )

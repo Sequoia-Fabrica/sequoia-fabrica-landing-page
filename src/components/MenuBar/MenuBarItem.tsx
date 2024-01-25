@@ -1,16 +1,23 @@
+import Link from "next/link";
+import { ReactNode } from "react";
 
 export interface MenuBarItemProps {
     name: string,
     url: string,
+    handler: () => void
 }
 
-const MenuBarItem: React.FC<MenuBarItemProps> = ({ name, url }) => {
+const MenuBarItem: React.FC<MenuBarItemProps> = ({ name, url, handler}) => {
+    const handleClick = () => {
+        handler();
+    }
     return (
         <li className="mb-1">
-            <a className="block p-4 text-mda font-semibold text-pigment_green hover:bg-tea_green hover:text-pigment_green-300 rounded-lg"
-               href={url} >
+            <Link className="block p-4 font-semibold text-tea_green hover:bg-tea_green hover:text-pigment_green-300 rounded-lg no-underline"
+               href={url}
+               onClick={handleClick} >
                 {name}
-            </a>
+            </Link>
         </li>
     )
 };

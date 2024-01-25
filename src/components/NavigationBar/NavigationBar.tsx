@@ -14,7 +14,7 @@ export default function NavigationBar() {
 
     return (
         <>
-            <nav className="relative px-4 h-20 flex items-center bg-emerald-900 justify-between lg:justify-normal">
+            <nav className="relative px-4 h-20 flex items-center bg-pigment_green-300 justify-between lg:justify-normal">
                 <div className="text-3xl font-bold lg:float-left lg:absolute">
                     <Logo type="stacked"/>
                 </div>
@@ -37,7 +37,7 @@ export default function NavigationBar() {
                 </div>
             </nav>
             <div ref={wrapperRef}>
-                <MenuBar isMenuOpen={isMenuOpen}/>
+                <MenuBar isMenuOpen={isMenuOpen} selectHandler={() => setIsMenuOpen(false)}/>
             </div>
         </>
     );
@@ -56,4 +56,4 @@ function useOutsideClick<T extends HTMLElement>(ref: React.RefObject<T>, hamburg
       document.removeEventListener('mousedown', handleClickOutside);
     };
   }, [ref, callback, hamburgerMenuRef]);
-}
+};
