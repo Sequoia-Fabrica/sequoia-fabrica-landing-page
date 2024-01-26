@@ -40,6 +40,12 @@ export default function Footer() {
         );
     }
 
+    const getWiki = () => {
+        return (
+            { name:"Wiki", href: "https://wiki.sequoiafabrica.org/wiki/Main_Page", }
+        );
+    }
+
     const footerItems: FooterItemProps[] = [
         getEventsItem(),
         getInstagramItem(),
@@ -47,6 +53,7 @@ export default function Footer() {
         getContactItem(),
         getCodeOfConduct(),
         getFAQ(),
+        getWiki(),
     ];
 
     return (
