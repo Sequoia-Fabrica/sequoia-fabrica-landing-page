@@ -59,7 +59,7 @@ export default function Home() {
         </div>
         <div className="col-span-2 md:col-span-1">
           <h2>Code of Conduct</h2>
-          <p>We have a <a href="/docs/code_of_conduct">Code of Conduct</a> that is required reading for all members. Anyone involved either in classes or otherwise is expected to review this.</p>
+          <p>Anyone involved in our space or events is expected to review and follow our <a href="/docs/code_of_conduct">Code of Conduct</a>.</p>
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 import FooterItem, { FooterItemProps } from "./FooterItem";
 import { urlConstants } from "@/src/text/urlConstants";
 
-const copyright = "©2023 Sequoia Fabrica. All rights reserved."
+const copyright = "©2024 Sequoia Fabrica. All rights reserved."
 
 export default function Footer() {
     const getContactItem = () => {
@@ -42,7 +42,7 @@ export default function Footer() {
 
     const getWiki = () => {
         return (
-            { name:"Wiki", href: "https://wiki.sequoiafabrica.org/wiki/Main_Page", }
+            { name:"Wiki", href: "https://wiki.sequoiafabrica.org/wiki/Main_Page", iconName:'globe' }
         );
     }
 
