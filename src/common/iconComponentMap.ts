@@ -16,7 +16,7 @@ const iconComponentMap: Map<string, JSX.Element> = new Map([
    ['user_group', user_group],
    ['instagram', instagram],
    ['question', question],
-   ['globe',globe]
+   ['globe', globe],
 ]);
 
 export function getIconComponent(iconName: string): StaticImport {

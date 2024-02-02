@@ -1,4 +1,6 @@
 import DOMPurify from "isomorphic-dompurify";
+import Calendar from "../components/Calendar/Calendar";
+import { getCalendar } from "../common/calendarMap";
 
 export default function Home() {
 
@@ -62,6 +64,7 @@ export default function Home() {
           <p>Anyone involved in our space or events is expected to review and follow our <a href="/docs/code_of_conduct">Code of Conduct</a>.</p>
         </div>
       </div>
+      <Calendar url={getCalendar('meetup')}/>
     </div>
   )
 }
