@@ -1,6 +1,8 @@
 name: Fetch Meetup ICS File daily
 
 on:
+  push:
+    branches: [ feature_calendar ]
   schedule:
     # Runs at 2 AM PST every day
     - cron: '0 10 * * *'
