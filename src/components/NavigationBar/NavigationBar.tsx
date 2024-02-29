@@ -24,6 +24,7 @@ export default function NavigationBar() {
                     <NavigationBarItem name='Donate' url={urlConstants.openCollective} />
                     <NavigationBarItem name='Membership' url='/docs/membership' />
                     <NavigationBarItem name='About' url='/docs/about' />
+                    <NavigationBarItem name='Partner' url='/docs/partner' />
                     <NavigationBarItem name='Contact' url='/docs/contact' />
                 </div>
 
