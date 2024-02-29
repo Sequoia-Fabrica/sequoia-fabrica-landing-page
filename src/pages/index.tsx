@@ -44,7 +44,7 @@ export default function Home() {
         
         <div className="col-span-2 md:col-span-1">
           <h2>Visit and Learn a New Skill</h2>
-          <p>We will be opening to the public gradually from February 17. Sign-up <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">for a visit or a class</a>.</p>
+          <p>We are open to the public for events. Sign-up <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">for a visit or a class</a>.</p>
         </div>  
         <div className="col-span-2 md:col-span-1">
           <h2 >Stay in Touch!</h2>
