@@ -37,14 +37,14 @@ export default function Home() {
       <div className="About m-4 max-w-screen-md mx-auto grid grid-cols-2 gap-4 p-8">
         <div className="col-span-2">
             <p>We are Sequoia Fabrica, an intergenerational community workshop in the <a href="https://maps.app.goo.gl/pfgdThhr7yy42nGZA">San Francisco’s Potrero Hill neighborhood</a> fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and laser cutter, electronics, crafts and fine arts stations. </p>
-            <p>We are a volunteer-run non-profit, and host <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">classes, events and workshop hours</a> open to the public. </p>
+            <p>We are a volunteer-run non-profit, and host <a href="https://bookwhen.com/sequoiafabrica">classes, events and workshop hours</a> open to the public. </p>
             <p>We offer <a href="https://sequoiafabrica.org/docs/membership">memberships</a> for makers and families who want to access the space and equipment outside of classes. Want to teach a class or organize an event? Please <a href="/docs/contact">contact us</a>.</p>
             <hr/>
           </div>
         
         <div className="col-span-2 md:col-span-1">
           <h2>Visit and Learn a New Skill</h2>
-          <p>We are open to the public for events. Sign-up <a href="https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/">for a visit or a class</a>.</p>
+          <p>We are open to the public for events. Sign-up <a href="https://bookwhen.com/sequoiafabrica">for a visit or a class</a>.</p>
         </div>  
         <div className="col-span-2 md:col-span-1">
           <h2 >Stay in Touch!</h2>
