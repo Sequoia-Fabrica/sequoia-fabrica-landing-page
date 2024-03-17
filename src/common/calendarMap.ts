@@ -1,7 +1,7 @@
-import meetup from '@/public/calendars/meetup.ics';
+import bookwhen from '@/public/calendars/bookwhen.ics';
 
 const calendarMap: Map<string, string> = new Map([
-    ['meetup', meetup]    
+    ['bookwhen', bookwhen]    
 ]);
 
 export function getCalendar(calendarName: string): string {

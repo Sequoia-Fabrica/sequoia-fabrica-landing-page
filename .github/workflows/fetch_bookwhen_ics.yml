@@ -1,4 +1,4 @@
-name: Fetch Meetup ICS File daily
+name: Fetch Bookwhen ICS File daily
 
 on:
   push:
@@ -17,15 +17,15 @@ jobs:
 
     - name: Fetch the file
       run: |
-        curl -o public/calendars/meetup.ics https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/events/ical/
+        curl -o public/calendars/bookwhen.ics https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/events/ical/
 
     - name: Commit and push if there were changes
       run: |
         git config --local user.name "GitHub Actions Bot"
         git config --local user.email "actions@github.com"
-        git add public/calendars/meetup.ics
+        git add public/calendars/bookwhen.ics
         git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
-        git commit -m "Updated meetup.ics by GitHub Actions Bot" || echo "No changes to commit"
+        git commit -m "Updated bookwhen.ics by GitHub Actions Bot" || echo "No changes to commit"
         git push
       env:
         GIT_AUTHOR_NAME: GitHub Actions Bot

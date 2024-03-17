@@ -6,6 +6,18 @@ This is the source code for the Sequoia Fabrica Landing page, hosted at [sequoia
 
 ## Getting Started
 
+Before getting started, make sure you are running Node version 20.11.1. It may work on other versions, it also may not.
+
+```bash
+node --version
+```
+
+If it's not on the right version, you can use nvm:
+
+```bash
+nvm install 20.11.1
+```
+
 First, run the development server:
 ```bash
 npm run dev
