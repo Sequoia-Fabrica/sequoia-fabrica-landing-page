@@ -17,7 +17,7 @@ jobs:
 
     - name: Fetch the file
       run: |
-        curl -o public/calendars/bookwhen.ics https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/events/ical/
+        curl -o public/calendars/bookwhen.ics  https://feeds.bookwhen.com/ical/x3ixm04f5wj7/yf23z4/public.ics 
 
     - name: Commit and push if there were changes
       run: |
