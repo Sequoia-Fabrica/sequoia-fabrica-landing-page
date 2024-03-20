@@ -15,6 +15,7 @@
     "@fullcalendar/core": "^6.1.10",
     "@fullcalendar/daygrid": "^6.1.10",
     "@fullcalendar/icalendar": "^6.1.10",
+    "@fullcalendar/list": "^6.1.11",
     "@fullcalendar/react": "^6.1.10",
     "@mdx-js/loader": "^3.0.0",
     "@mdx-js/react": "^3.0.0",

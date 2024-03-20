@@ -58,7 +58,7 @@ export default function Home() {
         </div>  
         <hr className="col-span-2"/>
         <div id="calendar" className="col-span-2">
-          <Calendar url={getCalendar('bookwhen')}/>
+          <Calendar urls={[getCalendar('bookwhen')]}/>
         </div>
         <hr className="col-span-2"/>
         <div className="col-span-2 md:col-span-1">

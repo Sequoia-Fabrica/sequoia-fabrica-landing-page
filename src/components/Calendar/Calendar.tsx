@@ -1,12 +1,13 @@
 import iCalendarPlugin from '@fullcalendar/icalendar';
 import FullCalendar from '@fullcalendar/react';
+import listPlugin from '@fullcalendar/list';
 import dayGridPlugin from '@fullcalendar/daygrid';
-import { useState, useLayoutEffect, useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { EventContentArg } from '@fullcalendar/core';
 import { getCurrentBreakpoint } from '@/src/common/getCurrentBreakpoint';
 
 export interface CalendarProps {
-  url: string;
+  urls: string[];
 }
 
 const renderEventContent = (eventInfo: EventContentArg) => {
@@ -21,13 +22,17 @@ const renderEventContent = (eventInfo: EventContentArg) => {
 
 function truncateString(str: string, maxLength: number): string {
   if (str.length <= maxLength) {
-      return str;
+    return str;
   } else {
-      return str.substring(0, maxLength - 3) + "...";
+    return str.substring(0, maxLength - 3) + "...";
   }
 }
 
-const Calendar: React.FC<CalendarProps> = ({ url }) => {
+function getViewByBreakpoint(breakpoint: string) {
+  return breakpoint == 'lg' || breakpoint == 'xl' ? "dayGridMonth" : "listWeek"
+}
+
+const Calendar: React.FC<CalendarProps> = ({ urls }) => {
 
   const [breakpoint, setBreakpoint] = useState(getCurrentBreakpoint());
 
@@ -37,13 +42,11 @@ const Calendar: React.FC<CalendarProps> = ({ url }) => {
     const handleResize = () => {
       const oldBreakpoint = breakpoint
       const newBreakpoint = getCurrentBreakpoint();
-      console.log(oldBreakpoint, newBreakpoint);
       if (oldBreakpoint != newBreakpoint && calendarRef && calendarRef.current) {
         setBreakpoint(newBreakpoint);
-        console.log("wtf");
         calendarRef.current
           .getApi()
-          .changeView(newBreakpoint == 'sm' ? "dayGridWeek" : "dayGridMonth");
+          .changeView(getViewByBreakpoint(newBreakpoint));
       }
     };
 
@@ -55,27 +58,29 @@ const Calendar: React.FC<CalendarProps> = ({ url }) => {
     };
   }, []);
 
-  const events = {
-    url: url,
-    format: 'ics',
-  };
+  const events = urls.map(url => {
+    return {
+      url: url,
+      format: 'ics',
+    }
+  })
 
   return (
     <>
-    <div>
-      <FullCalendar
-        ref={calendarRef}
-        plugins={[dayGridPlugin, iCalendarPlugin]}
-        headerToolbar={{
-          left: 'prev,next',
-          center: 'title',
-          right: 'dayGridMonth,dayGridWeek'
-        }}
-        initialView={breakpoint == 'sm' ? "dayGridWeek" : "dayGridMonth"}
-        events={events}
-        eventContent={renderEventContent}
-      />
-    </div>
+      <div>
+        <FullCalendar
+          ref={calendarRef}
+          plugins={[dayGridPlugin, listPlugin, iCalendarPlugin]}
+          headerToolbar={{
+            left: 'prev',
+            center: 'title',
+            right: 'next'
+          }}
+          initialView={getViewByBreakpoint(breakpoint)}
+          eventSources={events}
+          eventContent={renderEventContent}
+        />
+      </div>
     </>
   );
 }

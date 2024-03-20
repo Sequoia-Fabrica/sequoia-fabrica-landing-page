@@ -1,5 +1,6 @@
 import resolveConfig from 'tailwindcss/resolveConfig';
 import tailwindConfig from '../../tailwind.config'; // Fix the path
+import { isBreakpoint, Breakpoints } from '../components/Calendar/Breakpoints';
 
 const fullConfig = resolveConfig(tailwindConfig);
 
