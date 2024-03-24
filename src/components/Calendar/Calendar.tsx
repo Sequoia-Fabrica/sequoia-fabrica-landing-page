@@ -56,7 +56,7 @@ const Calendar: React.FC<CalendarProps> = ({ urls }) => {
     return () => {
       window.removeEventListener('resize', handleResize);
     };
-  }, []);
+  }, [breakpoint]);
 
   const events = urls.map(url => {
     return {
