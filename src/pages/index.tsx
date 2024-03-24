@@ -1,4 +1,8 @@
 import DOMPurify from "isomorphic-dompurify";
+import Calendar from "../components/Calendar/Calendar";
+import { getCalendar } from "../common/calendarMap";
+import { urlConstants } from "../text/urlConstants";
+import Link from "next/link";
 
 export default function Home() {
 
@@ -36,30 +40,34 @@ export default function Home() {
       <div className="bg-cover bg-center w-screen bg-[url('/sequoia-banner.png')] h-[300px]"></div>
       <div className="About m-4 max-w-screen-md mx-auto grid grid-cols-2 gap-4 p-8">
         <div className="col-span-2">
-            <p>We are Sequoia Fabrica, an intergenerational community workshop in the <a href="https://maps.app.goo.gl/pfgdThhr7yy42nGZA">San Francisco’s Potrero Hill neighborhood</a> fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and laser cutter, electronics, crafts and fine arts stations. </p>
-            <p>We are a volunteer-run non-profit, and host <a href="https://bookwhen.com/sequoiafabrica">classes, events and workshop hours</a> open to the public. </p>
-            <p>We offer <a href="https://sequoiafabrica.org/docs/membership">memberships</a> for makers and families who want to access the space and equipment outside of classes. Want to teach a class or organize an event? Please <a href="/docs/contact">contact us</a>.</p>
+            <p>We are Sequoia Fabrica, an intergenerational community workshop in <a href={urlConstants.googleMaps}>San Francisco’s Potrero Hill neighborhood</a> fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and a laser cutter, electronics, crafts and fine arts stations. </p>
+            <p>We are a volunteer-run non-profit, and host <a href={urlConstants.bookWhen}>classes, events and workshop hours</a> open to the public. </p>
+            <p>We offer <Link href={'/docs/membership'}>memberships</Link> for makers and families who want to access the space and equipment outside of classes. Want to teach a class or organize an event at Sequoia? Please <Link href="/docs/contact">contact us</Link>.</p>
             <hr/>
           </div>
         
         <div className="col-span-2 md:col-span-1">
           <h2>Visit and Learn a New Skill</h2>
-          <p>We are open to the public for events. Sign-up <a href="https://bookwhen.com/sequoiafabrica">for a visit or a class</a>.</p>
+          <p>We are open to the public for events. Sign-up <a href={urlConstants.bookWhen}>for a visit or a class</a>.</p>
         </div>  
         <div className="col-span-2 md:col-span-1">
           <h2 >Stay in Touch!</h2>
           <div className="float-left col-span-2"></div><div dangerouslySetInnerHTML={{ __html: mailchimpSanitized }} />
-          <p className=" col-span-2 clear-both"><a href="https://instagram.com/sequoia.fabrica" >Instagram</a>, <a href="https://sfba.social/@sequoiafabrica">Mastodon</a></p>
+          <p className=" col-span-2 clear-both"><a href={urlConstants.instagram}>Instagram</a>, <a href={urlConstants.mastodon}>Mastodon</a></p>
           <p><a href="/docs/membership">Become a member</a></p>
         </div>  
         <hr className="col-span-2"/>
+        <div id="calendar" className="col-span-2">
+          <Calendar urls={[getCalendar('bookwhen')]}/>
+        </div>
+        <hr className="col-span-2"/>
         <div className="col-span-2 md:col-span-1">
           <h2>Donations</h2>
-          <p>Please support makers of today and tomorrow with a <a href="http://opencollective.com/sequoia-fabrica">donation</a>! We are a California Public Benefit Corporation and tax-exempt public charity under Section 501(c)(3). EIN: 93-4496044</p>
+          <p>Please support makers of today and tomorrow with a <a href={urlConstants.openCollective}>donation</a>! We are a California Public Benefit Corporation and tax-exempt public charity under Section 501(c)(3). EIN: 93-4496044</p>
         </div>
         <div className="col-span-2 md:col-span-1">
           <h2>Code of Conduct</h2>
-          <p>Anyone involved in our space or events is expected to review and follow our <a href="/docs/code_of_conduct">Code of Conduct</a>.</p>
+          <p>Anyone involved in our space or events is expected to review and follow our <Link href="/docs/code_of_conduct">Code of Conduct</Link>.</p>
         </div>
       </div>
     </div>

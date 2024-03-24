@@ -20,7 +20,7 @@ export default function NavigationBar() {
                 </div>
                 
                 <div className="hidden lg:block m-auto" >
-                    <NavigationBarItem name='Events' url={urlConstants.meetup} />
+                    <NavigationBarItem name='Events' url={urlConstants.bookWhen} />
                     <NavigationBarItem name='Donate' url={urlConstants.openCollective} />
                     <NavigationBarItem name='Membership' url='/docs/membership' />
                     <NavigationBarItem name='About' url='/docs/about' />

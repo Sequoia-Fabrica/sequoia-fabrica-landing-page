@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 const Events = () => {
   useEffect(() => {
     // Perform the redirection
-    window.location.href = urlConstants.meetup;
+    window.location.href = urlConstants.bookWhen;
   }, []);
 
   return null;
