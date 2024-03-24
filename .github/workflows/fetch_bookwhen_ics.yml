@@ -2,7 +2,7 @@ name: Fetch Bookwhen ICS File daily
 
 on:
   push:
-    branches: [ feature_calendar ]
+    branches: [ main ]
   schedule:
     # Runs at 2 AM PST every day
     - cron: '0 10 * * *'

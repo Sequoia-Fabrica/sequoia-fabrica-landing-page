@@ -23,7 +23,7 @@ TZNAME:PST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205925Z
 UID:bwnp-x3ixm04f5wj7-ev-sr2k-20240208100000
 DTSTART;TZID=America/Los_Angeles:20240208T100000
 DTEND;TZID=America/Los_Angeles:20240208T110000
@@ -36,7 +36,7 @@ SUMMARY:Learn to Solder
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sr2k-20240208100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205925Z
 UID:bwnp-x3ixm04f5wj7-ev-slub-20240209100000
 DTSTART;TZID=America/Los_Angeles:20240209T100000
 DTEND;TZID=America/Los_Angeles:20240209T110000
@@ -49,7 +49,7 @@ SUMMARY:Weaving 101
 URL:https://bookwhen.com/sequoiafabrica/e/ev-slub-20240209100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205925Z
 UID:bwnp-x3ixm04f5wj7-ev-sbj0-20240211100000
 DTSTART;TZID=America/Los_Angeles:20240211T100000
 DTEND;TZID=America/Los_Angeles:20240211T113000
@@ -60,7 +60,7 @@ SUMMARY:Sewing 101 for Kids
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sbj0-20240211100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205925Z
 UID:bwnp-x3ixm04f5wj7-ev-sdhz-20240212100000
 DTSTART;TZID=America/Los_Angeles:20240212T100000
 DTEND;TZID=America/Los_Angeles:20240212T110000
@@ -73,7 +73,7 @@ SUMMARY:Weaving 101
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sdhz-20240212100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205925Z
 UID:bwnp-x3ixm04f5wj7-ev-skx3-20240309110000
 DTSTART;TZID=America/Los_Angeles:20240309T110000
 DTEND;TZID=America/Los_Angeles:20240309T140000
@@ -84,7 +84,7 @@ SUMMARY:Sequoia Fabrica - Neighborhood Open House
 URL:https://bookwhen.com/sequoiafabrica/e/ev-skx3-20240309110000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205925Z
 UID:bwnp-x3ixm04f5wj7-ev-sn05-20240402193000
 DTSTART;TZID=America/Los_Angeles:20240402T193000
 DTEND;TZID=America/Los_Angeles:20240402T210000
@@ -101,7 +101,46 @@ SUMMARY:Learn to Use a Sewing Machine
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205926Z
+UID:bwnp-x3ixm04f5wj7-ev-sqlx-20240409183000
+DTSTART;TZID=America/Los_Angeles:20240409T183000
+DTEND;TZID=America/Los_Angeles:20240409T203000
+DESCRIPTION:Bring a project you need help with or just come to have fun wor
+ king with your fellow makers.  If you are new to machine sewing and your p
+ roject requires it we recommend (but don’t require) a machine intro clas
+ s first\nWhat we do:\n- Clothing\, costumes\, accessories\n- Professional-
+ style mending (we have other classes dedicated to decorative mending like 
+ sashiko)\n- Fitting and alterations\n- Pattern making and draping\n- Machi
+ ne maintenance and repair\n- Many other subjects\; write us about your pro
+ ject if you’d like to check if we can help\nWhat to bring:\nYour project
+ \nWe are a new space and don’t yet have a broad stock of materials (spec
+ ialty thread & notions\, specialty tools\, material for patching\, etc). H
+ owever if you text with a description of your project we may be able to br
+ ing in what you need. Please make your request at least two days advance.\
+ nHow to find the class:\n1736 18th St in Potrero Hill\nPlease be on time s
+ o you don't miss anything\, but if you will be late the front door may be 
+ locked. Knock loudly\nPlease text 718-496-5468 if you need to cancel so we
+  can open up the spot to others\nWe welcome your class requests. As a new 
+ making space we would love to hear what subjects you are interested in. Ou
+ r instructors have experience in areas like machine knitting\, corsetry\, 
+ sewing machine maintenance and repair\, embroidery\, screenprinting\, patt
+ ern making and draping\, machine rug tufting\, leatherwork\, 3D printing\,
+  laser-cutting\, woodworking\, electronics\, and many more\nAbout Sequoia 
+ Fabrica\nWe're an organization of volunteer makers and artists who like to
+  share our knowledge and skills with others. All money goes towards the wo
+ rkshop's operating costs. Invite your friends and family for an enriching 
+ experience.\nJoin our Newsletter: https://newsletter.sequoiafabrica.org\nC
+ heck out our Website: https://sequoiafabrica.org\nFollow us on Instagram: 
+ https://www.instagram.com/sequoia.fabrica/\nDonate: https://donate.sequoia
+ fabrica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sqlx-20240409183
+ 000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Sewing: Open Project Night
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sqlx-20240409183000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240324T205926Z
 UID:bwnp-x3ixm04f5wj7-ev-scd2-20240416190000
 DTSTART;TZID=America/Los_Angeles:20240416T190000
 DTEND;TZID=America/Los_Angeles:20240416T203000
@@ -131,7 +170,7 @@ SUMMARY:Learn sewing basics and make a fashionable unisex scarf!
 URL:https://bookwhen.com/sequoiafabrica/e/ev-scd2-20240416190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205926Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240418190000
 DTSTART;TZID=America/Los_Angeles:20240418T190000
 DTEND;TZID=America/Los_Angeles:20240418T203000
@@ -152,7 +191,38 @@ SUMMARY:Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240418190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205926Z
+UID:bwnp-x3ixm04f5wj7-ev-spmc-20240423183000
+DTSTART;TZID=America/Los_Angeles:20240423T183000
+DTEND;TZID=America/Los_Angeles:20240423T210000
+DESCRIPTION:Make a cuff or choker necklace and learn leatherwork basics whi
+ le you do it\nWhat skills we will cover:\n- Cutting\n- Dying\n- Burnishing
+ \n- Setting rivets\, snaps\, and grommets\nWhat to bring:\nMeasurements if
+  not making for yourself. These will not be adjustable\nHow to find the cl
+ ass:\n1736 18th St in Potrero Hill\nIf you will be late the front door may
+  be locked. Knock loudly\nThis is a formal class. Please text 718-496-5468
+  if you will be late\nTell us if you need to cancel so that we can open up
+  the space for others\nWe welcome your class requests. As a new making spa
+ ce we would love to hear what subjects you are interested in. Our instruct
+ ors have experience in areas like machine knitting\, corsetry\, sewing mac
+ hine maintenance and repair\, embroidery\, screenprinting\, pattern making
+  and draping\, machine rug tufting\, leatherwork\, 3D printing\, laser-cut
+ ting\, woodworking\, electronics\, and many more\nAbout Sequoia Fabrica\nW
+ e're an organization of volunteer makers and artists who like to share our
+  knowledge and skills with others. All money goes towards the workshop's o
+ perating costs. Invite your friends and family for an enriching experience
+ .\nJoin our Newsletter: https://newsletter.sequoiafabrica.org\nCheck out o
+ ur Website: https://sequoiafabrica.org\nFollow us on Instagram: https://ww
+ w.instagram.com/sequoia.fabrica/\nDonate: https://donate.sequoiafabrica.or
+ g\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Introduction to Leatherwork: Make A Cuff Bracelet or Choker Necklac
+ e
+URL:https://bookwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240324T205926Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240516190000
 DTSTART;TZID=America/Los_Angeles:20240516T190000
 DTEND;TZID=America/Los_Angeles:20240516T203000
@@ -173,7 +243,7 @@ SUMMARY:Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240516190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240320T153509Z
+DTSTAMP:20240324T205926Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240620190000
 DTSTART;TZID=America/Los_Angeles:20240620T190000
 DTEND;TZID=America/Los_Angeles:20240620T203000
