@@ -1,0 +1,266 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bookwhen//Bookwhen Events v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:America/Los_Angeles
+X-WR-CALNAME:Schedule
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+DTSTART:20240310T030000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZNAME:PDT
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20241103T010000
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZNAME:PST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-sr2k-20240208100000
+DTSTART;TZID=America/Los_Angeles:20240208T100000
+DTEND;TZID=America/Los_Angeles:20240208T110000
+DESCRIPTION:Learn to solder with a fun kit! Experienced teachers will guide
+  you through the process and you will leave the event with a cute\, light 
+ up badge\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sr2k-20240208100000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Learn to Solder
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sr2k-20240208100000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-slub-20240209100000
+DTSTART;TZID=America/Los_Angeles:20240209T100000
+DTEND;TZID=America/Los_Angeles:20240209T110000
+DESCRIPTION:Learn the basics of waving on a rigid heddle loom. We warp the 
+ loom and play with textures\, patterns\, and colors.\n\n\nhttps://bookwhen
+ .com/sequoiafabrica/e/ev-slub-20240209100000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Weaving 101
+URL:https://bookwhen.com/sequoiafabrica/e/ev-slub-20240209100000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-sbj0-20240211100000
+DTSTART;TZID=America/Los_Angeles:20240211T100000
+DTEND;TZID=America/Los_Angeles:20240211T113000
+DESCRIPTION:https://bookwhen.com/sequoiafabrica/e/ev-sbj0-20240211100000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Sewing 101 for Kids
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sbj0-20240211100000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-sdhz-20240212100000
+DTSTART;TZID=America/Los_Angeles:20240212T100000
+DTEND;TZID=America/Los_Angeles:20240212T110000
+DESCRIPTION:Learn the basics of waving on a rigid heddle loom. We warp the 
+ loom and play with textures\, patterns\, and colors.\n\n\nhttps://bookwhen
+ .com/sequoiafabrica/e/ev-sdhz-20240212100000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Weaving 101
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sdhz-20240212100000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-skx3-20240309110000
+DTSTART;TZID=America/Los_Angeles:20240309T110000
+DTEND;TZID=America/Los_Angeles:20240309T140000
+DESCRIPTION:https://bookwhen.com/sequoiafabrica/e/ev-skx3-20240309110000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Sequoia Fabrica - Neighborhood Open House
+URL:https://bookwhen.com/sequoiafabrica/e/ev-skx3-20240309110000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-sn05-20240402193000
+DTSTART;TZID=America/Los_Angeles:20240402T193000
+DTEND;TZID=America/Los_Angeles:20240402T210000
+DESCRIPTION:Learn domestic sewing machine basics\, including how to set up 
+ the machine and safely operate it\, available accessories and stitches. Yo
+ u may bring your own machine or use ours.\nThe registration fee for this c
+ lass is $15. \nAbout Sequoia Fabrica:\nWe are a 501c3 non-profit entirely 
+ run by volunteers. We welcome any additional donations to help us in servi
+ ng the community.\n- sequoiafabrica.org\n- instagram.com/sequoia.fabrica\n
+ \n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Learn to Use a Sewing Machine
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-sqlx-20240409183000
+DTSTART;TZID=America/Los_Angeles:20240409T183000
+DTEND;TZID=America/Los_Angeles:20240409T203000
+DESCRIPTION:Bring a project you need help with or just come to have fun wor
+ king with your fellow makers.  If you are new to machine sewing and your p
+ roject requires it we recommend (but don’t require) a machine intro clas
+ s first\nWhat we do:\n- Clothing\, costumes\, accessories\n- Professional-
+ style mending (we have other classes dedicated to decorative mending like 
+ sashiko)\n- Fitting and alterations\n- Pattern making and draping\n- Machi
+ ne maintenance and repair\n- Many other subjects\; write us about your pro
+ ject if you’d like to check if we can help\nWhat to bring:\nYour project
+ \nWe are a new space and don’t yet have a broad stock of materials (spec
+ ialty thread & notions\, specialty tools\, material for patching\, etc). H
+ owever if you text with a description of your project we may be able to br
+ ing in what you need. Please make your request at least two days advance.\
+ nHow to find the class:\n1736 18th St in Potrero Hill\nPlease be on time s
+ o you don't miss anything\, but if you will be late the front door may be 
+ locked. Knock loudly\nPlease text 718-496-5468 if you need to cancel so we
+  can open up the spot to others\nWe welcome your class requests. As a new 
+ making space we would love to hear what subjects you are interested in. Ou
+ r instructors have experience in areas like machine knitting\, corsetry\, 
+ sewing machine maintenance and repair\, embroidery\, screenprinting\, patt
+ ern making and draping\, machine rug tufting\, leatherwork\, 3D printing\,
+  laser-cutting\, woodworking\, electronics\, and many more\nAbout Sequoia 
+ Fabrica\nWe're an organization of volunteer makers and artists who like to
+  share our knowledge and skills with others. All money goes towards the wo
+ rkshop's operating costs. Invite your friends and family for an enriching 
+ experience.\nJoin our Newsletter: https://newsletter.sequoiafabrica.org\nC
+ heck out our Website: https://sequoiafabrica.org\nFollow us on Instagram: 
+ https://www.instagram.com/sequoia.fabrica/\nDonate: https://donate.sequoia
+ fabrica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sqlx-20240409183
+ 000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Sewing: Open Project Night
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sqlx-20240409183000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-scd2-20240416190000
+DTSTART;TZID=America/Los_Angeles:20240416T190000
+DTEND;TZID=America/Los_Angeles:20240416T203000
+DESCRIPTION:Make a fashionable unisex triangle scarf in double cotton gauze
+ ! Double cotton gauze is soft and lightweight and has an interesting textu
+ re that works well for San Francisco's winter\, spring\, or summer. \nThis
+  60-90 minute workshop is a very quick introduction to sewing basics. We'r
+ e not worried about exactitude here-- this is a fast and forgiving project
+  that is excellent for beginners who want to try sewing and walk away with
+  an attractive scarf that is not unlike those currently in boutiques. \nTh
+ is workshop will be the most satisfying to beginners! Participants will en
+ gage with the following skills: match edges and pin/clip fabric in place f
+ or sewing\, cut fabric\, sew straight lines with a sewing machine\, and us
+ e a seam ripper to fix mistakes (you will probably make at least one mista
+ ke\, and that's ok). \nAssorted colors will be available to choose from\, 
+ first-come first-served. \nAbout Sequoia Fabrica\nWe're an organization of
+  volunteer makers and artists who like to share our knowledge and skills w
+ ith others. All money goes towards the workshop's operating costs. Invite 
+ your friends and family for an enriching experience.\nJoin our Newsletter:
+  https://newsletter.sequoiafabrica.org\nCheck out our Website: https://seq
+ uoiafabrica.org\nFollow us on Instagram: https://www.instagram.com/sequoia
+ .fabrica/\nDonate: https://donate.sequoiafabrica.org\n\n\nhttps://bookwhen
+ .com/sequoiafabrica/e/ev-scd2-20240416190000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Learn sewing basics and make a fashionable unisex scarf! 
+URL:https://bookwhen.com/sequoiafabrica/e/ev-scd2-20240416190000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240418190000
+DTSTART;TZID=America/Los_Angeles:20240418T190000
+DTEND;TZID=America/Los_Angeles:20240418T203000
+DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
+ nd using a soldering iron. Walk away with a circuit kit you assembled your
+ self that will do a fun little trick\, like flash LEDs\, or respond to lig
+ ht. This is a great chance to learn a new skill with us over at Sequoia Fa
+ brica.\nNotes on the Class\nSoldering performed properly is a safe\, fun p
+ roject. We will go over best practices for working with the iron and give 
+ you the chance to practice the skill.\nAbout Sequoia Fabrica\nWe're an org
+ anization of volunteer makers and artists who like to share our knowledge 
+ and skills with others. All money goes towards the workshop's operating co
+ sts. Invite your friends and family for an enriching experience.\n\n\nhttp
+ s://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240418190000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Introduction to Soldering
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240418190000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-spmc-20240423183000
+DTSTART;TZID=America/Los_Angeles:20240423T183000
+DTEND;TZID=America/Los_Angeles:20240423T210000
+DESCRIPTION:Make a cuff or choker necklace and learn leatherwork basics whi
+ le you do it\nWhat skills we will cover:\n- Cutting\n- Dying\n- Burnishing
+ \n- Setting rivets\, snaps\, and grommets\nWhat to bring:\nMeasurements if
+  not making for yourself. These will not be adjustable\nHow to find the cl
+ ass:\n1736 18th St in Potrero Hill\nIf you will be late the front door may
+  be locked. Knock loudly\nThis is a formal class. Please text 718-496-5468
+  if you will be late\nTell us if you need to cancel so that we can open up
+  the space for others\nWe welcome your class requests. As a new making spa
+ ce we would love to hear what subjects you are interested in. Our instruct
+ ors have experience in areas like machine knitting\, corsetry\, sewing mac
+ hine maintenance and repair\, embroidery\, screenprinting\, pattern making
+  and draping\, machine rug tufting\, leatherwork\, 3D printing\, laser-cut
+ ting\, woodworking\, electronics\, and many more\nAbout Sequoia Fabrica\nW
+ e're an organization of volunteer makers and artists who like to share our
+  knowledge and skills with others. All money goes towards the workshop's o
+ perating costs. Invite your friends and family for an enriching experience
+ .\nJoin our Newsletter: https://newsletter.sequoiafabrica.org\nCheck out o
+ ur Website: https://sequoiafabrica.org\nFollow us on Instagram: https://ww
+ w.instagram.com/sequoia.fabrica/\nDonate: https://donate.sequoiafabrica.or
+ g\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Introduction to Leatherwork: Make A Cuff Bracelet or Choker Necklac
+ e
+URL:https://bookwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240516190000
+DTSTART;TZID=America/Los_Angeles:20240516T190000
+DTEND;TZID=America/Los_Angeles:20240516T203000
+DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
+ nd using a soldering iron. Walk away with a circuit kit you assembled your
+ self that will do a fun little trick\, like flash LEDs\, or respond to lig
+ ht. This is a great chance to learn a new skill with us over at Sequoia Fa
+ brica.\nNotes on the Class\nSoldering performed properly is a safe\, fun p
+ roject. We will go over best practices for working with the iron and give 
+ you the chance to practice the skill.\nAbout Sequoia Fabrica\nWe're an org
+ anization of volunteer makers and artists who like to share our knowledge 
+ and skills with others. All money goes towards the workshop's operating co
+ sts. Invite your friends and family for an enriching experience.\n\n\nhttp
+ s://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240516190000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Introduction to Soldering
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240516190000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240325T101657Z
+UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240620190000
+DTSTART;TZID=America/Los_Angeles:20240620T190000
+DTEND;TZID=America/Los_Angeles:20240620T203000
+DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
+ nd using a soldering iron. Walk away with a circuit kit you assembled your
+ self that will do a fun little trick\, like flash LEDs\, or respond to lig
+ ht. This is a great chance to learn a new skill with us over at Sequoia Fa
+ brica.\nNotes on the Class\nSoldering performed properly is a safe\, fun p
+ roject. We will go over best practices for working with the iron and give 
+ you the chance to practice the skill.\nAbout Sequoia Fabrica\nWe're an org
+ anization of volunteer makers and artists who like to share our knowledge 
+ and skills with others. All money goes towards the workshop's operating co
+ sts. Invite your friends and family for an enriching experience.\n\n\nhttp
+ s://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240620190000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+STATUS:CONFIRMED
+SUMMARY:Introduction to Soldering
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240620190000
+END:VEVENT
+END:VCALENDAR
