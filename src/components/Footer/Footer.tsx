@@ -18,7 +18,7 @@ export default function Footer() {
 
     const getEventsItem = () => {
         return (
-            { name: "Events and Classes", href: urlConstants.meetup, iconName: "meetup" }
+            { name: "Events and Classes", href: urlConstants.bookWhen, iconName: "meetup" }
         );
     };
 
@@ -42,7 +42,7 @@ export default function Footer() {
 
     const getWiki = () => {
         return (
-            { name:"Wiki", href: "https://wiki.sequoiafabrica.org/wiki/Main_Page", iconName:'globe' }
+            { name:"Wiki", href: urlConstants.wiki, iconName:'globe' }
         );
     }
 

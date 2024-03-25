@@ -12,16 +12,24 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@fullcalendar/core": "^6.1.10",
+    "@fullcalendar/daygrid": "^6.1.10",
+    "@fullcalendar/icalendar": "^6.1.10",
+    "@fullcalendar/list": "^6.1.11",
+    "@fullcalendar/react": "^6.1.10",
     "@mdx-js/loader": "^3.0.0",
     "@mdx-js/react": "^3.0.0",
     "@next/mdx": "^14.0.3",
+    "@rooks/use-window-size": "^4.11.2",
     "@types/mdx": "^2.0.10",
     "dompurify": "^3.0.6",
+    "ical.js": "^1.5.0",
     "isomorphic-dompurify": "^1.11.0",
     "next": "14.0.3",
     "prop-types": "^15.8.1",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-responsive": "^10.0.0"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.6",
@@ -40,6 +48,7 @@
     "eslint-config-next": "14.0.3",
     "eslint-plugin-storybook": "^0.6.15",
     "postcss": "^8",
+    "raw-loader": "^4.0.2",
     "storybook": "^7.6.6",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"

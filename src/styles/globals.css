@@ -1,10 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('./fullCalendar.css');
 
 :root {
   --background-start-rgb: 240, 240, 240;
   --background-end-rgb: 255, 255, 255;
+
+  /* CSS For FullCalendar */
+  --fc-button-bg-color: theme('colors.emerald.800');;
+  --fc-button-border-color: theme('colors.emerald.800');;
+  --fc-button-hover-bg-color: theme('colors.emerald.800');
+  --fc-button-hover-border-color: theme('colors.emerald.800');;
+  --fc-button-active-bg-color: theme('colors.emerald.500');;
+  --fc-button-active-border-color: theme('colors.emerald.800');
 }
 
 @media (prefers-color-scheme: dark) {

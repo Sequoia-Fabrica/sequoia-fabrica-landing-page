@@ -1,5 +1,6 @@
 import type { Config } from 'tailwindcss'
 
+/** @type {import('tailwindcss').Config} */
 const config: Config = {
   content: [
     './src/pages/**/*.{js,ts,jsx,tsx,mdx}',
@@ -75,6 +76,13 @@ const config: Config = {
             900: '#fdfdfd'
         }
       },
+    },
+    screens: {
+      'sm': '640px',
+      'md': '768px',
+      'lg': '1024px',
+      'xl': '1280px',
+      // Add more breakpoints as needed
     },
   },
   plugins: [],
