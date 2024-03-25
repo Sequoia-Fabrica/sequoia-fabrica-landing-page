@@ -18,6 +18,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "typings.d.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "typings.d.ts", "tailwind.config"],
   "exclude": ["node_modules"]
 }
