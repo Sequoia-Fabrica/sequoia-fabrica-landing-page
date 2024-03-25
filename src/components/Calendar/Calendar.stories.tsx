@@ -12,6 +12,6 @@ type Story = StoryObj<typeof Calendar>
 
 export const DefaultCalendar: Story = {
     args: {
-        url: meetup
+        urls: [meetup]
     },
 };
