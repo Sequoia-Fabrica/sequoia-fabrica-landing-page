@@ -1,5 +1,5 @@
 import DOMPurify from "isomorphic-dompurify";
-import Calendar from "../components/Calendar/Calendar";
+import Calendar from "@/src/components/Calendar/Calendar";
 import { getCalendar } from "../common/calendarMap";
 import { urlConstants } from "../text/urlConstants";
 import Link from "next/link";
