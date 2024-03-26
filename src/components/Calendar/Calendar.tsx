@@ -10,12 +10,17 @@ export interface CalendarProps {
   urls: string[];
 }
 
-const renderEventContent = (eventInfo: EventContentArg) => {
+const renderEventContent = (eventInfo: EventContentArg, view: string) => {
+  let shouldTruncate: boolean = view == "dayGridMonth";
   return (
     <div className='break-normal whitespace-normal'>
+      {/* This <a> tag seems to be required because of a design flaw in fullCalendar that fails to link to a page when 
+      an <a> tag isn't present. Month view doesn't have this issue. It's doing some 
+      See bug report: https://github.com/fullcalendar/fullcalendar/issues/6133 */}
+      <a href={eventInfo.event.url}></a>
       <b>{eventInfo.timeText}</b>
       <span className='pr-1'></span>
-      <i>{truncateString(eventInfo.event.title, 25)}</i>
+      <i>{shouldTruncate ? truncateString(eventInfo.event.title, 25) : eventInfo.event.title}</i>
     </div>
   );
 };
@@ -30,11 +35,11 @@ function truncateString(str: string, maxLength: number): string {
 
 const Calendar: React.FC<CalendarProps> = ({ urls }) => {
 
-  const [view, setView] = useState("dayGridMonth");
-
   const calendarRef = useRef(null);
   
   const { isAboveMd } = useBreakpoint("md");
+
+  const [view, setView] = useState(isAboveMd ? "dayGridMonth" : "listWeek");
 
   useEffect(() => {
     const handleResize = () => {
