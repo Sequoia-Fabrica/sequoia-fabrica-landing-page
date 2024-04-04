@@ -23,7 +23,7 @@ TZNAME:PST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-sr2k-20240208100000
 DTSTART;TZID=America/Los_Angeles:20240208T100000
 DTEND;TZID=America/Los_Angeles:20240208T110000
@@ -36,7 +36,7 @@ SUMMARY:Learn to Solder
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sr2k-20240208100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-slub-20240209100000
 DTSTART;TZID=America/Los_Angeles:20240209T100000
 DTEND;TZID=America/Los_Angeles:20240209T110000
@@ -49,7 +49,7 @@ SUMMARY:Weaving 101
 URL:https://bookwhen.com/sequoiafabrica/e/ev-slub-20240209100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-sbj0-20240211100000
 DTSTART;TZID=America/Los_Angeles:20240211T100000
 DTEND;TZID=America/Los_Angeles:20240211T113000
@@ -60,7 +60,7 @@ SUMMARY:Sewing 101 for Kids
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sbj0-20240211100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-sdhz-20240212100000
 DTSTART;TZID=America/Los_Angeles:20240212T100000
 DTEND;TZID=America/Los_Angeles:20240212T110000
@@ -73,7 +73,7 @@ SUMMARY:Weaving 101
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sdhz-20240212100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-skx3-20240309110000
 DTSTART;TZID=America/Los_Angeles:20240309T110000
 DTEND;TZID=America/Los_Angeles:20240309T140000
@@ -84,7 +84,7 @@ SUMMARY:Sequoia Fabrica - Neighborhood Open House
 URL:https://bookwhen.com/sequoiafabrica/e/ev-skx3-20240309110000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-sn05-20240402193000
 DTSTART;TZID=America/Los_Angeles:20240402T193000
 DTEND;TZID=America/Los_Angeles:20240402T210000
@@ -101,7 +101,7 @@ SUMMARY:Learn to Use a Sewing Machine
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-sqlx-20240409183000
 DTSTART;TZID=America/Los_Angeles:20240409T183000
 DTEND;TZID=America/Los_Angeles:20240409T203000
@@ -140,7 +140,7 @@ SUMMARY:Sewing: Open Project Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sqlx-20240409183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-syhy-20240414110000
 DTSTART;TZID=America/Los_Angeles:20240414T110000
 DTEND;TZID=America/Los_Angeles:20240414T140000
@@ -155,7 +155,7 @@ SUMMARY:Crafts supply swap
 URL:https://bookwhen.com/sequoiafabrica/e/ev-syhy-20240414110000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-scd2-20240416190000
 DTSTART;TZID=America/Los_Angeles:20240416T190000
 DTEND;TZID=America/Los_Angeles:20240416T203000
@@ -185,26 +185,27 @@ SUMMARY:Learn sewing basics and make a fashionable unisex scarf!
 URL:https://bookwhen.com/sequoiafabrica/e/ev-scd2-20240416190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-scjb-20240418183000
 DTSTART;TZID=America/Los_Angeles:20240418T183000
 DTEND;TZID=America/Los_Angeles:20240418T203000
 DESCRIPTION:Meet with local Wikipedians and work on your Wikipedia to-do li
- st\, either online or in person!\nJoin us online at: https://meet.google.c
- om/ytu-cghy-qfo\nThis meetup is intended for existing contributors primari
- ly\, but new contributors are welcome. All contributors\, active or not\, 
- on any Wikimedia project\, welcome.\nWe're doing a potluck! Bring some foo
- d/snacks but most importantly bring your wonderful selves! :)\nPlease sign
-  up if you plan on attending and let us know if you can't make it!\nhttps:
- //en.wikipedia.org/wiki/Wikipedia:BayAreaWikiSalon\n\n\nhttps://bookwhen.c
- om/sequoiafabrica/e/ev-scjb-20240418183000
+ st\, either online or in person! All contributors\, active or not\, on any
+  Wikimedia project\, welcome. If you have never edited Wikipedia before\, 
+ we will help you set up a new account and tools designed to help you get s
+ tarted.\nWe will have a short round of intros and an opportunity to do lig
+ htning talk on your fav Wikipedia thing. We'll have foods and drinks (plea
+ se bring some too!)\, and time to talk\, collaborate\, or work on our wiki
+  projects.\nJoin us online at: https://meet.google.com/ytu-cghy-qfo\nhttps
+ ://en.wikipedia.org/wiki/Wikipedia:BayAreaWikiSalon\n\n\nhttps://bookwhen.
+ com/sequoiafabrica/e/ev-scjb-20240418183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 STATUS:CONFIRMED
 SUMMARY:Bay Area Wikipedia Salon
 URL:https://bookwhen.com/sequoiafabrica/e/ev-scjb-20240418183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240418190000
 DTSTART;TZID=America/Los_Angeles:20240418T190000
 DTEND;TZID=America/Los_Angeles:20240418T203000
@@ -225,7 +226,7 @@ SUMMARY:Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240418190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-spmc-20240423183000
 DTSTART;TZID=America/Los_Angeles:20240423T183000
 DTEND;TZID=America/Los_Angeles:20240423T210000
@@ -256,7 +257,7 @@ SUMMARY:Introduction to Leatherwork: Make A Cuff Bracelet or Choker Necklac
 URL:https://bookwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240516190000
 DTSTART;TZID=America/Los_Angeles:20240516T190000
 DTEND;TZID=America/Los_Angeles:20240516T203000
@@ -277,7 +278,7 @@ SUMMARY:Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240516190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240403T101751Z
+DTSTAMP:20240404T101700Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240620190000
 DTSTART;TZID=America/Los_Angeles:20240620T190000
 DTEND;TZID=America/Los_Angeles:20240620T203000
