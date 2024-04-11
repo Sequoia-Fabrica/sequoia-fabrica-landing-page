@@ -6,7 +6,7 @@ import { useState, useEffect, useRef, ReactNode } from 'react';
 import { EventContentArg } from '@fullcalendar/core';
 import { useBreakpoint } from '@/src/common/useBreakpoint';
 import { formatTime } from '@/src/common/dateUtil';
-import { Popover, PopoverHeading, PopoverTrigger, PopoverContent, PopoverDescription, PopoverClose } from './Popover';
+import { Popover, PopoverTrigger, PopoverContent } from './Popover';
 import { format } from 'path';
 
 export interface CalendarProps {
