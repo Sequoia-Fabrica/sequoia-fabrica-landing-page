@@ -24,11 +24,11 @@ jobs:
       run: |
         git config --local user.name "GitHub Actions Bot"
         git config --local user.email "actions@github.com"
-        git pull
         git add public/calendars/bookwhen.ics
         git add public/calendars/google.ics
         git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
         git commit -m "Updated .ics by GitHub Actions Bot" || echo "No changes to commit"
+        git pull
         git push
       env:
         GIT_AUTHOR_NAME: GitHub Actions Bot
