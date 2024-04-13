@@ -6,6 +6,7 @@ on:
   schedule:
     # Runs at 2 AM PST every day
     - cron: '0 10 * * *'
+  workflow_dispatch: # allow manual triggering
 
 jobs:
   fetch-and-commit:

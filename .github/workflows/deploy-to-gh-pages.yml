@@ -3,6 +3,10 @@ on:
   push:
     branches:
       - main
+  schedule:
+    # Runs at 3 AM PST every day
+    - cron: '0 11 * * *'
+  workflow_dispatch: # allow manual triggering
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
