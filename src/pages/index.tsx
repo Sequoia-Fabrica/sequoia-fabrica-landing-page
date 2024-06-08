@@ -48,7 +48,7 @@ export default function Home() {
         
         <div className="col-span-2 md:col-span-1">
           <h2>Visit and Learn a New Skill</h2>
-          <p>We are open to the public for events. Sign-up <a href={urlConstants.bookWhen}>for a visit or a class</a>.</p>
+          <p>We are open to the public for events. Sign-up <a href={urlConstants.bookWhen}>for a class</a>, or <Link href="/docs/contact">contact us</Link> for a visit.</p>
         </div>  
         <div className="col-span-2 md:col-span-1">
           <h2 >Stay in Touch!</h2>
