@@ -48,13 +48,19 @@ export default function Home() {
         
         <div className="col-span-2 md:col-span-1">
           <h2>Visit and Learn a New Skill</h2>
-          <p>We are open to the public for events. Sign-up <a href={urlConstants.bookWhen}>for a visit or a class</a>.</p>
+          <p>We are open to the public for events.</p>
+          <p>Sign-up <a href={urlConstants.bookWhen}>for a class</a>, or <Link href="/docs/contact">contact us</Link> for a visit.</p>
         </div>  
         <div className="col-span-2 md:col-span-1">
-          <h2 >Stay in Touch!</h2>
+          <h2>Stay in Touch!</h2>
+          <h3 className="mb-0 mt-0">Join our Newsletter</h3>
           <div className="float-left col-span-2"></div><div dangerouslySetInnerHTML={{ __html: mailchimpSanitized }} />
-          <p className=" col-span-2 clear-both"><a href={urlConstants.instagram}>Instagram</a>, <a href={urlConstants.mastodon}>Mastodon</a></p>
-          <p><a href="/docs/membership">Become a member</a></p>
+          <h3 className="mb-0 mt-0">Follow Us</h3>
+          <p className="mt-0 col-span-2 clear-both">
+            <a href={urlConstants.instagram}>Instagram</a><span>, </span>
+            <a href={urlConstants.mastodon}>Mastodon</a><span>, </span>
+            <a href={urlConstants.tiktok}>TikTok</a>
+          </p>
         </div>  
         <hr className="col-span-2"/>
         <div id="calendar" className="col-span-2">
