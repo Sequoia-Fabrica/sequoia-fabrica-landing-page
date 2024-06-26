@@ -23,7 +23,7 @@ TZNAME:PST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sn05-20240402193000
 DTSTART;TZID=America/Los_Angeles:20240402T193000
 DTEND;TZID=America/Los_Angeles:20240402T210000
@@ -35,12 +35,13 @@ DESCRIPTION:Learn domestic sewing machine basics\, including how to set up
  ng the community.\n- sequoiafabrica.org\n- instagram.com/sequoia.fabrica\n
  \n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Learn to Use a Sewing Machine
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sqlx-20240409183000
 DTSTART;TZID=America/Los_Angeles:20240409T183000
 DTEND;TZID=America/Los_Angeles:20240409T203000
@@ -74,12 +75,13 @@ DESCRIPTION:Bring a project you need help with or just come to have fun wor
  fabrica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sqlx-20240409183
  000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sewing: Open Project Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sqlx-20240409183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-syhy-20240414110000
 DTSTART;TZID=America/Los_Angeles:20240414T110000
 DTEND;TZID=America/Los_Angeles:20240414T140000
@@ -89,12 +91,13 @@ DESCRIPTION:Bring up to 2 bags of fabric\, glue\, glitter\, paper\, tools\,
  s home with you!\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-syhy-202404
  14110000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Crafts supply swap
 URL:https://bookwhen.com/sequoiafabrica/e/ev-syhy-20240414110000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sm8f-20240415183000
 DTSTART;TZID=America/Los_Angeles:20240415T183000
 DTEND;TZID=America/Los_Angeles:20240415T203000
@@ -118,12 +121,13 @@ DESCRIPTION:Join a professional tailor and your fellow makers for an evenin
  rking\, electronics\, laser cutting\, and many more.\n\n\nhttps://bookwhen
  .com/sequoiafabrica/e/ev-sm8f-20240415183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sewing: Mending\, Fitting\, & Alterations 
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sm8f-20240415183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-scd2-20240416190000
 DTSTART;TZID=America/Los_Angeles:20240416T190000
 DTEND;TZID=America/Los_Angeles:20240416T203000
@@ -148,12 +152,13 @@ DESCRIPTION:Make a fashionable unisex triangle scarf in double cotton gauze
  .fabrica/\nDonate: https://donate.sequoiafabrica.org\n\n\nhttps://bookwhen
  .com/sequoiafabrica/e/ev-scd2-20240416190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Learn sewing basics and make a fashionable unisex scarf! 
 URL:https://bookwhen.com/sequoiafabrica/e/ev-scd2-20240416190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-scjb-20240418183000
 DTSTART;TZID=America/Los_Angeles:20240418T183000
 DTEND;TZID=America/Los_Angeles:20240418T203000
@@ -168,12 +173,13 @@ DESCRIPTION:Meet with local Wikipedians and work on your Wikipedia to-do li
  ://en.wikipedia.org/wiki/Wikipedia:BayAreaWikiSalon\n\n\nhttps://bookwhen.
  com/sequoiafabrica/e/ev-scjb-20240418183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Bay Area Wikipedia Salon
 URL:https://bookwhen.com/sequoiafabrica/e/ev-scjb-20240418183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240418190000
 DTSTART;TZID=America/Los_Angeles:20240418T190000
 DTEND;TZID=America/Los_Angeles:20240418T203000
@@ -189,12 +195,13 @@ DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
  sts. Invite your friends and family for an enriching experience.\n\n\nhttp
  s://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240418190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240418190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-spmc-20240423183000
 DTSTART;TZID=America/Los_Angeles:20240423T183000
 DTEND;TZID=America/Los_Angeles:20240423T210000
@@ -219,13 +226,14 @@ DESCRIPTION:Make a cuff or choker necklace and learn leatherwork basics whi
  w.instagram.com/sequoia.fabrica/\nDonate: https://donate.sequoiafabrica.or
  g\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Introduction to Leatherwork: Make A Cuff Bracelet or Choker Necklac
  e
 URL:https://bookwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sjlb-20240427103000
 DTSTART;TZID=America/Los_Angeles:20240427T103000
 DTEND;TZID=America/Los_Angeles:20240427T120000
@@ -250,12 +258,13 @@ DESCRIPTION:Please join us to build\, customize and paint your very own woo
  equoiafabrica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sjlb-20240
  427103000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Build a Fairy House
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sjlb-20240427103000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-stg3-20240502183000
 DTSTART;TZID=America/Los_Angeles:20240502T183000
 DTEND;TZID=America/Los_Angeles:20240502T200000
@@ -270,12 +279,13 @@ DESCRIPTION:Guest Instructor: Lynn McLeod (lynn.mcleod@gmail.com) Sequoia F
  ces for shopping and learning more\n\n\nhttps://bookwhen.com/sequoiafabric
  a/e/ev-stg3-20240502183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Selecting the Perfect Fabrics for Your Projects
 URL:https://bookwhen.com/sequoiafabrica/e/ev-stg3-20240502183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sp45-20240504103000
 DTSTART;TZID=America/Los_Angeles:20240504T103000
 DTEND;TZID=America/Los_Angeles:20240504T120000
@@ -296,12 +306,13 @@ DESCRIPTION:Sewing is a great life skill and a fantastic way to bond! Disco
  ate.sequoiafabrica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sp45-
  20240504103000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sew a Plushie! Parents and Kids Learn to Sew
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sp45-20240504103000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sjvh-20240507190000
 DTSTART;TZID=America/Los_Angeles:20240507T190000
 DTEND;TZID=America/Los_Angeles:20240507T203000
@@ -315,12 +326,13 @@ DESCRIPTION:Learn domestic sewing machine basics\, including how to set up
   class is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sjvh-2024050
  7190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Copy of: Sewing 101: Introduction to Domestic Sewing Machines
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sjvh-20240507190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s8a9-20240507190000
 DTSTART;TZID=America/Los_Angeles:20240507T190000
 DTEND;TZID=America/Los_Angeles:20240507T203000
@@ -334,12 +346,13 @@ DESCRIPTION:Learn domestic sewing machine basics\, including how to set up
   class is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-s8a9-2024050
  7190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s8a9-20240507190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-so16-20240507193000
 DTSTART;TZID=America/Los_Angeles:20240507T193000
 DTEND;TZID=America/Los_Angeles:20240507T210000
@@ -362,12 +375,13 @@ DESCRIPTION:Are you a knitter and curious about knitting machines? Are you
  a/\nDonate: https://donate.sequoiafabrica.org\n\n\nhttps://bookwhen.com/se
  quoiafabrica/e/ev-so16-20240507193000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Learn to use a Knitting Machine
 URL:https://bookwhen.com/sequoiafabrica/e/ev-so16-20240507193000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s4bb-20240511100000
 DTSTART;TZID=America/Los_Angeles:20240511T100000
 DTEND;TZID=America/Los_Angeles:20240511T113000
@@ -375,12 +389,13 @@ DESCRIPTION:Work on DIY projects together. :) This event is for members and
   member guests only. Please don't register if you aren't a member.\n\n\nht
  tps://bookwhen.com/sequoiafabrica/e/ev-s4bb-20240511100000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Projects Co-working [members and +1s only]
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s4bb-20240511100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sp2n-20240514183000
 DTSTART;TZID=America/Los_Angeles:20240514T183000
 DTEND;TZID=America/Los_Angeles:20240514T203000
@@ -394,12 +409,13 @@ DESCRIPTION:Bring a project you need help with or just come to have fun wor
  ect if you’d like to check if we can help\n\n\nhttps://bookwhen.com/sequ
  oiafabrica/e/ev-sp2n-20240514183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sewing: Open Project Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sp2n-20240514183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sr2l-20240516183000
 DTSTART;TZID=America/Los_Angeles:20240516T183000
 DTEND;TZID=America/Los_Angeles:20240516T203000
@@ -414,12 +430,13 @@ DESCRIPTION:Meet with local Wikipedians and work on your Wikipedia to-do li
  //en.wikipedia.org/wiki/Wikipedia:BayAreaWikiSalon\n\n\nhttps://bookwhen.c
  om/sequoiafabrica/e/ev-sr2l-20240516183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Learn to edit Wikipedia / Wikisalon
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sr2l-20240516183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240516190000
 DTSTART;TZID=America/Los_Angeles:20240516T190000
 DTEND;TZID=America/Los_Angeles:20240516T203000
@@ -435,12 +452,13 @@ DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
  sts. Invite your friends and family for an enriching experience.\n\n\nhttp
  s://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240516190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240516190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sfh5-20240518100000
 DTSTART;TZID=America/Los_Angeles:20240518T100000
 DTEND;TZID=America/Los_Angeles:20240518T123000
@@ -460,12 +478,13 @@ DESCRIPTION:We get it: when you become a parent\, it becomes difficult to f
   the workshop at extra cost. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/e
  v-sfh5-20240518100000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Parents and Kids Make Saturdays: Make Wings!
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sfh5-20240518100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sgkz-20240523191500
 DTSTART;TZID=America/Los_Angeles:20240523T191500
 DTEND;TZID=America/Los_Angeles:20240523T204500
@@ -479,24 +498,26 @@ DESCRIPTION:Are you a fiber artist? Are you an artist working with textile?
  nd textile\, Wearable art\, performance...\n\n\nhttps://bookwhen.com/sequo
  iafabrica/e/ev-sgkz-20240523191500
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Bay Area Fibers Artists and Designers meetup
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sgkz-20240523191500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s2yz-20240528180000
 DTSTART;TZID=America/Los_Angeles:20240528T180000
 DTEND;TZID=America/Los_Angeles:20240528T220000
 DESCRIPTION:Sequoia Fabrica's facilities are closed at this time.\n\n\nhttp
  s://bookwhen.com/sequoiafabrica/e/ev-s2yz-20240528180000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space Closed
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s2yz-20240528180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s6ck-20240529183000
 DTSTART;TZID=America/Los_Angeles:20240529T183000
 DTEND;TZID=America/Los_Angeles:20240529T203000
@@ -512,12 +533,13 @@ DESCRIPTION:Come enjoy an evening making your own Bookplate and learning so
  ryone will receive a small Linoleum block for making the stamp.\n\n\nhttps
  ://bookwhen.com/sequoiafabrica/e/ev-s6ck-20240529183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Linocut/Printmaking Basics
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s6ck-20240529183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-stz8-20240603193000
 DTSTART;TZID=America/Los_Angeles:20240603T193000
 DTEND;TZID=America/Los_Angeles:20240603T210000
@@ -543,12 +565,13 @@ DESCRIPTION:Are you a knitter and curious about knitting machines? Are you
  : https://donate.sequoiafabrica.org\n\n\nhttps://bookwhen.com/sequoiafabri
  ca/e/ev-stz8-20240603193000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Knit a Pillow Cover - and learn to use a knitting machine
 URL:https://bookwhen.com/sequoiafabrica/e/ev-stz8-20240603193000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sl1e-20240604190000
 DTSTART;TZID=America/Los_Angeles:20240604T190000
 DTEND;TZID=America/Los_Angeles:20240604T203000
@@ -562,12 +585,13 @@ DESCRIPTION:Learn domestic sewing machine basics\, including how to set up
   class is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sl1e-2024060
  4190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sl1e-20240604190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-ss2m-20240605110000
 DTSTART;TZID=America/Los_Angeles:20240605T110000
 DTEND;TZID=America/Los_Angeles:20240605T123000
@@ -581,12 +605,13 @@ DESCRIPTION:A sewing workshop for expecting and new parents (no experience
   even easier projects like bibs.\n\n\nhttps://bookwhen.com/sequoiafabrica/
  e/ev-ss2m-20240605110000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sew your Baby’s First Lovey
 URL:https://bookwhen.com/sequoiafabrica/e/ev-ss2m-20240605110000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s8v4-20240606190000
 DTSTART;TZID=America/Los_Angeles:20240606T190000
 DTEND;TZID=America/Los_Angeles:20240606T210000
@@ -604,12 +629,13 @@ DESCRIPTION:Dive into the art of spoon-making in our hands-on workshop desi
   the spoons with a coating of beeswax to seal and protect the wood\n\n\nht
  tps://bookwhen.com/sequoiafabrica/e/ev-s8v4-20240606190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Spoonmaking and Engraving
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s8v4-20240606190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s03z-20240610200000
 DTSTART;TZID=America/Los_Angeles:20240610T200000
 DTEND;TZID=America/Los_Angeles:20240610T213000
@@ -623,12 +649,13 @@ DESCRIPTION:In this class\, you will make a mini quilt\, to discover and pr
  it off by hand)\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-s03z-2024061
  0200000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Your first Sewing Project: Mini-quilt
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s03z-20240610200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s5ou-20240613183000
 DTSTART;TZID=America/Los_Angeles:20240613T183000
 DTEND;TZID=America/Los_Angeles:20240613T203000
@@ -643,12 +670,13 @@ DESCRIPTION:Meet with local Wikipedians and work on your Wikipedia to-do li
  //en.wikipedia.org/wiki/Wikipedia:BayAreaWikiSalon\n\n\nhttps://bookwhen.c
  om/sequoiafabrica/e/ev-s5ou-20240613183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Learn to edit Wikipedia / Wikisalon
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s5ou-20240613183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sw6l-20240618190000
 DTSTART;TZID=America/Los_Angeles:20240618T190000
 DTEND;TZID=America/Los_Angeles:20240618T203000
@@ -662,12 +690,13 @@ DESCRIPTION:Learn domestic sewing machine basics\, including how to set up
   class is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sw6l-2024061
  8190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sw6l-20240618190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-st5x-20240619190000
 DTSTART;TZID=America/Los_Angeles:20240619T190000
 DTEND;TZID=America/Los_Angeles:20240619T203000
@@ -679,12 +708,13 @@ DESCRIPTION:Join us to learn the basics of 3D printing\, including:\n- how
   printers. Participants will leave with a small 3D printed object. \n\n\nh
  ttps://bookwhen.com/sequoiafabrica/e/ev-st5x-20240619190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Introduction to 3D printing
 URL:https://bookwhen.com/sequoiafabrica/e/ev-st5x-20240619190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240620190000
 DTSTART;TZID=America/Los_Angeles:20240620T190000
 DTEND;TZID=America/Los_Angeles:20240620T203000
@@ -700,12 +730,13 @@ DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
  sts. Invite your friends and family for an enriching experience.\n\n\nhttp
  s://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240620190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240620190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s680-20240625190000
 DTSTART;TZID=America/Los_Angeles:20240625T190000
 DTEND;TZID=America/Los_Angeles:20240625T210000
@@ -721,24 +752,26 @@ DESCRIPTION:This class is for people wanting to learn about screenprinting\
  attendees interested in screenprinting at home.\n\n\nhttps://bookwhen.com/
  sequoiafabrica/e/ev-s680-20240625190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Introduction to screenprinting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s680-20240625190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20240626190000
 DTSTART;TZID=America/Los_Angeles:20240626T190000
 DTEND;TZID=America/Los_Angeles:20240626T210000
 DESCRIPTION:Space reserved for a private event.\n\n\nhttps://bookwhen.com/s
  equoiafabrica/e/ev-sclq-20240626190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space closed
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20240626190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sed3-20240627190000
 DTSTART;TZID=America/Los_Angeles:20240627T190000
 DTEND;TZID=America/Los_Angeles:20240627T203000
@@ -753,12 +786,13 @@ DESCRIPTION:This is the first event in a series exploring film documenting
   (https://archive.org/details/@seqmax/lists/1/sequoia-presents...-tools)!\
  n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sed3-20240627190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sequoia Presents: Tools in the 21st Century
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sed3-20240627190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sgs1-20240702194500
 DTSTART;TZID=America/Los_Angeles:20240702T194500
 DTEND;TZID=America/Los_Angeles:20240702T211500
@@ -772,31 +806,13 @@ DESCRIPTION:In this class\, you will make a mini quilt\, to discover and pr
  it off by hand)\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sgs1-2024070
  2194500
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Your first Sewing Project: Mini-quilt
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sgs1-20240702194500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
-UID:bwnp-x3ixm04f5wj7-ev-sxfa-20240706110000
-DTSTART;TZID=America/Los_Angeles:20240706T110000
-DTEND;TZID=America/Los_Angeles:20240706T123000
-DESCRIPTION:A sewing workshop for expecting and new parents (no experience 
- required). Meet expecting or new parents and make a one-of-a-kind gift for
-  your little one. Sewing is a surprisingly easy hobby to pick-up in your f
- ourth trimester! The instructor is herself the mom of a toddler.\nWe will 
- be sewing a velveteen rabbit (in reference to the beloved children classic
- ) using organic fabric. Several colors are available. We are providing the
-  pattern and the materials. \nIf baby isn't cooperative\, we will focus on
-  even easier projects like bibs.\n\n\nhttps://bookwhen.com/sequoiafabrica/
- e/ev-sxfa-20240706110000
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-STATUS:CONFIRMED
-SUMMARY:Sew your Baby’s First Lovey
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sxfa-20240706110000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sok7-20240709190000
 DTSTART;TZID=America/Los_Angeles:20240709T190000
 DTEND;TZID=America/Los_Angeles:20240709T203000
@@ -810,12 +826,13 @@ DESCRIPTION:Learn domestic sewing machine basics\, including how to set up
   class is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sok7-2024070
  9190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sok7-20240709190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-slae-20240710190000
 DTSTART;TZID=America/Los_Angeles:20240710T190000
 DTEND;TZID=America/Los_Angeles:20240710T203000
@@ -827,12 +844,13 @@ DESCRIPTION:Join us to learn the basics of 3D printing\, including:\n- how
   printers. Participants will leave with a small 3D printed object. \n\n\nh
  ttps://bookwhen.com/sequoiafabrica/e/ev-slae-20240710190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Introduction to 3D printing
 URL:https://bookwhen.com/sequoiafabrica/e/ev-slae-20240710190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s36g-20240711183000
 DTSTART;TZID=America/Los_Angeles:20240711T183000
 DTEND;TZID=America/Los_Angeles:20240711T203000
@@ -847,12 +865,13 @@ DESCRIPTION:Meet with local Wikipedians and work on your Wikipedia to-do li
  //en.wikipedia.org/wiki/Wikipedia:Meetup/San_Francisco\n\n\nhttps://bookwh
  en.com/sequoiafabrica/e/ev-s36g-20240711183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Learn to Edit Wikipedia / Wikisalon
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s36g-20240711183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sf3i-20240711190000
 DTSTART;TZID=America/Los_Angeles:20240711T190000
 DTEND;TZID=America/Los_Angeles:20240711T210000
@@ -870,12 +889,33 @@ DESCRIPTION:Dive into the art of spoon-making in our hands-on workshop desi
   the spoons with a coating of beeswax to seal and protect the wood\n\n\nht
  tps://bookwhen.com/sequoiafabrica/e/ev-sf3i-20240711190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Spoonmaking and Engraving
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sf3i-20240711190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
+UID:bwnp-x3ixm04f5wj7-ev-sxfa-20240713110000
+DTSTART;TZID=America/Los_Angeles:20240713T110000
+DTEND;TZID=America/Los_Angeles:20240713T123000
+DESCRIPTION:A sewing workshop for expecting and new parents (no experience 
+ required). Meet expecting or new parents and make a one-of-a-kind gift for
+  your little one. Sewing is a surprisingly easy hobby to pick-up in your f
+ ourth trimester! The instructor is herself the mom of a toddler.\nWe will 
+ be sewing a velveteen rabbit (in reference to the beloved children classic
+ ) using organic fabric. Several colors are available. We are providing the
+  pattern and the materials. \nIf baby isn't cooperative\, we will focus on
+  even easier projects like bibs.\n\n\nhttps://bookwhen.com/sequoiafabrica/
+ e/ev-sxfa-20240713110000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
+STATUS:CONFIRMED
+SUMMARY:Sew your Baby’s First Lovey
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sxfa-20240713110000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-svec-20240716183000
 DTSTART;TZID=America/Los_Angeles:20240716T183000
 DTEND;TZID=America/Los_Angeles:20240716T193000
@@ -889,12 +929,13 @@ DESCRIPTION:This class is for crafters who want to understand fabrics in mo
  6-5468 if you need to cancel so we can open up the spot to others\nAges 12
   and up\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-svec-20240716183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sewing: Selecting the Perfect Fabric for Your Projects
 URL:https://bookwhen.com/sequoiafabrica/e/ev-svec-20240716183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-slk3-20240716183000
 DTSTART;TZID=America/Los_Angeles:20240716T183000
 DTEND;TZID=America/Los_Angeles:20240716T203000
@@ -910,12 +951,13 @@ DESCRIPTION:Come enjoy an evening making your own Bookplate and learning so
  ryone will receive a small Linoleum block for making the stamp.\n\n\nhttps
  ://bookwhen.com/sequoiafabrica/e/ev-slk3-20240716183000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Linocut/Printmaking Basics
 URL:https://bookwhen.com/sequoiafabrica/e/ev-slk3-20240716183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sw1n-20240717190000
 DTSTART;TZID=America/Los_Angeles:20240717T190000
 DTEND;TZID=America/Los_Angeles:20240717T203000
@@ -926,12 +968,13 @@ DESCRIPTION:Come learn how to use a laser cutter! This class will cover:\np
   leave with a laser cut piece.\n\n\nhttps://bookwhen.com/sequoiafabrica/e/
  ev-sw1n-20240717190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Introduction to laser cutting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sw1n-20240717190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240718190000
 DTSTART;TZID=America/Los_Angeles:20240718T190000
 DTEND;TZID=America/Los_Angeles:20240718T203000
@@ -947,12 +990,13 @@ DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
  sts. Invite your friends and family for an enriching experience.\n\n\nhttp
  s://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240718190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240718190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sp2c-20240723194500
 DTSTART;TZID=America/Los_Angeles:20240723T194500
 DTEND;TZID=America/Los_Angeles:20240723T211500
@@ -978,24 +1022,26 @@ DESCRIPTION:Are you a knitter and curious about knitting machines? Are you
  : https://donate.sequoiafabrica.org\n\n\nhttps://bookwhen.com/sequoiafabri
  ca/e/ev-sp2c-20240723194500
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Knit a Pillow Cover - and learn to use a knitting machine
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sp2c-20240723194500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20240724190000
 DTSTART;TZID=America/Los_Angeles:20240724T190000
 DTEND;TZID=America/Los_Angeles:20240724T210000
 DESCRIPTION:Space reserved for a private event.\n\n\nhttps://bookwhen.com/s
  equoiafabrica/e/ev-sclq-20240724190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space closed
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20240724190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sdzz-20240731193000
 DTSTART;TZID=America/Los_Angeles:20240731T193000
 DTEND;TZID=America/Los_Angeles:20240731T203000
@@ -1007,12 +1053,13 @@ DESCRIPTION:Create a tapered beeswax candle at this fun and quick workshop!
  y candles\n- 2 tapered candles\n- 1 spiral taper candle\n\n\nhttps://bookw
  hen.com/sequoiafabrica/e/ev-sdzz-20240731193000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Dip Candlestick Making
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sdzz-20240731193000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s7co-20240806190000
 DTSTART;TZID=America/Los_Angeles:20240806T190000
 DTEND;TZID=America/Los_Angeles:20240806T200000
@@ -1026,90 +1073,98 @@ DESCRIPTION:Learn domestic sewing machine basics\, including how to set up
   class is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-s7co-2024080
  6190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s7co-20240806190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20240821190000
 DTSTART;TZID=America/Los_Angeles:20240821T190000
 DTEND;TZID=America/Los_Angeles:20240821T210000
 DESCRIPTION:Space reserved for a private event.\n\n\nhttps://bookwhen.com/s
  equoiafabrica/e/ev-sclq-20240821190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space closed
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20240821190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20240918190000
 DTSTART;TZID=America/Los_Angeles:20240918T190000
 DTEND;TZID=America/Los_Angeles:20240918T210000
 DESCRIPTION:Space reserved for a private event.\n\n\nhttps://bookwhen.com/s
  equoiafabrica/e/ev-sclq-20240918190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space closed
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20240918190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20241016190000
 DTSTART;TZID=America/Los_Angeles:20241016T190000
 DTEND;TZID=America/Los_Angeles:20241016T210000
 DESCRIPTION:Space reserved for a private event.\n\n\nhttps://bookwhen.com/s
  equoiafabrica/e/ev-sclq-20241016190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space closed
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20241016190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-s2dg-20241025100000
 DTSTART;TZID=America/Los_Angeles:20241025T100000
 DTEND;TZID=America/Los_Angeles:20241025T170000
 DESCRIPTION:Sewing area is closed at this time. \n\n\nhttps://bookwhen.com/
  sequoiafabrica/e/ev-s2dg-20241025100000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space closed 
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s2dg-20241025100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sjbg-20241026100000
 DTSTART;TZID=America/Los_Angeles:20241026T100000
 DTEND;TZID=America/Los_Angeles:20241026T170000
 DESCRIPTION:Sewing area is closed at this time.\n\n\nhttps://bookwhen.com/s
  equoiafabrica/e/ev-sjbg-20241026100000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space Closed
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sjbg-20241026100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sich-20241027100000
 DTSTART;TZID=America/Los_Angeles:20241027T100000
 DTEND;TZID=America/Los_Angeles:20241027T170000
 DESCRIPTION:Sewing area is closed at this time.\n\n\nhttps://bookwhen.com/s
  equoiafabrica/e/ev-sich-20241027100000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space Closed
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sich-20241027100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240625T100534Z
+DTSTAMP:20240626T100533Z
 UID:bwnp-x3ixm04f5wj7-ev-sy64-20241028100000
 DTSTART;TZID=America/Los_Angeles:20241028T100000
 DTEND;TZID=America/Los_Angeles:20241028T170000
 DESCRIPTION:Sewing area is closed at this time.\n\n\nhttps://bookwhen.com/s
  equoiafabrica/e/ev-sy64-20241028100000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
 SUMMARY:Space Closed
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sy64-20241028100000
