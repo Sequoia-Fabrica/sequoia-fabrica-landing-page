@@ -41,7 +41,7 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({ images }) => {
     };
 
     return (
-        <div className="relative w-screen h-[400px] overflow-hidden">
+        <div className="relative w-screen h-[200px] md:h-[400px] overflow-hidden">
             <div className="absolute inset-0 flex transition-transform duration-300 ease-in-out"
                 style={{
                     transform: `translateX(-${currentIndex * 100 / shuffledImages.length}%)`,
@@ -49,7 +49,7 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({ images }) => {
                 }}>
                 {shuffledImages.map((image, index) => (
                     <div key={index}
-                        className="w-full h-[400px] relative" // Adjust each image container to take full width
+                        className="w-full h-[200px] md:h-[400px] relative" // Adjust each image container to take full width
                         style={{ width: `${100 / shuffledImages.length}%` }}>
                         <Image src={image} layout="fill" objectFit="cover" alt={`Slide ${index + 1}`} />
                     </div>
@@ -59,13 +59,13 @@ const ImageCarousel: React.FC<ImageCarouselProps> = ({ images }) => {
                 className="absolute top-1/2 left-4 transform -translate-y-1/2 bg-black bg-opacity-50 text-white p-2"
                 onClick={goToPrevious}
             >
-                Prev
+                ←
             </button>
             <button
                 className="absolute top-1/2 right-4 transform -translate-y-1/2 bg-black bg-opacity-50 text-white p-2"
                 onClick={goToNext}
             >
-                Next
+                →
             </button>
         </div>
     );
