@@ -3,6 +3,7 @@ import Calendar from "@/src/components/Calendar/Calendar";
 import { getCalendar } from "../common/calendarMap";
 import { urlConstants } from "../text/urlConstants";
 import Link from "next/link";
+import ImageCarousel from "../components/Carousel/ImageCarousel";
 
 export default function Home() {
 
@@ -37,7 +38,7 @@ export default function Home() {
 
   return (
     <div className="App">
-      <div className="bg-cover bg-center w-screen bg-[url('/sequoia-banner.png')] h-[300px]"></div>
+      <ImageCarousel images={["/images/banner_1.jpg", "/images/banner_2.jpg", "/images/banner_3.jpg", "/images/banner_4.jpg"]} />
       <div className="About m-4 max-w-screen-md mx-auto grid grid-cols-2 gap-4 p-8">
         <div className="col-span-2">
             <p>We are Sequoia Fabrica, an intergenerational community workshop in <a href={urlConstants.googleMaps}>San Francisco’s Potrero Hill neighborhood</a> fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and a laser cutter, electronics, crafts and fine arts stations. </p>
