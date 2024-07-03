@@ -23,7 +23,7 @@ export default function NavigationBar() {
                     <NavigationBarItem name='Events' url={urlConstants.bookWhen} />
                     <NavigationBarItem name='Donate' url={urlConstants.openCollective} />
                     <NavigationBarItem name='Membership' url='/docs/membership' />
-                    <NavigationBarItem name='FAQ' url='/docs/FAQ' />
+                    <NavigationBarItem name='FAQ' url='/docs/faq' />
                     <NavigationBarItem name='Partner' url='/docs/partner' />
                     <NavigationBarItem name='Contact' url='/docs/contact' />
                 </div>
