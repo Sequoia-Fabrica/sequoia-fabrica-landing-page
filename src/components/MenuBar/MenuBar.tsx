@@ -17,7 +17,7 @@ const MenuBar: React.FC<MenuBarProps> = ({ isMenuOpen = false, selectHandler}) =
           <MenuBarItem name='Events' url={urlConstants.bookWhen} handler={selectHandler}/>
           <MenuBarItem name='Donate' url={urlConstants.openCollective} handler={selectHandler}/>
           <MenuBarItem name='Membership' url='/docs/membership' handler={selectHandler}/>
-          <MenuBarItem name='About' url='/docs/about' handler={selectHandler}/>
+          <MenuBarItem name='FAQ' url='/docs/faq' handler={selectHandler}/>
           <MenuBarItem name='Contact' url='/docs/contact' handler={selectHandler}/>
       </ul>
     );

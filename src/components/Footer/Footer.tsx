@@ -18,7 +18,7 @@ export default function Footer() {
 
     const getEventsItem = () => {
         return (
-            { name: "Events and Classes", href: urlConstants.bookWhen, iconName: "meetup" }
+            { name: "Events and Classes", href: urlConstants.bookWhen, iconName: "calendar" }
         );
     };
 
@@ -34,9 +34,9 @@ export default function Footer() {
         );
     }
     
-    const getFAQ = () => {
+    const getAbout = () => {
         return (
-            { name:"FAQ", href: "/docs/faq", iconName: 'question' }
+            { name:"About", href: "/docs/about", iconName: 'question' }
         );
     }
 
@@ -52,7 +52,7 @@ export default function Footer() {
         getDonationItem(),
         getContactItem(),
         getCodeOfConduct(),
-        getFAQ(),
+        getAbout(),
         getWiki(),
     ];
 
