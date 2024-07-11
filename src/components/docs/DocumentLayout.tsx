@@ -11,9 +11,9 @@ interface LayoutProps {
 export default function MdxLayout({ children, ...props}: LayoutProps ) {
     // Create any shared layout or styles here
 
-    const { title, description } = props.metadata ? props.metadata: {};
+    const { title, description } = props.metadata;
     const defaultTitle = title ? `${title} | Sequoia Fabrica` : "Sequoia Fabrica";
-    const defaultDescription = description || "Default description";
+    const defaultDescription = description || "";
 
     // Create any shared layout or styles here
     return (    
