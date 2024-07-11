@@ -4,8 +4,16 @@ import { getCalendar } from "../common/calendarMap";
 import { urlConstants } from "../text/urlConstants";
 import Link from "next/link";
 import ImageCarousel from "../components/Carousel/ImageCarousel";
+import Head from "next/head"
+
+
 
 export default function Home() {
+
+  const metadata = {
+    title: "Sequoia Fabrica Makerspace",
+    description: "Volunteer-run, membership-based, community workshop in San Francisco. Classes and tools for woodworking, sewing, electronics, and fabrication."
+  }
 
   const mailchimpHTML = `<div id="mc_embed_shell">
   
@@ -36,8 +44,13 @@ export default function Home() {
   const mailchimpSanitized = DOMPurify.sanitize(mailchimpHTML);
   
 
+
   return (
     <div className="App">
+        <Head>
+            <title key="metatitle">{metadata.title}</title>
+            <meta key="metadesc" name="description" content={metadata.description} />
+        </Head>
       <ImageCarousel images={["/images/banner_1.jpg", "/images/banner_2.jpg", "/images/banner_3.jpg", "/images/banner_4.jpg", "/images/banner_5.jpg"]} />
       <div className="About m-4 max-w-screen-md mx-auto grid grid-cols-2 gap-4 p-8">
         <div className="col-span-2">

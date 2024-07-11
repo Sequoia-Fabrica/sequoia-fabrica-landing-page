@@ -1,5 +1,8 @@
 import DocumentLayout from '@/src/components/docs/DocumentLayout'
-
+export const metadata = {
+  title: "Frequently Asked Questions",
+  description: "Frequently asked questions about Sequoia Fabrica Makerspace."
+};
 
 # Frequently Asked Questions
 
@@ -112,5 +115,5 @@ Fabrica comes from the Latin word meaning workshop or factory. It also evokes fa
 Conveniently, our initials are S.F.
 
 export default function MDXPage({ children }) {
-  return <DocumentLayout>{children}</DocumentLayout>;
+  return <DocumentLayout metadata={metadata}>{children}</DocumentLayout>;
 }

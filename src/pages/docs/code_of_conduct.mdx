@@ -1,5 +1,10 @@
 import DocumentLayout from '@/src/components/docs/DocumentLayout'
 
+export const metadata = {
+  title: "Code Of Conduct",
+  description: "Sequoia Fabrica's Code Of Conduct."
+};
+
 # Code of Conduct
 
 This code of conduct applies to all events and spaces sponsored by Sequoia Fabrica (SF), including our physical locations, website, mailing lists, social media, and chat. 
@@ -12,7 +17,7 @@ We ask you to be aware that conversations or actions that may be appropriate wit
 
 The Sequoia Fabrica (SF) community is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form, including:
 
-- Offensive comments related to gender, gender identity, sexual orientation, disability, appearance, race, ethnicity, religion, etc.
+- Offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, etc.
 - Intimidation, stalking, following
 - Disrupting events
 - Threats of violence
@@ -21,38 +26,32 @@ The Sequoia Fabrica (SF) community is dedicated to providing a harassment-free e
 - Physical contact without consent
 - Unwelcome sexual attention, unsolicited sexual images or content
 - Doxxing, maliciously revealing private information without consent
-- Deliberate misgendering and dead-naming
 - Harassing photography or recording, including logging online activity for harassment purposes
 - Spamming, denial of service attacks, hacking of personal devices or accounts without consent
-
-### Reporting 
-
-If you experience or witness harassment, reach out to sequoiafabrica@gmail.com. If you are in immediate danger, do not hesitate to enlist the help of those around you, or, if necessary, call 911.
 
 ### Sequoia Fabrica will not act on complaints regarding:
 
 - Reasonable communication of personal boundaries
 - Necessary measures to protect our community from serious, deliberate harm
 
-## Workshop Policies
+## Reporting & Enforcement
 
-* Follow all safety procedures, as instructed by maintainers
-* Report unsafe conditions, broken equipment, and other incidents promptly
-* Keep the workspace clean and orderly 
-* Use tools and materials responsibly, as directed by maintainers
+Participants asked to stop any harassing behavior are expected to comply immediately.
 
-## Enforcement
-
-Members and visitors are empowered to ask anyone violating this code of conduct to cease the behavior and/or leave the space immediately. Further sanctions may be applied at the discretion of the Board.
+All members and visitors are empowered to ask anyone violating this code of conduct or making others feel unwelcome to cease and/or leave the space. Further sanctions may be applied at the discretion of the Board.
 
 The Board may take any action they deem appropriate, including warning an offender, suspension of membership, temporary or permanent expulsion from Sequoia Fabrica spaces and events without refund or notice. 
 
 Contact the Board with any questions or concerns in person or at [sequoiafabrica@gmail.com](mailto:sequoiafabrica@gmail.com).
 
-This code of conduct draws from [Double Union](https://doubleunion.org/policies/#code-of-conduct), [Recurse Center](https://www.recurse.com/code-of-conduct), and [Hackers On Planet Earth](https://hope.net/codeofconduct.html). It is licensed under CC0, attribution is not required.
+## Workshop Policies
 
-Last updated: Jan 25, 2024
+* Follow all safety procedures, use tools and materials as instructed by maintainers
+* Report unsafe conditions, broken equipment, and other incidents promptly
+* Keep the workspace clean and orderly 
+
+Last updated: Jul 11, 2024
 
 export default function MDXPage({ children }) {
-  return <DocumentLayout>{children}</DocumentLayout>;
+  return <DocumentLayout metadata={metadata}>{children}</DocumentLayout>;
 }
