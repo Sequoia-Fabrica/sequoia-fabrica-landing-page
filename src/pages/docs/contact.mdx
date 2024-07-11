@@ -1,6 +1,11 @@
 import DocumentLayout from '@/src/components/docs/DocumentLayout'
 import { urlConstants } from '@/src/text/urlConstants';
 
+export const metadata = {
+  title: "Contact",
+  description: "Get in touch with Sequoia Fabrica Makerspace."
+};
+
 # Contacting Us
 
 Sequoia Fabrica run by members and volunteers. If you need to contact the board of directors, you can send an email to <a href={urlConstants.mailto}>sequoiafabrica@gmail.com</a>
@@ -21,7 +26,6 @@ You can follow updates on our organization through the platforms below, or if yo
 
 - <a href={urlConstants.openCollective}>Open Collective</a>
 
-
 export default function MDXPage({ children }) {
-  return <DocumentLayout>{children}</DocumentLayout>;
+  return <DocumentLayout metadata={metadata}>{children}</DocumentLayout>;
 }

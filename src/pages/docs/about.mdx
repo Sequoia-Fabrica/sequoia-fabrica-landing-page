@@ -1,5 +1,10 @@
 import DocumentLayout from '@/src/components/docs/DocumentLayout'
 
+export const metadata = {
+  title: "About Sequoia Fabrica",
+  description: ""
+};
+
 # About Sequoia Fabrica
 
 Welcome to Sequoia Fabrica, an intergenerational community workshop fostering the makers of today and tomorrow in San Francisco. 
@@ -27,5 +32,5 @@ As we embark on this exciting journey, we invite you to be a part of Sequoia Fab
 Take a look at our [FAQ](./faq) page.
 
 export default function MDXPage({ children }) {
-  return <DocumentLayout>{children}</DocumentLayout>;
+  return <DocumentLayout metadata={metadata}>{children}</DocumentLayout>;
 }

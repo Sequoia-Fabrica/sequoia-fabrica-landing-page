@@ -1,6 +1,11 @@
 import DocumentLayout from '@/src/components/docs/DocumentLayout'
 import Callout from '@/src/components/Callout/Callout'
 import { urlConstants } from '@/src/text/urlConstants';
+export const metadata = {
+
+  title: "Membership",
+  description: "Join Sequoia Fabrica as a member."
+};
 
 # Membership at Sequoia Fabrica
 
@@ -8,7 +13,7 @@ import { urlConstants } from '@/src/text/urlConstants';
 
 We're thrilled you're interested in joining our community of artists, creators, and makers. 
 
-As a member, you'll have access to tools, equipment, and space to bring your projects to life. But more importantly, you'll be part of a passionate community that thrives on sharing knowledge, exchanging ideas, and working together.
+As a member, you'll have 24/7 access to tools, equipment, and space to bring your projects to life. But more importantly, you'll be part of a passionate community that thrives on sharing knowledge, exchanging ideas, and working together.
 
 ## Membership Types
 - **Sponsor Membership:** Our sponsor membership is priced at **$200 per month**. Sponsors help provide scholarships for those who can not afford classes or full membership dues.
@@ -47,5 +52,5 @@ We've tried to make the process for membership as straightforward as possible. I
 Check our [FAQ page](./faq) for answers. If you don't find what you are looking for, please [reach out to us](./contact).
 
 export default function MDXPage({ children }) {
-  return <DocumentLayout>{children}</DocumentLayout>;
+  return <DocumentLayout metadata={metadata}>{children}</DocumentLayout>;
 }

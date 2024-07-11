@@ -1,5 +1,9 @@
 import DocumentLayout from '@/src/components/docs/DocumentLayout'
 import { urlConstants } from '@/src/text/urlConstants';
+export const metadata = {
+  title: "Partner",
+  description: "Partner with Sequoia Fabrica for team building and community events."
+};
 
 # Partner With Us
 
@@ -18,5 +22,5 @@ Looking for a unique and engaging team-building experience? We offer a variety o
 Our intimate space is perfect for hosting a variety of events, from workshops and meetings to community gatherings. We offer flexible rental options and can accommodate your needs.
 
 export default function MDXPage({ children }) {
-  return <DocumentLayout>{children}</DocumentLayout>;
+  return <DocumentLayout metadata={metadata}>{children}</DocumentLayout>;
 }
