@@ -8,5 +8,6 @@ export const urlConstants = {
     googleMaps: "https://maps.app.goo.gl/pfgdThhr7yy42nGZA",
     mastodon: "https://sfba.social/@sequoiafabrica",
     wiki: "https://wiki.sequoiafabrica.org/wiki",
-    tiktok: "https://www.tiktok.com/@sequoiafabrica"
+    tiktok: "https://www.tiktok.com/@sequoiafabrica",
+    donate: "https://donate.stripe.com/eVa14Mef87bM7XGeUU"
 }
