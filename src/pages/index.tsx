@@ -55,7 +55,7 @@ export default function Home() {
       <div className="About m-4 max-w-screen-md mx-auto grid grid-cols-2 gap-4 p-8">
         <div className="col-span-2">
             <p>We are Sequoia Fabrica, an intergenerational community workshop in <a href={urlConstants.googleMaps}>San Francisco’s Potrero Hill neighborhood</a> fostering the next generation of makers, designers and craftspeople. We’re home to a wood and textile workshop, 3D printers and a laser cutter, electronics, crafts and fine arts stations. </p>
-            <p>We are a volunteer-run 501(c)(3) non-profit, and host <a href={urlConstants.bookWhen}>classes, events and workshop hours</a> open to the public. </p>
+            <p>We are a volunteer-run 501(c)(3) non-profit, and host <a href={urlConstants.bookWhen} data-goatcounter-click={urlConstants.bookWhen}>classes, events and workshop hours</a> open to the public. </p>
             <p>We offer <Link href={'/docs/membership'}>memberships</Link> for makers who want to access the space and equipment outside of classes. Want to teach a class or organize an event at Sequoia? Please <Link href="/docs/contact">contact us</Link>.</p>
             <hr/>
           </div>
@@ -63,7 +63,7 @@ export default function Home() {
         <div className="col-span-2 md:col-span-1">
           <h2>Visit and Learn a New Skill</h2>
           <p>We are open to the public for events.</p>
-          <p>Sign-up <a href={urlConstants.bookWhen}>for a class</a>, or <Link href="/docs/contact">contact us</Link>.</p>
+          <p>Sign-up <a href={urlConstants.bookWhen} data-goatcounter-click={urlConstants.bookWhen}>for a class</a>, or <Link href="/docs/contact">contact us</Link>.</p>
         </div>  
         <div className="col-span-2 md:col-span-1">
           <h2>Stay in Touch!</h2>
@@ -83,7 +83,7 @@ export default function Home() {
         <hr className="col-span-2"/>
         <div className="col-span-2 md:col-span-1">
           <h2>Donations</h2>
-          <p>Please support makers of today and tomorrow with a <a href={urlConstants.openCollective}>donation</a>! We are a California Public Benefit Corporation and tax-exempt public charity under Section 501(c)(3). EIN: 93-4496044</p>
+          <p>Please support makers of today and tomorrow with a <a href={urlConstants.donateOC} data-goatcounter-click={urlConstants.donateOC}>donation</a>! We are a California Public Benefit Corporation and tax-exempt public charity under Section 501(c)(3). EIN: 93-4496044</p>
         </div>
         <div className="col-span-2 md:col-span-1">
           <h2>Code of Conduct</h2>
