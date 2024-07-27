@@ -12,19 +12,19 @@ export default function Footer() {
 
     const getInstagramItem = () => {
         return (
-            { name: "Instagram", href: urlConstants.instagram, iconName: "instagram" }
+            { name: "Instagram", href: urlConstants.instagram, iconName: "instagram", goatCounter: urlConstants.instagram }
         );
     }
 
     const getEventsItem = () => {
         return (
-            { name: "Events and Classes", href: urlConstants.bookWhen, iconName: "calendar" }
+            { name: "Events and Classes", href: urlConstants.bookWhen, iconName: "calendar", goatCounter: urlConstants.bookWhen }
         );
     };
 
     const getDonationItem = () => {
         return (
-            { name: "Donate", href: urlConstants.openCollective, iconName: "present" }
+            { name: "Donate", href: urlConstants.donateStripe, iconName: "present", goatCounter: urlConstants.donateStripe }
         );
     };
 
@@ -42,7 +42,7 @@ export default function Footer() {
 
     const getWiki = () => {
         return (
-            { name:"Wiki", href: urlConstants.wiki, iconName:'globe' }
+            { name:"Wiki", href: urlConstants.wiki, iconName:'globe', goatCounter:urlConstants.wiki }
         );
     }
 
