@@ -25,6 +25,7 @@ export default function NavigationBar() {
                     <NavigationBarItem name='Membership' url='/docs/membership' />
                     <NavigationBarItem name='FAQ' url='/docs/faq' />
                     <NavigationBarItem name='Partner' url='/docs/partner' />
+                    <NavigationBarItem name='About' url='/docs/about' />
                     <NavigationBarItem name='Contact' url='/docs/contact' />
                 </div>
 
