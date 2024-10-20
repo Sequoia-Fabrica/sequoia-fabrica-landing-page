@@ -18,6 +18,8 @@ const MenuBar: React.FC<MenuBarProps> = ({ isMenuOpen = false, selectHandler}) =
           <MenuBarItem name='Donate' url={urlConstants.donateOC} data-goatcounter-click={urlConstants.donateOC} handler={selectHandler}/>
           <MenuBarItem name='Membership' url='/docs/membership' handler={selectHandler}/>
           <MenuBarItem name='FAQ' url='/docs/faq' handler={selectHandler}/>
+          <MenuBarItem name='Partner' url='/docs/partner' handler={selectHandler}/>
+          <MenuBarItem name='About' url='/docs/about' handler={selectHandler}/>
           <MenuBarItem name='Contact' url='/docs/contact' handler={selectHandler}/>
       </ul>
     );
