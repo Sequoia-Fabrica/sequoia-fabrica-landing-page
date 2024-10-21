@@ -70,7 +70,7 @@ export default function Footer() {
             <div>
                 <p className="p-4 text-center text-tea_green">
                     {copyright}
-                    <br />1736 18th St, San Francisco, CA 94107
+                    <br />1736 18th St San Francisco, CA 94107
                 </p>
             </div>
         </footer>
