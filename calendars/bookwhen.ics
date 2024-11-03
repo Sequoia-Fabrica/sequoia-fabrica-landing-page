@@ -8,7 +8,7 @@ X-WR-CALNAME:Public Events Schedule
 BEGIN:VTIMEZONE
 TZID:America/Los_Angeles
 BEGIN:DAYLIGHT
-DTSTART:20240310T030000
+DTSTART:20250309T030000
 TZOFFSETFROM:-0800
 TZOFFSETTO:-0700
 RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
@@ -23,39 +23,22 @@ TZNAME:PST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
-UID:bwnp-x3ixm04f5wj7-ev-sg9h-20240802100000
-DTSTART;TZID=America/Los_Angeles:20240802T100000
-DTEND;TZID=America/Los_Angeles:20240802T120000
-DESCRIPTION:Join us for a fun family workshop making doll furniture and res
- toring a doll house. You will have the opportunity to see several machines
-  in use - a laser cutter\, a 3D printer\, a vinyl cutter. You can bring a 
- doll house / furniture to work on\, paint and decorate one of our small do
- llhouse kit\, or help us restore a vintage dollhouse.\n\n\nhttps://bookwhe
- n.com/sequoiafabrica/e/ev-sg9h-20240802100000
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-ORGANIZER:mailto:sequoiafabrica@gmail.com
-STATUS:CONFIRMED
-SUMMARY:Dollhouse family and amateurs workshop
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sg9h-20240802100000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s0lv-20240805190000
 DTSTART;TZID=America/Los_Angeles:20240805T190000
 DTEND;TZID=America/Los_Angeles:20240805T230000
-DESCRIPTION:Sequoia Fabrica's monthly friends and family hack night. Bring 
- your project to work on or show and tell. Meet other makers!\nTalk with a 
- member or volunteer to RSVP and to learn this month's theme.\n\n\nhttps://
- bookwhen.com/sequoiafabrica/e/ev-s0lv-20240805190000
+DESCRIPTION:Sequoia Fabrica's monthly hack night for members\, volunteers\,
+  our friends\, colleagues\, and families.  Want to join us? Ask a member o
+ r volunteer to RSVP and learn this month's theme.\n\n\nhttps://bookwhen.co
+ m/sequoiafabrica/e/ev-s0lv-20240805190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
-SUMMARY:Hack Night
+SUMMARY:Monthly Hack Night: Members & Guests
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0lv-20240805190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sobb-20240806110000
 DTSTART;TZID=America/Los_Angeles:20240806T110000
 DTEND;TZID=America/Los_Angeles:20240806T123000
@@ -75,7 +58,7 @@ SUMMARY:Sew your Baby’s First Lovey
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sobb-20240806110000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s3qf-20240806190000
 DTSTART;TZID=America/Los_Angeles:20240806T190000
 DTEND;TZID=America/Los_Angeles:20240806T200000
@@ -97,7 +80,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s3qf-20240806190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s7co-20240806190000
 DTSTART;TZID=America/Los_Angeles:20240806T190000
 DTEND;TZID=America/Los_Angeles:20240806T200000
@@ -115,7 +98,7 @@ SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s7co-20240806190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s5lk-20240807183000
 DTSTART;TZID=America/Los_Angeles:20240807T183000
 DTEND;TZID=America/Los_Angeles:20240807T203000
@@ -133,7 +116,7 @@ SUMMARY:Your first sewing project: Make plastic-free reusable bulk food sho
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s5lk-20240807183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s6i0-20240808190000
 DTSTART;TZID=America/Los_Angeles:20240808T190000
 DTEND;TZID=America/Los_Angeles:20240808T203000
@@ -151,7 +134,7 @@ SUMMARY:Introduction to 3D printing
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s6i0-20240808190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sdh4-20240815184500
 DTSTART;TZID=America/Los_Angeles:20240815T184500
 DTEND;TZID=America/Los_Angeles:20240815T200000
@@ -183,7 +166,7 @@ SUMMARY:Introduction to Volunteering with Sequoia Fabrica
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sdh4-20240815184500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sl1x-20240815190000
 DTSTART;TZID=America/Los_Angeles:20240815T190000
 DTEND;TZID=America/Los_Angeles:20240815T200000
@@ -205,7 +188,7 @@ SUMMARY:Electronics: Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sl1x-20240815190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sgs4-20240820190000
 DTSTART;TZID=America/Los_Angeles:20240820T190000
 DTEND;TZID=America/Los_Angeles:20240820T200000
@@ -227,7 +210,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sgs4-20240820190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20240821190000
 DTSTART;TZID=America/Los_Angeles:20240821T190000
 DTEND;TZID=America/Los_Angeles:20240821T210000
@@ -241,7 +224,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20240821190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sm2o-20240822183000
 DTSTART;TZID=America/Los_Angeles:20240822T183000
 DTEND;TZID=America/Los_Angeles:20240822T203000
@@ -263,7 +246,7 @@ SUMMARY:Linocut/Printmaking Basics
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sm2o-20240822183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sk70-20240827193000
 DTSTART;TZID=America/Los_Angeles:20240827T193000
 DTEND;TZID=America/Los_Angeles:20240827T210000
@@ -281,7 +264,7 @@ SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sk70-20240827193000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-soer-20240831140000
 DTSTART;TZID=America/Los_Angeles:20240831T140000
 DTEND;TZID=America/Los_Angeles:20240831T180000
@@ -307,7 +290,7 @@ SUMMARY:Sewing/Patternmaking: Make A Personal Bodice Sloper
 URL:https://bookwhen.com/sequoiafabrica/e/ev-soer-20240831140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sr1b-20240831193000
 DTSTART;TZID=America/Los_Angeles:20240831T193000
 DTEND;TZID=America/Los_Angeles:20240831T203000
@@ -325,7 +308,7 @@ SUMMARY:Dip Candlestick Making
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sr1b-20240831193000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-shn9-20240901140000
 DTSTART;TZID=America/Los_Angeles:20240901T140000
 DTEND;TZID=America/Los_Angeles:20240901T180000
@@ -351,22 +334,22 @@ SUMMARY:Sewing/Patternmaking: Make A Personal Bodice Sloper
 URL:https://bookwhen.com/sequoiafabrica/e/ev-shn9-20240901140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s0lv-20240902190000
 DTSTART;TZID=America/Los_Angeles:20240902T190000
 DTEND;TZID=America/Los_Angeles:20240902T230000
-DESCRIPTION:Sequoia Fabrica's monthly friends and family hack night. Bring 
- your project to work on or show and tell. Meet other makers!\nTalk with a 
- member or volunteer to RSVP and to learn this month's theme.\n\n\nhttps://
- bookwhen.com/sequoiafabrica/e/ev-s0lv-20240902190000
+DESCRIPTION:Sequoia Fabrica's monthly hack night for members\, volunteers\,
+  our friends\, colleagues\, and families.  Want to join us? Ask a member o
+ r volunteer to RSVP and learn this month's theme.\n\n\nhttps://bookwhen.co
+ m/sequoiafabrica/e/ev-s0lv-20240902190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
-SUMMARY:Hack Night
+SUMMARY:Monthly Hack Night: Members & Guests
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0lv-20240902190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s3qf-20240903190000
 DTSTART;TZID=America/Los_Angeles:20240903T190000
 DTEND;TZID=America/Los_Angeles:20240903T200000
@@ -388,7 +371,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s3qf-20240903190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-se4n-20240907140000
 DTSTART;TZID=America/Los_Angeles:20240907T140000
 DTEND;TZID=America/Los_Angeles:20240907T200000
@@ -402,7 +385,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-se4n-20240907140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s41j-20240908120000
 DTSTART;TZID=America/Los_Angeles:20240908T120000
 DTEND;TZID=America/Los_Angeles:20240908T150000
@@ -418,7 +401,7 @@ SUMMARY:September Open House
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s41j-20240908120000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s639-20240912183000
 DTSTART;TZID=America/Los_Angeles:20240912T183000
 DTEND;TZID=America/Los_Angeles:20240912T203000
@@ -439,7 +422,7 @@ SUMMARY:Learn to Edit Wikipedia / Wikisalon
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s639-20240912183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s2ac-20240916183000
 DTSTART;TZID=America/Los_Angeles:20240916T183000
 DTEND;TZID=America/Los_Angeles:20240916T193000
@@ -457,7 +440,7 @@ SUMMARY:Sewing: Mending\, Fitting\, & Alterations
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s2ac-20240916183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sdy7-20240916190000
 DTSTART;TZID=America/Los_Angeles:20240916T190000
 DTEND;TZID=America/Los_Angeles:20240916T200000
@@ -475,7 +458,7 @@ SUMMARY:Electronics: Crimping Connectors Skillshare
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sdy7-20240916190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sgs4-20240917190000
 DTSTART;TZID=America/Los_Angeles:20240917T190000
 DTEND;TZID=America/Los_Angeles:20240917T200000
@@ -497,7 +480,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sgs4-20240917190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20240918190000
 DTSTART;TZID=America/Los_Angeles:20240918T190000
 DTEND;TZID=America/Los_Angeles:20240918T210000
@@ -511,7 +494,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20240918190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-slzj-20240919190000
 DTSTART;TZID=America/Los_Angeles:20240919T190000
 DTEND;TZID=America/Los_Angeles:20240919T200000
@@ -533,7 +516,7 @@ SUMMARY:Electronics: Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-slzj-20240919190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sxo3-20240921133000
 DTSTART;TZID=America/Los_Angeles:20240921T133000
 DTEND;TZID=America/Los_Angeles:20240921T173000
@@ -557,7 +540,7 @@ SUMMARY:Sewing: Make your own apron
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxo3-20240921133000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s6x7-20240921190000
 DTSTART;TZID=America/Los_Angeles:20240921T190000
 DTEND;TZID=America/Los_Angeles:20240921T203000
@@ -575,7 +558,7 @@ SUMMARY:Saturday Night Laser Light Plant Exchange: From Earth To The Sky
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s6x7-20240921190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-smbv-20240925163000
 DTSTART;TZID=America/Los_Angeles:20240925T163000
 DTEND;TZID=America/Los_Angeles:20240925T180000
@@ -592,7 +575,7 @@ SUMMARY:Toy Train Workshop: Paint a Locomotive
 URL:https://bookwhen.com/sequoiafabrica/e/ev-smbv-20240925163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s3qf-20241001190000
 DTSTART;TZID=America/Los_Angeles:20241001T190000
 DTEND;TZID=America/Los_Angeles:20241001T200000
@@ -614,7 +597,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s3qf-20241001190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sk16-20241002163000
 DTSTART;TZID=America/Los_Angeles:20241002T163000
 DTEND;TZID=America/Los_Angeles:20241002T180000
@@ -631,7 +614,7 @@ SUMMARY:Toy Train Workshop: Paint a Locomotive
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sk16-20241002163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-snur-20241005130000
 DTSTART;TZID=America/Los_Angeles:20241005T130000
 DTEND;TZID=America/Los_Angeles:20241005T170000
@@ -643,22 +626,22 @@ SUMMARY:Sewing: Bodice Sloper Day 3
 URL:https://bookwhen.com/sequoiafabrica/e/ev-snur-20241005130000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s0lv-20241007190000
 DTSTART;TZID=America/Los_Angeles:20241007T190000
 DTEND;TZID=America/Los_Angeles:20241007T230000
-DESCRIPTION:Sequoia Fabrica's monthly friends and family hack night. Bring 
- your project to work on or show and tell. Meet other makers!\nTalk with a 
- member or volunteer to RSVP and to learn this month's theme.\n\n\nhttps://
- bookwhen.com/sequoiafabrica/e/ev-s0lv-20241007190000
+DESCRIPTION:Sequoia Fabrica's monthly hack night for members\, volunteers\,
+  our friends\, colleagues\, and families.  Want to join us? Ask a member o
+ r volunteer to RSVP and learn this month's theme.\n\n\nhttps://bookwhen.co
+ m/sequoiafabrica/e/ev-s0lv-20241007190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
-SUMMARY:Hack Night
+SUMMARY:Monthly Hack Night: Members & Guests
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0lv-20241007190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sq28-20241008190000
 DTSTART;TZID=America/Los_Angeles:20241008T190000
 DTEND;TZID=America/Los_Angeles:20241008T203000
@@ -671,7 +654,7 @@ SUMMARY:Sewing 101
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sq28-20241008190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-seci-20241009080000
 DTSTART;TZID=America/Los_Angeles:20241009T080000
 DTEND;TZID=America/Los_Angeles:20241009T090000
@@ -688,7 +671,7 @@ SUMMARY:Drawin' Morning
 URL:https://bookwhen.com/sequoiafabrica/e/ev-seci-20241009080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sehp-20241009163000
 DTSTART;TZID=America/Los_Angeles:20241009T163000
 DTEND;TZID=America/Los_Angeles:20241009T173000
@@ -707,7 +690,7 @@ SUMMARY:Toy Train Workshop: assemble and paint a train station
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sehp-20241009163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s0fh-20241010183000
 DTSTART;TZID=America/Los_Angeles:20241010T183000
 DTEND;TZID=America/Los_Angeles:20241010T203000
@@ -728,7 +711,7 @@ SUMMARY:Learn to Edit Wikipedia / Wikisalon
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0fh-20241010183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-slob-20241010190000
 DTSTART;TZID=America/Los_Angeles:20241010T190000
 DTEND;TZID=America/Los_Angeles:20241010T210000
@@ -748,7 +731,7 @@ SUMMARY:Hand-Embroidery Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-slob-20241010190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sgs4-20241015190000
 DTSTART;TZID=America/Los_Angeles:20241015T190000
 DTEND;TZID=America/Los_Angeles:20241015T200000
@@ -770,7 +753,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sgs4-20241015190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-seci-20241016080000
 DTSTART;TZID=America/Los_Angeles:20241016T080000
 DTEND;TZID=America/Los_Angeles:20241016T090000
@@ -787,7 +770,7 @@ SUMMARY:Drawin' Morning
 URL:https://bookwhen.com/sequoiafabrica/e/ev-seci-20241016080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-swzu-20241016163000
 DTSTART;TZID=America/Los_Angeles:20241016T163000
 DTEND;TZID=America/Los_Angeles:20241016T173000
@@ -807,7 +790,7 @@ SUMMARY:Wednesday Toys Workshop: Cardboard Planes
 URL:https://bookwhen.com/sequoiafabrica/e/ev-swzu-20241016163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20241016190000
 DTSTART;TZID=America/Los_Angeles:20241016T190000
 DTEND;TZID=America/Los_Angeles:20241016T210000
@@ -821,7 +804,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20241016190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sw47-20241017180000
 DTSTART;TZID=America/Los_Angeles:20241017T180000
 DTEND;TZID=America/Los_Angeles:20241017T200000
@@ -839,7 +822,7 @@ SUMMARY:Sewing: Mending\, Fitting\, & Alterations
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sw47-20241017180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-scnz-20241017190000
 DTSTART;TZID=America/Los_Angeles:20241017T190000
 DTEND;TZID=America/Los_Angeles:20241017T200000
@@ -861,7 +844,7 @@ SUMMARY:Electronics: Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-scnz-20241017190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sjv1-20241020150000
 DTSTART;TZID=America/Los_Angeles:20241020T150000
 DTEND;TZID=America/Los_Angeles:20241020T170000
@@ -881,7 +864,7 @@ SUMMARY:Sewing: Choosing and Using Sewing Patterns
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sjv1-20241020150000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-seja-20241021100000
 DTSTART;TZID=America/Los_Angeles:20241021T100000
 DTEND;TZID=America/Los_Angeles:20241021T130000
@@ -893,7 +876,7 @@ SUMMARY:Space Closed- School Event
 URL:https://bookwhen.com/sequoiafabrica/e/ev-seja-20241021100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-srbc-20241021190000
 DTSTART;TZID=America/Los_Angeles:20241021T190000
 DTEND;TZID=America/Los_Angeles:20241021T210000
@@ -912,7 +895,7 @@ SUMMARY:Electronics: Project Night & Open House
 URL:https://bookwhen.com/sequoiafabrica/e/ev-srbc-20241021190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-seja-20241022100000
 DTSTART;TZID=America/Los_Angeles:20241022T100000
 DTEND;TZID=America/Los_Angeles:20241022T130000
@@ -924,7 +907,7 @@ SUMMARY:Space Closed- School Event
 URL:https://bookwhen.com/sequoiafabrica/e/ev-seja-20241022100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-seci-20241023080000
 DTSTART;TZID=America/Los_Angeles:20241023T080000
 DTEND;TZID=America/Los_Angeles:20241023T090000
@@ -941,7 +924,7 @@ SUMMARY:Drawin' Morning
 URL:https://bookwhen.com/sequoiafabrica/e/ev-seci-20241023080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s7hz-20241023163000
 DTSTART;TZID=America/Los_Angeles:20241023T163000
 DTEND;TZID=America/Los_Angeles:20241023T173000
@@ -961,7 +944,7 @@ SUMMARY:Toy Train Workshop: assemble and paint a Halloween-themed tunnel
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s7hz-20241023163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s52a-20241024190000
 DTSTART;TZID=America/Los_Angeles:20241024T190000
 DTEND;TZID=America/Los_Angeles:20241024T210000
@@ -981,7 +964,7 @@ SUMMARY:Hand-Embroidery Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s52a-20241024190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s2dg-20241025100000
 DTSTART;TZID=America/Los_Angeles:20241025T100000
 DTEND;TZID=America/Los_Angeles:20241025T170000
@@ -994,7 +977,7 @@ SUMMARY:Space Closed - Sewing Class
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s2dg-20241025100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sjbg-20241026100000
 DTSTART;TZID=America/Los_Angeles:20241026T100000
 DTEND;TZID=America/Los_Angeles:20241026T170000
@@ -1007,7 +990,7 @@ SUMMARY:Sewing Class
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sjbg-20241026100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sich-20241027100000
 DTSTART;TZID=America/Los_Angeles:20241027T100000
 DTEND;TZID=America/Los_Angeles:20241027T170000
@@ -1020,7 +1003,7 @@ SUMMARY:Sewing Class
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sich-20241027100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sy64-20241028100000
 DTSTART;TZID=America/Los_Angeles:20241028T100000
 DTEND;TZID=America/Los_Angeles:20241028T170000
@@ -1033,7 +1016,7 @@ SUMMARY:Sewing Class
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sy64-20241028100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sqo4-20241028183000
 DTSTART;TZID=America/Los_Angeles:20241028T183000
 DTEND;TZID=America/Los_Angeles:20241028T200000
@@ -1051,7 +1034,7 @@ SUMMARY:Sequoia Fabrica Zine Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sqo4-20241028183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-seci-20241030080000
 DTSTART;TZID=America/Los_Angeles:20241030T080000
 DTEND;TZID=America/Los_Angeles:20241030T090000
@@ -1068,7 +1051,7 @@ SUMMARY:Drawin' Morning
 URL:https://bookwhen.com/sequoiafabrica/e/ev-seci-20241030080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-spor-20241102120000
 DTSTART;TZID=America/Los_Angeles:20241102T120000
 DTEND;TZID=America/Los_Angeles:20241102T160000
@@ -1081,44 +1064,22 @@ SUMMARY:Patternmaking Class
 URL:https://bookwhen.com/sequoiafabrica/e/ev-spor-20241102120000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s0lv-20241104190000
 DTSTART;TZID=America/Los_Angeles:20241104T190000
 DTEND;TZID=America/Los_Angeles:20241104T230000
-DESCRIPTION:Sequoia Fabrica's monthly friends and family hack night. Bring 
- your project to work on or show and tell. Meet other makers!\nTalk with a 
- member or volunteer to RSVP and to learn this month's theme.\n\n\nhttps://
- bookwhen.com/sequoiafabrica/e/ev-s0lv-20241104190000
+DESCRIPTION:Sequoia Fabrica's monthly hack night for members\, volunteers\,
+  our friends\, colleagues\, and families.  Want to join us? Ask a member o
+ r volunteer to RSVP and learn this month's theme.\n\n\nhttps://bookwhen.co
+ m/sequoiafabrica/e/ev-s0lv-20241104190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
-SUMMARY:Hack Night
+SUMMARY:Monthly Hack Night: Members & Guests
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0lv-20241104190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
-UID:bwnp-x3ixm04f5wj7-ev-s3qf-20241105190000
-DTSTART;TZID=America/Los_Angeles:20241105T190000
-DTEND;TZID=America/Los_Angeles:20241105T200000
-DESCRIPTION:Already submitted a membership application (https://forms.gle/r
- 3AytzzxeKX7NUaM8)? This session takes roughly 20-30 minutes\, and we will 
- go over our mission as an organization\, what we expect from members\, as 
- well as the facilities. This is not a general tour or training session for
-  any equipment.\nYou can read more about the membership process here (http
- s://sequoiafabrica.org/docs/membership) and complete a membership applicat
- ion (available here (https://forms.gle/r3AytzzxeKX7NUaM8)). \nIf you are w
- ant to know more about our facilities\, but you aren't ready to apply to b
- e a member\, look for a class or event that interests you. We also host re
- gular open houses!\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-s3qf-2024
- 1105190000
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-ORGANIZER:mailto:sequoiafabrica@gmail.com
-STATUS:CONFIRMED
-SUMMARY:Member Applicant Orientation
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s3qf-20241105190000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-svrw-20241105190000
 DTSTART;TZID=America/Los_Angeles:20241105T190000
 DTEND;TZID=America/Los_Angeles:20241105T203000
@@ -1131,7 +1092,7 @@ SUMMARY:Sewing 101
 URL:https://bookwhen.com/sequoiafabrica/e/ev-svrw-20241105190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-seci-20241106080000
 DTSTART;TZID=America/Los_Angeles:20241106T080000
 DTEND;TZID=America/Los_Angeles:20241106T090000
@@ -1148,7 +1109,7 @@ SUMMARY:Drawin' Morning
 URL:https://bookwhen.com/sequoiafabrica/e/ev-seci-20241106080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-slfg-20241106163000
 DTSTART;TZID=America/Los_Angeles:20241106T163000
 DTEND;TZID=America/Los_Angeles:20241106T173000
@@ -1168,7 +1129,7 @@ SUMMARY:Toy Train Workshop: customise and paint a train engine
 URL:https://bookwhen.com/sequoiafabrica/e/ev-slfg-20241106163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-siu8-20241106183000
 DTSTART;TZID=America/Los_Angeles:20241106T183000
 DTEND;TZID=America/Los_Angeles:20241106T203000
@@ -1194,7 +1155,7 @@ SUMMARY:3D Model Your First Character
 URL:https://bookwhen.com/sequoiafabrica/e/ev-siu8-20241106183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sref-20241107190000
 DTSTART;TZID=America/Los_Angeles:20241107T190000
 DTEND;TZID=America/Los_Angeles:20241107T210000
@@ -1214,7 +1175,25 @@ SUMMARY:Hand-Embroidery Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sref-20241107190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
+UID:bwnp-x3ixm04f5wj7-ev-smvw-20241109100000
+DTSTART;TZID=America/Los_Angeles:20241109T100000
+DTEND;TZID=America/Los_Angeles:20241109T110000
+DESCRIPTION:Make an 8-page zine* out of a single sheet of paper! \nMarkers\
+ , glue sticks\, and other crafty supplies will be on hand in this friendly
+  and low-pressure environment. \nSerious or light-hearted-- it's your call
+ . \nBonus: if time permits\, we can print some on our Risograph in black o
+ r hot pink! \n(*Don't know how? We'll show you! Already have a project? Yo
+ u're welcome to bring it!)\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-s
+ mvw-20241109100000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
+STATUS:CONFIRMED
+SUMMARY:Sequoia Fabrica Zine Night
+URL:https://bookwhen.com/sequoiafabrica/e/ev-smvw-20241109100000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sip6-20241112190000
 DTSTART;TZID=America/Los_Angeles:20241112T190000
 DTEND;TZID=America/Los_Angeles:20241112T200000
@@ -1232,7 +1211,7 @@ SUMMARY:Dip Candlestick Making
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sip6-20241112190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-seci-20241113080000
 DTSTART;TZID=America/Los_Angeles:20241113T080000
 DTEND;TZID=America/Los_Angeles:20241113T090000
@@ -1249,7 +1228,7 @@ SUMMARY:Drawin' Morning
 URL:https://bookwhen.com/sequoiafabrica/e/ev-seci-20241113080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s1v9-20241113163000
 DTSTART;TZID=America/Los_Angeles:20241113T163000
 DTEND;TZID=America/Los_Angeles:20241113T173000
@@ -1269,7 +1248,7 @@ SUMMARY:Toy Train Workshop: customise and paint a train car
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s1v9-20241113163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20241113190000
 DTSTART;TZID=America/Los_Angeles:20241113T190000
 DTEND;TZID=America/Los_Angeles:20241113T210000
@@ -1283,7 +1262,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20241113190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s0fh-20241114183000
 DTSTART;TZID=America/Los_Angeles:20241114T183000
 DTEND;TZID=America/Los_Angeles:20241114T203000
@@ -1304,7 +1283,7 @@ SUMMARY:Learn to Edit Wikipedia / Wikisalon
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0fh-20241114183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-ss3f-20241114190000
 DTSTART;TZID=America/Los_Angeles:20241114T190000
 DTEND;TZID=America/Los_Angeles:20241114T201500
@@ -1336,7 +1315,7 @@ SUMMARY:Introduction to Volunteering with Sequoia Fabrica
 URL:https://bookwhen.com/sequoiafabrica/e/ev-ss3f-20241114190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sgs4-20241119190000
 DTSTART;TZID=America/Los_Angeles:20241119T190000
 DTEND;TZID=America/Los_Angeles:20241119T200000
@@ -1358,7 +1337,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sgs4-20241119190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-seci-20241120080000
 DTSTART;TZID=America/Los_Angeles:20241120T080000
 DTEND;TZID=America/Los_Angeles:20241120T090000
@@ -1375,7 +1354,7 @@ SUMMARY:Drawin' Morning
 URL:https://bookwhen.com/sequoiafabrica/e/ev-seci-20241120080000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-skuo-20241120163000
 DTSTART;TZID=America/Los_Angeles:20241120T163000
 DTEND;TZID=America/Los_Angeles:20241120T173000
@@ -1396,7 +1375,7 @@ SUMMARY:Fix-It Clinic: Toy Edition
 URL:https://bookwhen.com/sequoiafabrica/e/ev-skuo-20241120163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sxnm-20241121190000
 DTSTART;TZID=America/Los_Angeles:20241121T190000
 DTEND;TZID=America/Los_Angeles:20241121T200000
@@ -1418,7 +1397,7 @@ SUMMARY:Electronics: Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxnm-20241121190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sayr-20241121190000
 DTSTART;TZID=America/Los_Angeles:20241121T190000
 DTEND;TZID=America/Los_Angeles:20241121T210000
@@ -1438,22 +1417,22 @@ SUMMARY:Hand-Embroidery Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sayr-20241121190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s0lv-20241202190000
 DTSTART;TZID=America/Los_Angeles:20241202T190000
 DTEND;TZID=America/Los_Angeles:20241202T230000
-DESCRIPTION:Sequoia Fabrica's monthly friends and family hack night. Bring 
- your project to work on or show and tell. Meet other makers!\nTalk with a 
- member or volunteer to RSVP and to learn this month's theme.\n\n\nhttps://
- bookwhen.com/sequoiafabrica/e/ev-s0lv-20241202190000
+DESCRIPTION:Sequoia Fabrica's monthly hack night for members\, volunteers\,
+  our friends\, colleagues\, and families.  Want to join us? Ask a member o
+ r volunteer to RSVP and learn this month's theme.\n\n\nhttps://bookwhen.co
+ m/sequoiafabrica/e/ev-s0lv-20241202190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
-SUMMARY:Hack Night
+SUMMARY:Monthly Hack Night: Members & Guests
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0lv-20241202190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s3qf-20241203190000
 DTSTART;TZID=America/Los_Angeles:20241203T190000
 DTEND;TZID=America/Los_Angeles:20241203T200000
@@ -1475,7 +1454,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s3qf-20241203190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-szux-20241204163000
 DTSTART;TZID=America/Los_Angeles:20241204T163000
 DTEND;TZID=America/Los_Angeles:20241204T173000
@@ -1494,7 +1473,7 @@ SUMMARY:Toy Train Workshop: Christmas train ornaments
 URL:https://bookwhen.com/sequoiafabrica/e/ev-szux-20241204163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-svez-20241211163000
 DTSTART;TZID=America/Los_Angeles:20241211T163000
 DTEND;TZID=America/Los_Angeles:20241211T173000
@@ -1514,7 +1493,7 @@ SUMMARY:Toy Train Workshop: train Winter and Christmas decor
 URL:https://bookwhen.com/sequoiafabrica/e/ev-svez-20241211163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20241211190000
 DTSTART;TZID=America/Los_Angeles:20241211T190000
 DTEND;TZID=America/Los_Angeles:20241211T210000
@@ -1528,7 +1507,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20241211190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s0fh-20241212183000
 DTSTART;TZID=America/Los_Angeles:20241212T183000
 DTEND;TZID=America/Los_Angeles:20241212T203000
@@ -1549,7 +1528,7 @@ SUMMARY:Learn to Edit Wikipedia / Wikisalon
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0fh-20241212183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-stt8-20241218163000
 DTSTART;TZID=America/Los_Angeles:20241218T163000
 DTEND;TZID=America/Los_Angeles:20241218T173000
@@ -1569,22 +1548,22 @@ SUMMARY:Toy Train Workshop: 3D printing demo and train stamps
 URL:https://bookwhen.com/sequoiafabrica/e/ev-stt8-20241218163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-s0lv-20250106190000
 DTSTART;TZID=America/Los_Angeles:20250106T190000
 DTEND;TZID=America/Los_Angeles:20250106T230000
-DESCRIPTION:Sequoia Fabrica's monthly friends and family hack night. Bring 
- your project to work on or show and tell. Meet other makers!\nTalk with a 
- member or volunteer to RSVP and to learn this month's theme.\n\n\nhttps://
- bookwhen.com/sequoiafabrica/e/ev-s0lv-20250106190000
+DESCRIPTION:Sequoia Fabrica's monthly hack night for members\, volunteers\,
+  our friends\, colleagues\, and families.  Want to join us? Ask a member o
+ r volunteer to RSVP and learn this month's theme.\n\n\nhttps://bookwhen.co
+ m/sequoiafabrica/e/ev-s0lv-20250106190000
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:sequoiafabrica@gmail.com
 STATUS:CONFIRMED
-SUMMARY:Hack Night
+SUMMARY:Monthly Hack Night: Members & Guests
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0lv-20250106190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-snph-20250108163000
 DTSTART;TZID=America/Los_Angeles:20250108T163000
 DTEND;TZID=America/Los_Angeles:20250108T173000
@@ -1604,7 +1583,7 @@ SUMMARY:Toy Train Workshop: make a train clock
 URL:https://bookwhen.com/sequoiafabrica/e/ev-snph-20250108163000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T100531Z
+DTSTAMP:20241103T100601Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20250108190000
 DTSTART;TZID=America/Los_Angeles:20250108T190000
 DTEND;TZID=America/Los_Angeles:20250108T210000
