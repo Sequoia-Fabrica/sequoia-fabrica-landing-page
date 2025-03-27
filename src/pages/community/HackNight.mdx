@@ -1,0 +1,15 @@
+import { promoConstants } from '@/src/text/promoConstants';
+import { useEffect } from 'react';
+
+export default function Home() {
+  useEffect(() => {
+    window.location.href = promoConstants.hackNight;
+  }, []);
+
+  return (
+    <p>
+      Redirecting to the wiki... If you're not redirected,
+      <a href={promoConstants.hackNight}> click here</a>.
+    </p>
+  );
+}
