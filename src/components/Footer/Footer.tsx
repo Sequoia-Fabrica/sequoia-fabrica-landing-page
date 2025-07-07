@@ -1,7 +1,7 @@
 import FooterItem, { FooterItemProps } from "./FooterItem";
 import { urlConstants } from "@/src/text/urlConstants";
 
-const copyright = "©2024 Sequoia Fabrica. All rights reserved."
+const copyright = "©2025 Sequoia Fabrica. All rights reserved."
 
 export default function Footer() {
     const getContactItem = () => {
