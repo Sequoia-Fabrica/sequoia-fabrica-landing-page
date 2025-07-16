@@ -23,29 +23,7 @@ TZNAME:PST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
-UID:bwnp-x3ixm04f5wj7-ev-sx9n-20250415190000
-DTSTART;TZID=America/Los_Angeles:20250415T190000
-DTEND;TZID=America/Los_Angeles:20250415T200000
-DESCRIPTION:Already submitted a membership application (https://forms.gle/r
- 3AytzzxeKX7NUaM8)? This session takes roughly 45 minutes\, and we will go 
- over our mission as an organization\, what we expect from members\, as wel
- l as the facilities. This is not a general tour or training session for an
- y equipment.\nYou can read more about the membership process here (https:/
- /sequoiafabrica.org/docs/membership) and complete a membership application
-  (available here (https://forms.gle/r3AytzzxeKX7NUaM8)). \nIf you are want
-  to know more about our facilities\, but you aren't ready to apply to be a
-  member\, look for a class or event that interests you. We also host regul
- ar open houses!\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sx9n-2025041
- 5190000
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-ORGANIZER:mailto:sequoiafabrica@gmail.com
-STATUS:CONFIRMED
-SUMMARY:Member Applicant Orientation
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20250415190000
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20250416190000
 DTSTART;TZID=America/Los_Angeles:20250416T190000
 DTEND;TZID=America/Los_Angeles:20250416T200000
@@ -59,7 +37,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20250416190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sycn-20250417190000
 DTSTART;TZID=America/Los_Angeles:20250417T190000
 DTEND;TZID=America/Los_Angeles:20250417T213000
@@ -84,7 +62,7 @@ SUMMARY:Knit a Scarf: Introduction to Machine Knitting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sycn-20250417190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-skp7-20250417190000
 DTSTART;TZID=America/Los_Angeles:20250417T190000
 DTEND;TZID=America/Los_Angeles:20250417T213000
@@ -103,7 +81,7 @@ SUMMARY:Machine knitting social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-skp7-20250417190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s61i-20250419190000
 DTSTART;TZID=America/Los_Angeles:20250419T190000
 DTEND;TZID=America/Los_Angeles:20250419T203000
@@ -125,7 +103,7 @@ SUMMARY:Electronics: Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s61i-20250419190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sks8-20250421183000
 DTSTART;TZID=America/Los_Angeles:20250421T183000
 DTEND;TZID=America/Los_Angeles:20250421T210000
@@ -156,7 +134,7 @@ SUMMARY:Intro to MYOG 1: Sew a stuff sack!
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sks8-20250421183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s9zo-20250423140000
 DTSTART;TZID=America/Los_Angeles:20250423T140000
 DTEND;TZID=America/Los_Angeles:20250423T164500
@@ -168,7 +146,7 @@ SUMMARY:Private tour and workshop for local university - Visible Mending
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s9zo-20250423140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s9k7-20250423190000
 DTSTART;TZID=America/Los_Angeles:20250423T190000
 DTEND;TZID=America/Los_Angeles:20250423T220000
@@ -187,7 +165,7 @@ SUMMARY:Sewing & Textiles Grove Members Hangout Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s9k7-20250423190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sr6h-20250424180000
 DTSTART;TZID=America/Los_Angeles:20250424T180000
 DTEND;TZID=America/Los_Angeles:20250424T200000
@@ -210,7 +188,7 @@ SUMMARY:Sewing: Traditional Mending
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sr6h-20250424180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sgm2-20250426140000
 DTSTART;TZID=America/Los_Angeles:20250426T140000
 DTEND;TZID=America/Los_Angeles:20250426T160000
@@ -233,7 +211,7 @@ SUMMARY:Sewing: Mend in Public at Sequoia Fabrica 🪡
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sgm2-20250426140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sfmo-20250428183000
 DTSTART;TZID=America/Los_Angeles:20250428T183000
 DTEND;TZID=America/Los_Angeles:20250428T210000
@@ -259,7 +237,7 @@ SUMMARY:Intro to MYOG 2: Sew a stem bag
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sfmo-20250428183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s0lv-20250505190000
 DTSTART;TZID=America/Los_Angeles:20250505T190000
 DTEND;TZID=America/Los_Angeles:20250505T230000
@@ -275,7 +253,7 @@ SUMMARY:Monthly Hack Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0lv-20250505190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-snzb-20250506190000
 DTSTART;TZID=America/Los_Angeles:20250506T190000
 DTEND;TZID=America/Los_Angeles:20250506T200000
@@ -297,7 +275,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-snzb-20250506190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-so32-20250507190000
 DTSTART;TZID=America/Los_Angeles:20250507T190000
 DTEND;TZID=America/Los_Angeles:20250507T220000
@@ -316,7 +294,7 @@ SUMMARY:Sewing & Textiles Grove Members Hangout Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-so32-20250507190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sxn2-20250508180000
 DTSTART;TZID=America/Los_Angeles:20250508T180000
 DTEND;TZID=America/Los_Angeles:20250508T193000
@@ -337,7 +315,7 @@ SUMMARY:Zinemaking and Intro to the Risograph!
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxn2-20250508180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sl7l-20250513193000
 DTSTART;TZID=America/Los_Angeles:20250513T193000
 DTEND;TZID=America/Los_Angeles:20250513T210000
@@ -350,7 +328,7 @@ SUMMARY:Sewing 101
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sl7l-20250513193000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sa8w-20250514180000
 DTSTART;TZID=America/Los_Angeles:20250514T180000
 DTEND;TZID=America/Los_Angeles:20250514T201500
@@ -371,7 +349,7 @@ SUMMARY:Block Printmaking Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sa8w-20250514180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sqrv-20250514190000
 DTSTART;TZID=America/Los_Angeles:20250514T190000
 DTEND;TZID=America/Los_Angeles:20250514T220000
@@ -390,7 +368,7 @@ SUMMARY:Sewing & Textiles Grove Members Hangout Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sqrv-20250514190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-swrt-20250517100000
 DTSTART;TZID=America/Los_Angeles:20250517T100000
 DTEND;TZID=America/Los_Angeles:20250517T120000
@@ -404,7 +382,7 @@ SUMMARY:Private Event
 URL:https://bookwhen.com/sequoiafabrica/e/ev-swrt-20250517100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sm2t-20250519183000
 DTSTART;TZID=America/Los_Angeles:20250519T183000
 DTEND;TZID=America/Los_Angeles:20250519T203000
@@ -427,7 +405,7 @@ SUMMARY:Sewing: Traditional Mending
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sm2t-20250519183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sx9n-20250520190000
 DTSTART;TZID=America/Los_Angeles:20250520T190000
 DTEND;TZID=America/Los_Angeles:20250520T200000
@@ -449,7 +427,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20250520190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20250521190000
 DTSTART;TZID=America/Los_Angeles:20250521T190000
 DTEND;TZID=America/Los_Angeles:20250521T200000
@@ -463,7 +441,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20250521190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-srhh-20250522190000
 DTSTART;TZID=America/Los_Angeles:20250522T190000
 DTEND;TZID=America/Los_Angeles:20250522T210000
@@ -484,7 +462,7 @@ SUMMARY:Machine Knitting intermediate: patterning with computerized machine
 URL:https://bookwhen.com/sequoiafabrica/e/ev-srhh-20250522190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sq4c-20250522190000
 DTSTART;TZID=America/Los_Angeles:20250522T190000
 DTEND;TZID=America/Los_Angeles:20250522T213000
@@ -503,7 +481,7 @@ SUMMARY:Machine knitting social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sq4c-20250522190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s9k7-20250528190000
 DTSTART;TZID=America/Los_Angeles:20250528T190000
 DTEND;TZID=America/Los_Angeles:20250528T220000
@@ -522,7 +500,7 @@ SUMMARY:Sewing & Textiles Grove Members Hangout Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s9k7-20250528190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-slov-20250529190000
 DTSTART;TZID=America/Los_Angeles:20250529T190000
 DTEND;TZID=America/Los_Angeles:20250529T211500
@@ -547,7 +525,7 @@ SUMMARY:Spoonmaking and Engraving
 URL:https://bookwhen.com/sequoiafabrica/e/ev-slov-20250529190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s0lv-20250602190000
 DTSTART;TZID=America/Los_Angeles:20250602T190000
 DTEND;TZID=America/Los_Angeles:20250602T230000
@@ -563,7 +541,7 @@ SUMMARY:Monthly Hack Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0lv-20250602190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-syd5-20250603183000
 DTSTART;TZID=America/Los_Angeles:20250603T183000
 DTEND;TZID=America/Los_Angeles:20250603T203000
@@ -587,7 +565,7 @@ SUMMARY:Sewing: Learn A Skill- All About Zippers
 URL:https://bookwhen.com/sequoiafabrica/e/ev-syd5-20250603183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-snzb-20250603190000
 DTSTART;TZID=America/Los_Angeles:20250603T190000
 DTEND;TZID=America/Los_Angeles:20250603T200000
@@ -609,7 +587,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-snzb-20250603190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-so32-20250604190000
 DTSTART;TZID=America/Los_Angeles:20250604T190000
 DTEND;TZID=America/Los_Angeles:20250604T220000
@@ -628,7 +606,7 @@ SUMMARY:Sewing & Textiles Grove Members Hangout Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-so32-20250604190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-som4-20250605190000
 DTSTART;TZID=America/Los_Angeles:20250605T190000
 DTEND;TZID=America/Los_Angeles:20250605T210000
@@ -644,7 +622,7 @@ SUMMARY:Crochet Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-som4-20250605190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sqdw-20250611180000
 DTSTART;TZID=America/Los_Angeles:20250611T180000
 DTEND;TZID=America/Los_Angeles:20250611T201500
@@ -665,7 +643,7 @@ SUMMARY:Block Printmaking Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sqdw-20250611180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sqrv-20250611190000
 DTSTART;TZID=America/Los_Angeles:20250611T190000
 DTEND;TZID=America/Los_Angeles:20250611T220000
@@ -684,7 +662,7 @@ SUMMARY:Sewing & Textiles Grove Members Hangout Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sqrv-20250611190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s7xi-20250612183000
 DTSTART;TZID=America/Los_Angeles:20250612T183000
 DTEND;TZID=America/Los_Angeles:20250612T210000
@@ -715,7 +693,7 @@ SUMMARY:Intro to MYOG 1: Sew a stuff sack!
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s7xi-20250612183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-szjt-20250616183000
 DTSTART;TZID=America/Los_Angeles:20250616T183000
 DTEND;TZID=America/Los_Angeles:20250616T203000
@@ -738,7 +716,7 @@ SUMMARY:Sewing: Traditional Mending
 URL:https://bookwhen.com/sequoiafabrica/e/ev-szjt-20250616183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sx9n-20250617190000
 DTSTART;TZID=America/Los_Angeles:20250617T190000
 DTEND;TZID=America/Los_Angeles:20250617T200000
@@ -760,7 +738,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20250617190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s07u-20250617190000
 DTSTART;TZID=America/Los_Angeles:20250617T190000
 DTEND;TZID=America/Los_Angeles:20250617T210000
@@ -779,7 +757,7 @@ SUMMARY:Embroidery Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s07u-20250617190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s2bw-20250618093000
 DTSTART;TZID=America/Los_Angeles:20250618T093000
 DTEND;TZID=America/Los_Angeles:20250618T143000
@@ -793,7 +771,7 @@ SUMMARY:Advanced machine knitting workshop
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s2bw-20250618093000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20250618190000
 DTSTART;TZID=America/Los_Angeles:20250618T190000
 DTEND;TZID=America/Los_Angeles:20250618T200000
@@ -807,7 +785,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20250618190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sdrp-20250619190000
 DTSTART;TZID=America/Los_Angeles:20250619T190000
 DTEND;TZID=America/Los_Angeles:20250619T211500
@@ -832,7 +810,7 @@ SUMMARY:Spoonmaking and Engraving
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sdrp-20250619190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sym7-20250620180000
 DTSTART;TZID=America/Los_Angeles:20250620T180000
 DTEND;TZID=America/Los_Angeles:20250620T193000
@@ -855,7 +833,7 @@ SUMMARY:Zinemaking and Intro to the Risograph-- LGBTQIA Pride Edition!
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sym7-20250620180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s9k7-20250625190000
 DTSTART;TZID=America/Los_Angeles:20250625T190000
 DTEND;TZID=America/Los_Angeles:20250625T220000
@@ -874,7 +852,7 @@ SUMMARY:Sewing & Textiles Grove Members Hangout Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s9k7-20250625190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-same-20250626170000
 DTSTART;TZID=America/Los_Angeles:20250626T170000
 DTEND;TZID=America/Los_Angeles:20250626T193000
@@ -899,7 +877,7 @@ SUMMARY: Craft Corner: Creative Mending @ SFMOMA
 URL:https://bookwhen.com/sequoiafabrica/e/ev-same-20250626170000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100715Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-spq9-20250626183000
 DTSTART;TZID=America/Los_Angeles:20250626T183000
 DTEND;TZID=America/Los_Angeles:20250626T210000
@@ -925,7 +903,7 @@ SUMMARY:Intro to MYOG 2: Sew a stem bag
 URL:https://bookwhen.com/sequoiafabrica/e/ev-spq9-20250626183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-snzb-20250701190000
 DTSTART;TZID=America/Los_Angeles:20250701T190000
 DTEND;TZID=America/Los_Angeles:20250701T200000
@@ -947,7 +925,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-snzb-20250701190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s47s-20250701190000
 DTSTART;TZID=America/Los_Angeles:20250701T190000
 DTEND;TZID=America/Los_Angeles:20250701T213000
@@ -966,7 +944,7 @@ SUMMARY:Machine knitting social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s47s-20250701190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s0lv-20250707190000
 DTSTART;TZID=America/Los_Angeles:20250707T190000
 DTEND;TZID=America/Los_Angeles:20250707T230000
@@ -982,7 +960,7 @@ SUMMARY:Monthly Hack Night
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s0lv-20250707190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sxer-20250710190000
 DTSTART;TZID=America/Los_Angeles:20250710T190000
 DTEND;TZID=America/Los_Angeles:20250710T210000
@@ -1001,7 +979,7 @@ SUMMARY:Embroidery Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxer-20250710190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sko3-20250715183000
 DTSTART;TZID=America/Los_Angeles:20250715T183000
 DTEND;TZID=America/Los_Angeles:20250715T210000
@@ -1024,7 +1002,7 @@ SUMMARY:Intro to MYOG: Open Studio Time
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sko3-20250715183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sx9n-20250715190000
 DTSTART;TZID=America/Los_Angeles:20250715T190000
 DTEND;TZID=America/Los_Angeles:20250715T200000
@@ -1046,7 +1024,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20250715190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20250716190000
 DTSTART;TZID=America/Los_Angeles:20250716T190000
 DTEND;TZID=America/Los_Angeles:20250716T200000
@@ -1060,7 +1038,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20250716190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sa5y-20250718000000
 DTSTART;TZID=America/Los_Angeles;VALUE=DATE:20250718
 DTEND;TZID=America/Los_Angeles;VALUE=DATE:20250721
@@ -1075,7 +1053,7 @@ SUMMARY:Sequoia Fabrica @ Open Sauce
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sa5y-20250718000000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-skce-20250719110000
 DTSTART;TZID=America/Los_Angeles:20250719T110000
 DTEND;TZID=America/Los_Angeles:20250719T160000
@@ -1089,7 +1067,7 @@ SUMMARY:Sequoia Fabrica @ Potrero Hill STEAM Festival
 URL:https://bookwhen.com/sequoiafabrica/e/ev-skce-20250719110000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sqf0-20250723180000
 DTSTART;TZID=America/Los_Angeles:20250723T180000
 DTEND;TZID=America/Los_Angeles:20250723T201500
@@ -1110,7 +1088,7 @@ SUMMARY:Block Printmaking Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sqf0-20250723180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-ss8f-20250724174500
 DTSTART;TZID=America/Los_Angeles:20250724T174500
 DTEND;TZID=America/Los_Angeles:20250724T191500
@@ -1132,7 +1110,7 @@ SUMMARY:Electronics: Introduction to Soldering
 URL:https://bookwhen.com/sequoiafabrica/e/ev-ss8f-20250724174500
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-so6r-20250724190000
 DTSTART;TZID=America/Los_Angeles:20250724T190000
 DTEND;TZID=America/Los_Angeles:20250724T210000
@@ -1148,7 +1126,7 @@ SUMMARY:Crochet Social
 URL:https://bookwhen.com/sequoiafabrica/e/ev-so6r-20250724190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-su0b-20250731180000
 DTSTART;TZID=America/Los_Angeles:20250731T180000
 DTEND;TZID=America/Los_Angeles:20250731T210000
@@ -1168,7 +1146,7 @@ SUMMARY:Make a Cherry Charcuterie Board
 URL:https://bookwhen.com/sequoiafabrica/e/ev-su0b-20250731180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-snar-20250802160000
 DTSTART;TZID=America/Los_Angeles:20250802T160000
 DTEND;TZID=America/Los_Angeles:20250802T200000
@@ -1194,7 +1172,7 @@ SUMMARY:"Do it for da Plot!" A Collaborative Comic Anthology Event
 URL:https://bookwhen.com/sequoiafabrica/e/ev-snar-20250802160000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-snzb-20250805190000
 DTSTART;TZID=America/Los_Angeles:20250805T190000
 DTEND;TZID=America/Los_Angeles:20250805T200000
@@ -1216,7 +1194,32 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-snzb-20250805190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
+UID:bwnp-x3ixm04f5wj7-ev-sozn-20250806190000
+DTSTART;TZID=America/Los_Angeles:20250806T190000
+DTEND;TZID=America/Los_Angeles:20250806T211500
+DESCRIPTION:Dive into the art of spoon-making in our hands-on workshop desi
+ gned for both beginners and seasoned crafters! Join us for a session where
+  you'll learn to power carve and perfect your own small condiment spoons u
+ sing a Rotary (Dremel) tool. Then everyone has a chance to customize their
+  spoon with laser engraving. This class demonstrates how to make tradition
+ al objects with modern tools.\nThis workshop will guide you through the fu
+ ndamentals of rotary tools\, and mastering the techniques needed to create
+  beautiful and functional spoons. \nWhat You Will Learn:\nRotary Tool Basi
+ cs: Get to know how to use a variety of Rotary Tool (also known by the nam
+ e brand Dremel) bits for carving and smoothing\nEngraving: Everyone will h
+ ave the opportunity to engrave their spoon with a design of their choice u
+ sing our laser cutter\nFinishing: We will optionally finish the spoons wit
+ h an oil and wax to protect it.\n\n\nhttps://bookwhen.com/sequoiafabrica/e
+ /ev-sozn-20250806190000
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+ORGANIZER:mailto:sequoiafabrica@gmail.com
+STATUS:CONFIRMED
+SUMMARY:Spoonmaking and Engraving
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sozn-20250806190000
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s3f1-20250807180000
 DTSTART;TZID=America/Los_Angeles:20250807T180000
 DTEND;TZID=America/Los_Angeles:20250807T200000
@@ -1232,7 +1235,7 @@ SUMMARY:Let's make BioYarn!
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s3f1-20250807180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sx9n-20250819190000
 DTSTART;TZID=America/Los_Angeles:20250819T190000
 DTEND;TZID=America/Los_Angeles:20250819T200000
@@ -1254,7 +1257,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20250819190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20250820190000
 DTSTART;TZID=America/Los_Angeles:20250820T190000
 DTEND;TZID=America/Los_Angeles:20250820T200000
@@ -1268,7 +1271,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20250820190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-s9hu-20250821170000
 DTSTART;TZID=America/Los_Angeles:20250821T170000
 DTEND;TZID=America/Los_Angeles:20250821T193000
@@ -1290,7 +1293,7 @@ SUMMARY:Craft Corner: Creative mending @SFMOMA
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s9hu-20250821170000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-snzb-20250902190000
 DTSTART;TZID=America/Los_Angeles:20250902T190000
 DTEND;TZID=America/Los_Angeles:20250902T200000
@@ -1312,7 +1315,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-snzb-20250902190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sx9n-20250916190000
 DTSTART;TZID=America/Los_Angeles:20250916T190000
 DTEND;TZID=America/Los_Angeles:20250916T200000
@@ -1334,7 +1337,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20250916190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20250917190000
 DTSTART;TZID=America/Los_Angeles:20250917T190000
 DTEND;TZID=America/Los_Angeles:20250917T200000
@@ -1348,7 +1351,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20250917190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20251015190000
 DTSTART;TZID=America/Los_Angeles:20251015T190000
 DTEND;TZID=America/Los_Angeles:20251015T200000
@@ -1362,7 +1365,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20251015190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sx9n-20251021190000
 DTSTART;TZID=America/Los_Angeles:20251021T190000
 DTEND;TZID=America/Los_Angeles:20251021T200000
@@ -1384,7 +1387,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20251021190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sx9n-20251118190000
 DTSTART;TZID=America/Los_Angeles:20251118T190000
 DTEND;TZID=America/Los_Angeles:20251118T200000
@@ -1406,7 +1409,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20251118190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20251119190000
 DTSTART;TZID=America/Los_Angeles:20251119T190000
 DTEND;TZID=America/Los_Angeles:20251119T200000
@@ -1420,7 +1423,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20251119190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sx9n-20251216190000
 DTSTART;TZID=America/Los_Angeles:20251216T190000
 DTEND;TZID=America/Los_Angeles:20251216T200000
@@ -1442,7 +1445,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20251216190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20251217190000
 DTSTART;TZID=America/Los_Angeles:20251217T190000
 DTEND;TZID=America/Los_Angeles:20251217T200000
@@ -1456,7 +1459,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20251217190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sx9n-20260120190000
 DTSTART;TZID=America/Los_Angeles:20260120T190000
 DTEND;TZID=America/Los_Angeles:20260120T200000
@@ -1478,7 +1481,7 @@ SUMMARY:Member Applicant Orientation
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sx9n-20260120190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20260121190000
 DTSTART;TZID=America/Los_Angeles:20260121T190000
 DTEND;TZID=America/Los_Angeles:20260121T200000
@@ -1492,7 +1495,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260121190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20260218190000
 DTSTART;TZID=America/Los_Angeles:20260218T190000
 DTEND;TZID=America/Los_Angeles:20260218T200000
@@ -1506,7 +1509,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260218190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20260318190000
 DTSTART;TZID=America/Los_Angeles:20260318T190000
 DTEND;TZID=America/Los_Angeles:20260318T200000
@@ -1520,7 +1523,7 @@ SUMMARY:Space Closed - Meeting
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260318190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250715T100716Z
+DTSTAMP:20250716T100741Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20260415190000
 DTSTART;TZID=America/Los_Angeles:20260415T190000
 DTEND;TZID=America/Los_Angeles:20260415T200000
