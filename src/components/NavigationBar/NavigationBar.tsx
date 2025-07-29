@@ -21,7 +21,7 @@ export default function NavigationBar() {
                 
                 <div className="hidden lg:block m-auto" >
                     <NavigationBarItem name='Events' data-goatcounter-click={urlConstants.bookWhen} url={urlConstants.bookWhen} />
-                    <NavigationBarItem name='Donate' data-goatcounter-click={urlConstants.donateOC} url={urlConstants.donateOC} />
+                    <NavigationBarItem name='Donate' url='/docs/donate' />
                     <NavigationBarItem name='Membership' url='/docs/membership' />
                     <NavigationBarItem name='FAQ' url='/docs/faq' />
                     <NavigationBarItem name='Partner' url='/docs/partner' />
