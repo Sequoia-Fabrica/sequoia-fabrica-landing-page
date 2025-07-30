@@ -1,0 +1,108 @@
+import DocumentLayout from '@/src/components/docs/DocumentLayout'
+import { urlConstants } from '@/src/text/urlConstants';
+
+export const metadata = {
+  title: "Donate",
+  description: "Donate to support Sequoia Fabrica Makerspace."
+};
+
+<div class="About m-4 max-w-screen-md mx-auto grid grid-cols-2 gap-4 p-8">
+<div class="col-span-2">
+# Support Sequoia Fabrica
+
+As a volunteer-run 501(c)(3) nonprofit, we rely on the generosity of our community to keep our textile workshop, 3D printers, laser cutter, woodworking equipment, electronics lab, and arts supplies accessible.
+</div>
+<div class="col-span-2 md:col-span-1">
+## Make a One-Time Donation
+
+Every contribution, big or small, makes a meaningful impact on our maker community. Your one-time donation helps us keep our doors open.
+
+<div style={{ margin: '1.5rem 0'}}>
+  <a 
+    href="http://donate.sequoiafabrica.org/" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    style={{
+      display: 'inline-flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      backgroundColor: '#065f46',
+      color: 'white',
+      padding: '12px 24px',
+      borderRadius: '6px',
+      textDecoration: 'none',
+      fontWeight: 'bold',
+      fontSize: '16px',
+      lineHeight: '1'
+    }}
+  >
+    Donate Now
+  </a>
+</div>
+</div>
+
+<div class="col-span-2 md:col-span-1">
+
+  ## Pay Your Member Dues
+
+  Are you a Sequoia Fabrica member? Keep your membership active and continue enjoying 24/7 access to our workshop, tools, and creative community.
+
+  <div style={{ margin: '1.5rem 0'}}>
+  <a 
+    href="https://opencollective.com/sequoia-fabrica/contribute/member-dues-68571" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    style={{
+      display: 'inline-flex',
+      alignItems: 'center',
+      justifyContent: 'center',
+      backgroundColor: '#065f46',
+      color: 'white',
+      padding: '12px 24px',
+      borderRadius: '6px',
+      textDecoration: 'none',
+      fontWeight: 'bold',
+      fontSize: '16px',
+      lineHeight: '1'
+    }}
+  >
+    Pay Member Dues
+  </a>
+</div>
+</div>
+<div class="col-span-2">
+## Employer Matching Donations
+
+Corporate matching programs are a powerful way to maximize support and double your impact! Check if your employer participates through platforms like:
+
+- **Benevity**
+- **PayPal Giving Fund**
+- **YourCause/Blackbaud**
+- **Direct employer programs** - Contact your HR department about matching gifts
+
+Search for "Sequoia Fabrica" in your company's giving portal or find us by our EIN, 93-4496044.
+
+If you need assistance with the matching process or have questions about our organization, please [contact us](/docs/contact).
+
+## Give Through a Donor Advised Fund
+
+Donor Advised Funds (DAFs) offer a tax-efficient way to support Sequoia Fabrica while maximizing your philanthropic impact.
+
+**How to donate from your DAF:**
+1. Log into your donor advised fund provider (Fidelity Charitable, Schwab Charitable, Daffy, etc.)
+2. Recommend a grant to **Sequoia Fabrica**, or use our EIN, **93-4496044**
+
+DAF donations help us plan long-term improvements to our workshop and expand our educational programming. Thank you for considering this meaningful way to invest in San Francisco's maker community.
+
+---
+
+Sequoia Fabrica is a California Public Benefit Corporation and tax-exempt public charity under Section 501(c)(3). **EIN: 93-4496044**
+
+Your donations are tax-deductible to the full extent allowed by law. We provide receipts for contributions. See [a summary of our impact](https://wiki.sequoiafabrica.org/wiki/Impact).
+
+**Questions about donating?** We're here to help! Please [contact us](/docs/contact) if you need assistance with any donation method or want to discuss other ways to support our mission.
+</div>
+</div>
+export default function MDXPage({ children }) {
+  return <DocumentLayout metadata={metadata}>{children}</DocumentLayout>;
+}
