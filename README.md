@@ -47,4 +47,4 @@ All project resources are located in the `public` directory. All source code is 
 - preference goes to formatting with tailwindcss whenever possible. Avoid adding custom css for every component you add.
 
 # Contributing
-Please file any bugs here or report them via email sequoiafabrica@gmail.com
+Please file any bugs here or report them via email info@sequoiafabrica.org
