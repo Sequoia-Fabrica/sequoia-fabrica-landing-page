@@ -26,52 +26,9 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART:20240518T170000Z
-DTEND:20240518T193000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sfh5-20240518100000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sfh5-20240518100000
-CREATED:20240516T161923Z
-DESCRIPTION:We get it: when you become a parent\, it becomes difficult to f
- ind space and motivation for yourself and to work on your projects. Let's d
- o it together - and bring your children! \nWhile parents set up in one side
-  of the room (with a laser cutter\, 3d printer\, sewing machine\, knitting 
- machine\, and desks)\, kids under 8 do crafts with an experienced children 
- instructor or play on the other side. Older kids can work on their own proj
- ects with their parents\, Children stay in view at all times. Parents can g
- o from working on their project to do crafts with their child at any point.
-  This week\, kids will be making wings they can wear (fairy wings\, dragon 
- wings or unicorn wings!) using cardboard. This activity is appropriate to a
- ll ages.\nCost covers all craft materials and activity for kids (up to two 
- kids per tickets)\, and use of workshop space for adults. Materials such as
-  plywood for the laser cutter for your project are available at the worksho
- p at extra cost. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sfh5-202405
- 18100000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Parents and Kids Make Saturdays: Make Wings!
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240509T160000Z
-DTEND:20240509T180000Z
-DTSTAMP:20260214T100853Z
-UID:84vu28s5iav6n8lcpvqh4qt86c@google.com
-CREATED:20240430T164204Z
-LAST-MODIFIED:20240430T164204Z
-LOCATION:Sequoia Fabrica Community Workshop\, 1736 18th St\, San Francisco\
- , CA 94107\, USA
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Corporate Workshop with Stanford Lab
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20240608T170000Z
 DTEND:20240608T183000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 UID:bwnp-x3ixm04f5wj7-ev-s4bb-20240608100000
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s4bb-20240608100000
 CREATED:20240516T161923Z
@@ -86,51 +43,216 @@ SUMMARY:Projects Co-working [members and +1s only]
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240414
-DTEND;VALUE=DATE:20240415
-DTSTAMP:20260214T100853Z
-UID:459gmvjmv9rik4m60eqvl8nrkd@google.com
-CREATED:20240320T205532Z
-LAST-MODIFIED:20240320T205556Z
+DTSTART:20240720T220000Z
+DTEND:20240720T230000Z
+DTSTAMP:20260215T100912Z
+UID:5d4nvplcs2sbb347854rojjlbv@google.com
+CREATED:20240315T031144Z
+LAST-MODIFIED:20240315T031144Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Craft supplies swap ? TBA
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20250507T180000
-DTEND;TZID=America/Los_Angeles:20250507T190000
-RRULE:FREQ=MONTHLY;COUNT=3;INTERVAL=3;BYMONTHDAY=7
-DTSTAMP:20260214T100853Z
-UID:rc8is2jm93okkd0c5aqvsjta7k@google.com
-CREATED:20250206T064817Z
-LAST-MODIFIED:20250206T065024Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:HOLD: Board Member Quarterly Meeting
+SUMMARY:Coffee Roasting at Park Branch Library
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240310T210000Z
-DTEND:20240311T000000Z
-DTSTAMP:20260214T100853Z
-UID:7kukuqrfedlm2f9tvfcd2u8g10f9hlnv6nt8hi9nubisnjiohqjlt8bt1oimtb0p601g
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
- afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
-CLASS:PUBLIC
-CREATED:20240215T203221Z
-LAST-MODIFIED:20241011T124148Z
-LOCATION:Sequoia Fabrica Community Workshop\, San Francisco\, CA\, 94107\, 
- us
+DTSTART:20240508T023000Z
+DTEND:20240508T040000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-so16-20240507193000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-so16-20240507193000
+CREATED:20240516T161922Z
+DESCRIPTION:Are you a knitter and curious about knitting machines? Are you 
+ generally curious about how knitting machines function? Are you interested 
+ in fiber arts or clothes making and want to expand your range of tools? Thi
+ s workshop is for you! \nKnitting machines are amazing pieces of equipment 
+ able to replicate virtually all hand knitting patterns - at a much faster p
+ ace.\nWe will demonstrate a range of knitting machines\, flat and circular\
+ , manual and computerized\, and will teach you the basic operations on a ho
+ me knitting machine. This knowledge can be applied to more complex machines
+ . You can then use our knitting machine during our open project classes\, o
+ pen workshop hours\, when you become a member\, or we can help you procure 
+ your own.\nAbout Sequoia Fabrica\nWe're an organization of volunteer makers
+  and artists who like to share our knowledge and skills with others. All mo
+ ney goes towards the workshop's operating costs. Invite your friends and fa
+ mily for an enriching experience.\nJoin our Newsletter: https://newsletter.
+ sequoiafabrica.org\nCheck out our Website: https://sequoiafabrica.org\nFoll
+ ow us on Instagram: https://www.instagram.com/sequoia.fabrica/\nDonate: htt
+ ps://donate.sequoiafabrica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/e
+ v-so16-20240507193000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Women in Design Editathon: Learn to edit Wikipedia!
-TRANSP:TRANSPARENT
+SUMMARY:Learn to use a Knitting Machine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240416T013000Z
+DTEND:20240416T033000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sm8f-20240415183000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sm8f-20240415183000
+CREATED:20240516T161922Z
+DESCRIPTION:Join a professional tailor and your fellow makers for an evenin
+ g of patching jeans\, replacing bag straps\, hemming t-shirts\, and anythin
+ g else you need to get that thing usable.\nNo sewing experience necessary\,
+  though basic skills will help.\nWhat we can help with:\nProfessional-style
+  mending (we have other classes dedicated to decorative mending like sashik
+ o)\nFitting and alterations\nWhat to bring:\nYour project\nWe are a new spa
+ ce and don’t yet have a broad stock of materials (specialty thread & notion
+ s\, specialty tools\, material for patching\, etc). However if you text wit
+ h a description of your project we may be able to bring in what you need. P
+ lease make your request at least two days advance.\nHow to find the class:\
+ n1736 18th St in Potrero Hill.\nIf you will be late the front door may be l
+ ocked. Knock loudly.\nPlease make sure to cancel on the Meetup App as early
+  as possible so that your spot opens up to other attendees\, or you can tex
+ t 718-496-5468 so we can cancel you.\nWe welcome your class requests. As a 
+ new making space we would love to hear what subjects you are interested in.
+  Our instructors have experience in areas like machine knitting\, corsetry\
+ , embroidery\, machine rug tufting\, leatherwork\, woodworking\, electronic
+ s\, laser cutting\, and many more.\n\n\nhttps://bookwhen.com/sequoiafabrica
+ /e/ev-sm8f-20240415183000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sewing: Mending\, Fitting\, & Alterations 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240403T023000Z
+DTEND:20240403T040000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sn05-20240402193000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
+CREATED:20240516T161922Z
+DESCRIPTION:Learn domestic sewing machine basics\, including how to set up 
+ the machine and safely operate it\, available accessories and stitches. You
+  may bring your own machine or use ours.\nThe registration fee for this cla
+ ss is $15. \nAbout Sequoia Fabrica:\nWe are a 501c3 non-profit entirely run
+  by volunteers. We welcome any additional donations to help us in serving t
+ he community.\n- sequoiafabrica.org\n- instagram.com/sequoia.fabrica\n\n\nh
+ ttps://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Learn to Use a Sewing Machine
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240424T013000Z
+DTEND:20240424T040000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-spmc-20240423183000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
+CREATED:20240516T161922Z
+DESCRIPTION:Make a cuff or choker necklace and learn leatherwork basics whi
+ le you do it\nWhat skills we will cover:\n- Cutting\n- Dying\n- Burnishing\
+ n- Setting rivets\, snaps\, and grommets\nWhat to bring:\nMeasurements if n
+ ot making for yourself. These will not be adjustable\nHow to find the class
+ :\n1736 18th St in Potrero Hill\nIf you will be late the front door may be 
+ locked. Knock loudly\nThis is a formal class. Please text 718-496-5468 if y
+ ou will be late\nTell us if you need to cancel so that we can open up the s
+ pace for others\nWe welcome your class requests. As a new making space we w
+ ould love to hear what subjects you are interested in. Our instructors have
+  experience in areas like machine knitting\, corsetry\, sewing machine main
+ tenance and repair\, embroidery\, screenprinting\, pattern making and drapi
+ ng\, machine rug tufting\, leatherwork\, 3D printing\, laser-cutting\, wood
+ working\, electronics\, and many more\nAbout Sequoia Fabrica\nWe're an orga
+ nization of volunteer makers and artists who like to share our knowledge an
+ d skills with others. All money goes towards the workshop's operating costs
+ . Invite your friends and family for an enriching experience.\nJoin our New
+ sletter: https://newsletter.sequoiafabrica.org\nCheck out our Website: http
+ s://sequoiafabrica.org\nFollow us on Instagram: https://www.instagram.com/s
+ equoia.fabrica/\nDonate: https://donate.sequoiafabrica.org\n\n\nhttps://boo
+ kwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Introduction to Leatherwork: Make A Cuff Bracelet or Choker Necklac
+ e
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240719T020000Z
+DTEND:20240719T033000Z
+DTSTAMP:20260215T100912Z
+UID:event_wrjrktygckbxb@meetup.com
+URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
+ vents/wrjrktygckbxb/
+CLASS:PUBLIC
+CREATED:20240307T181544Z
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, July
+  18 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of solde
+ ring and using a soldering iron. Walk away with a circuit you assembled you
+ rself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoia
+ -fabrica-community-workshop-and-classes/events/wrjrktygckbxb/
+LAST-MODIFIED:20240307T181702Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Solder & Circuit Thursdays
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240427T173000Z
+DTEND:20240427T190000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sjlb-20240427103000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sjlb-20240427103000
+CREATED:20240516T161922Z
+DESCRIPTION:Please join us to build\, customize and paint your very own woo
+ den fairy house! We designed San Francisco style miniature houses for your 
+ family to customize. We will have a short laser cutter demonstration\, and 
+ the rest of the workshop will focus on customizing houses with paint\, gems
+ \, felt\, and small furniture\, as adapted to participants' age.\nNotes on 
+ the Class\nThis workshop is adapted for kids 3 years-old and older accompan
+ ied by an adult. \nOne ticket is for one child accompanied by an adult. One
+  adult may accompany two children older than 4 or one child under 4. Price 
+ includes one fairy house per child. Additional kits may be available for pu
+ rchase.\nWe will use non-toxic washable paints (we recommend the houses to 
+ be varnished before being installed outdoors)\, but we recommend dressing i
+ n "play condition" clothes or bringing a paint apron. \nAbout Sequoia Fabri
+ ca\nWe're an organization of volunteer makers and artists who like to share
+  our knowledge and skills with others. All money goes towards the workshop'
+ s operating costs. Invite your friends and family for an enriching experien
+ ce.\nJoin our Newsletter: https://newsletter.sequoiafabrica.org\nCheck out 
+ our Website: https://sequoiafabrica.org\nFollow us on Instagram: https://ww
+ w.instagram.com/sequoia.fabrica/\nDonate: https://donate.sequoiafabrica.org
+ \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sjlb-20240427103000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Build a Fairy House
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250213T193000Z
+DTEND:20250213T200000Z
+DTSTAMP:20260215T100912Z
+ORGANIZER;CN=madeline.robertson@setcreative.com:mailto:madeline.robertson@s
+ etcreative.com
+UID:6frc1eiph5gae49fd3rdi7sqic@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
+ afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/ohq-heuz-gsh
+CREATED:20250213T150846Z
+DESCRIPTION:Join with Google Meet: https://meet.google.com/ohq-heuz-gsh\nOr
+  dial: (US) +1 417-986-4723 PIN: 294020133#\nMore phone numbers: https://te
+ l.meet/ohq-heuz-gsh?pin=4394141423195&hs=7\n\nLearn more about Meet at: htt
+ ps://support.google.com/a/users/answer/9282720
+LAST-MODIFIED:20250213T163136Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Set Creative x Sequoia Fabrica
+TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250507T170000Z
 DTEND:20250507T173000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 ORGANIZER;CN=amelara@sfmoma.org:mailto:amelara@sfmoma.org
 UID:040000008200E00074C5B7101A82E00800000000AC880AF7DDBEDB01000000000000000
  01000000046C784D446299E4B9699C332A3571F46
@@ -197,144 +319,9 @@ X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
 X-MICROSOFT-LOCATIONSOURCE:None
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20231221T173000Z
-DTEND:20231221T183000Z
-DTSTAMP:20260214T100853Z
-ORGANIZER;CN=charlie.hanafin@jll.com:mailto:charlie.hanafin@jll.com
-UID:040000008200E00074C5B7101A82E0080000000030335B38BA31DA01000000000000000
- 0100000003CB61422215A5044BE8E2C7E3BA87FD4
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
- afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
-CREATED:20231218T220241Z
-DESCRIPTION:Emeline - WELCOME TO PIER 70\n\n\nWe’re looking forward to havi
- ng you join us on-site\, attached is a map to get there\, really easy – ent
- er down 20th Street\, take your first right\, follow the L-shaped to the pa
- rking lot (image attached)\n\n\nDirections to Pier 70:\nRoute to 579 20th S
- treet\, San Francisco\, CA 94107\n\n  *   Enter the site from 20th street\n
-   *   Park in the lot behind Building 12 in any open spot\n\nContact:\nDon’
- t hesitate to reach out with questions\, concerns or assistance on the day 
- of the tour. My number is 206-595-4909\n\n
-LAST-MODIFIED:20231218T225746Z
-LOCATION:579 20th Street\, San Francisco\, CA 94107
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sequoia Fabrica - Pier 70 Tour 
-TRANSP:OPAQUE
-ATTACH;FILENAME=Pier 70 Directions Map.pdf:https://mail.google.com/?view=at
- t&th=18c7ef3fe0143b10&attid=0.1&disp=attd&zw
-X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
-X-MICROSOFT-CDO-INSTTYPE:0
-X-MICROSOFT-CDO-APPT-SEQUENCE:0
-X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
-X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "579 20th Street\, San Francisco\
- , CA 94107"\, "LocationAnnotation" : ""\, "LocationSource" : 0\, "Unresolve
- d" : false\, "LocationUri" : "" } ]
-X-MICROSOFT-CDO-OWNERAPPTID:1163053031
-X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
-X-MICROSOFT-DISALLOW-COUNTER:FALSE
-X-MICROSOFT-DONOTFORWARDMEETING:FALSE
-X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
-X-MICROSOFT-CDO-IMPORTANCE:1
-X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240504T173000Z
-DTEND:20240504T190000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sp45-20240504103000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sp45-20240504103000
-CREATED:20240516T161922Z
-DESCRIPTION:Sewing is a great life skill and a fantastic way to bond! Disco
- ver the basics of hand and machine sewing with your child. The instructor i
- s experienced in sewing with young children\, including her 18 months old. 
- The class will cover the basics. Children will draw and make a felt plushie
-  or keyholder. \nNotes on the class\nPrice includes materials.\nEach ticket
-  admits one child. Kids under 6 need to be accompanied by an adult. For kid
- s older than 6\, one adult can accompany up to two kids.\nPlease do not wea
- r long loose sleeves that can get caught in the sewing machine.\nAbout Sequ
- oia Fabrica\nWe're an organization of volunteer makers and artists who like
-  to share our knowledge and skills with others. All money goes towards the 
- workshop's operating costs. Invite your friends and family for an enriching
-  experience.\nJoin our Newsletter: https://newsletter.sequoiafabrica.org\nC
- heck out our Website: https://sequoiafabrica.org\nFollow us on Instagram: h
- ttps://www.instagram.com/sequoia.fabrica/\nDonate: https://donate.sequoiafa
- brica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sp45-20240504103000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sew a Plushie! Parents and Kids Learn to Sew
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20240402T190000
-DTEND;TZID=America/Los_Angeles:20240402T200000
-RRULE:FREQ=MONTHLY;UNTIL=20260106T075959Z;BYDAY=1TU
-DTSTAMP:20260214T100853Z
-UID:57q3gsjcehm3f9n1ks994c6i3k@google.com
-CREATED:20240317T171333Z
-LAST-MODIFIED:20260106T171454Z
-LOCATION:Sequoia Fabrica Community Workshop\, 1736 18th St\, San Francisco\
- , CA 94107\, USA
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:New Member Orientation
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240313T021000Z
-DTEND:20240313T040000Z
-DTSTAMP:20260214T100853Z
-UID:event_299343885@meetup.com
-URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/299343885/
-CLASS:PUBLIC
-CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, March
-  12 at 7:10 PM\n\nBring a project you need help with or just come to have f
- un working with your fellow makers **What we do:** * Clothing\, costumes\, 
- accessories* Profess...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequo
- ia-fabrica-community-workshop-and-classes/events/299343885/
-LAST-MODIFIED:20240307T181702Z
-LOCATION:1736 18th St (1736 18th St\, San Francisco\, CA 94107)
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sewing: Open Project Night
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240414T180000Z
-DTEND:20240415T030000Z
-DTSTAMP:20260214T100853Z
-UID:2mab9l390lh3cce1h76raq7fns@google.com
-CREATED:20240407T162618Z
-LAST-MODIFIED:20240408T222113Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Prusa Upgrade
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240511T170000Z
-DTEND:20240511T183000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-s4bb-20240511100000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s4bb-20240511100000
-CREATED:20240516T161923Z
-DESCRIPTION:Work on DIY projects together. :) This event is for members and
-  member guests only. Please don't register if you aren't a member.\n\n\nhtt
- ps://bookwhen.com/sequoiafabrica/e/ev-s4bb-20240511100000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Projects Co-working [members and +1s only]
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20240410T013000Z
 DTEND:20240410T033000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 UID:bwnp-x3ixm04f5wj7-ev-sqlx-20240409183000
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sqlx-20240409183000
 CREATED:20240516T161922Z
@@ -374,127 +361,44 @@ SUMMARY:Sewing: Open Project Night
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240302T220000Z
-DTEND:20240302T230000Z
-DTSTAMP:20260214T100853Z
-UID:2nb10fi4ol0i3epmlqukke2g3b@google.com
-CREATED:20240315T030940Z
-LAST-MODIFIED:20240315T030939Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:coffee roasting at mission bay library
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240424T013000Z
-DTEND:20240424T040000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-spmc-20240423183000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
-CREATED:20240516T161922Z
-DESCRIPTION:Make a cuff or choker necklace and learn leatherwork basics whi
- le you do it\nWhat skills we will cover:\n- Cutting\n- Dying\n- Burnishing\
- n- Setting rivets\, snaps\, and grommets\nWhat to bring:\nMeasurements if n
- ot making for yourself. These will not be adjustable\nHow to find the class
- :\n1736 18th St in Potrero Hill\nIf you will be late the front door may be 
- locked. Knock loudly\nThis is a formal class. Please text 718-496-5468 if y
- ou will be late\nTell us if you need to cancel so that we can open up the s
- pace for others\nWe welcome your class requests. As a new making space we w
- ould love to hear what subjects you are interested in. Our instructors have
-  experience in areas like machine knitting\, corsetry\, sewing machine main
- tenance and repair\, embroidery\, screenprinting\, pattern making and drapi
- ng\, machine rug tufting\, leatherwork\, 3D printing\, laser-cutting\, wood
- working\, electronics\, and many more\nAbout Sequoia Fabrica\nWe're an orga
- nization of volunteer makers and artists who like to share our knowledge an
- d skills with others. All money goes towards the workshop's operating costs
- . Invite your friends and family for an enriching experience.\nJoin our New
- sletter: https://newsletter.sequoiafabrica.org\nCheck out our Website: http
- s://sequoiafabrica.org\nFollow us on Instagram: https://www.instagram.com/s
- equoia.fabrica/\nDonate: https://donate.sequoiafabrica.org\n\n\nhttps://boo
- kwhen.com/sequoiafabrica/e/ev-spmc-20240423183000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Introduction to Leatherwork: Make A Cuff Bracelet or Choker Necklac
- e
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240419T013000Z
-DTEND:20240419T033000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-scjb-20240418183000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-scjb-20240418183000
-CREATED:20240516T161922Z
-DESCRIPTION:Meet with local Wikipedians and work on your Wikipedia to-do li
- st\, either online or in person! All contributors\, active or not\, on any 
- Wikimedia project\, welcome. If you have never edited Wikipedia before\, we
-  will help you set up a new account and tools designed to help you get star
- ted.\nWe will have a short round of intros and an opportunity to do lightni
- ng talk on your fav Wikipedia thing. We'll have foods and drinks (please br
- ing some too!)\, and time to talk\, collaborate\, or work on our wiki proje
- cts.\nJoin us online at: https://meet.google.com/ytu-cghy-qfo\nhttps://en.w
- ikipedia.org/wiki/Wikipedia:BayAreaWikiSalon\n\n\nhttps://bookwhen.com/sequ
- oiafabrica/e/ev-scjb-20240418183000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Bay Area Wikipedia Salon
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240309T190000Z
-DTEND:20240309T220000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-skx3-20240309110000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-skx3-20240309110000
-CREATED:20240516T161922Z
-DESCRIPTION:https://bookwhen.com/sequoiafabrica/e/ev-skx3-20240309110000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sequoia Fabrica - Neighborhood Open House
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240710T020000Z
-DTEND:20240710T033000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sok7-20240709190000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sok7-20240709190000
+DTSTART:20240517T020000Z
+DTEND:20240517T033000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240516190000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240516190000
 CREATED:20240516T161923Z
-DESCRIPTION:Learn domestic sewing machine basics\, including how to set up 
- the machine and operate it. You may bring your own machine or use ours. The
-  class covers threading\, basic maintenance and troubleshooting\, how to ch
- oose needles and feet pressers\, types of stitches and some thread basics.\
- nOur Sewing 101 classes usually have a waitlist\, so if you are unable to a
- ttend we ask that you cancel so that someone else can come to the class. Pl
- ease cancel even if it is last minute.\nThe registration fee for this class
-  is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sok7-20240709190000
+DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
+ nd using a soldering iron. Walk away with a circuit kit you assembled yours
+ elf that will do a fun little trick\, like flash LEDs\, or respond to light
+ . This is a great chance to learn a new skill with us over at Sequoia Fabri
+ ca.\nNotes on the Class\nSoldering performed properly is a safe\, fun proje
+ ct. We will go over best practices for working with the iron and give you t
+ he chance to practice the skill.\nAbout Sequoia Fabrica\nWe're an organizat
+ ion of volunteer makers and artists who like to share our knowledge and ski
+ lls with others. All money goes towards the workshop's operating costs. Inv
+ ite your friends and family for an enriching experience.\n\n\nhttps://bookw
+ hen.com/sequoiafabrica/e/ev-sxtv-20240516190000
 LAST-MODIFIED:20240516T161949Z
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
+SUMMARY:Introduction to Soldering
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240816T020000Z
-DTEND:20240816T033000Z
-DTSTAMP:20260214T100853Z
-UID:event_wrjrktygclbtb@meetup.com
+DTSTART:20240419T020000Z
+DTEND:20240419T033000Z
+DTSTAMP:20260215T100912Z
+UID:event_wrjrktygcgbxb@meetup.com
 URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/wrjrktygclbtb/
+ vents/wrjrktygcgbxb/
 CLASS:PUBLIC
 CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, Augu
- st 15 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of sol
- dering and using a soldering iron. Walk away with a circuit you assembled y
- ourself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequo
- ia-fabrica-community-workshop-and-classes/events/wrjrktygclbtb/
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, Apri
+ l 18 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of sold
+ ering and using a soldering iron. Walk away with a circuit you assembled yo
+ urself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoi
+ a-fabrica-community-workshop-and-classes/events/wrjrktygcgbxb/
 LAST-MODIFIED:20240307T181702Z
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -502,48 +406,9 @@ SUMMARY:Solder & Circuit Thursdays
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20241205T013000Z
-DTEND:20241205T033000Z
-DTSTAMP:20260214T100853Z
-UID:5tpio49h2j90bpevdt696sgmdp@google.com
-CREATED:20241112T042851Z
-DESCRIPTION:Sequoia Fabrica Members will be running a printmaking event at 
- Red Tail Bar in Middle Market
-LAST-MODIFIED:20241112T042851Z
-LOCATION:The Red Tail Beer & Wine Bar\, 992 Market St\, San Francisco\, CA 
- 94102\, USA
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Postcard Making @ Red Tail Bar
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240524T021500Z
-DTEND:20240524T034500Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sgkz-20240523191500
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sgkz-20240523191500
-CREATED:20240516T161923Z
-DESCRIPTION:Are you a fiber artist? Are you an artist working with textile?
-  A fabric designer? This meetup is for you!\nWe will have short introductio
- ns on our past and current work\, a tour of the space and its tool\, and a 
- skillshare on knitweaving. If you have a project to work on\, bring it too!
- \nSequoia Fabrica maintains many textile tools and resources that could be 
- helpful to your work\, but more importantly\, we want a place where artists
-  can meet. Our community includes artists interested in electronics and tex
- tile\, Wearable art\, performance...\n\n\nhttps://bookwhen.com/sequoiafabri
- ca/e/ev-sgkz-20240523191500
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Bay Area Fibers Artists and Designers meetup
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20240417T020000Z
 DTEND:20240417T033000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 UID:4faeqsd6u1t04tl1ruagji079u@google.com
 CREATED:20240316T021527Z
 LAST-MODIFIED:20240321T183513Z
@@ -553,42 +418,127 @@ SUMMARY:Scarf sewing workshop (Maggie)
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240427T173000Z
-DTEND:20240427T190000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sjlb-20240427103000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sjlb-20240427103000
-CREATED:20240516T161922Z
-DESCRIPTION:Please join us to build\, customize and paint your very own woo
- den fairy house! We designed San Francisco style miniature houses for your 
- family to customize. We will have a short laser cutter demonstration\, and 
- the rest of the workshop will focus on customizing houses with paint\, gems
- \, felt\, and small furniture\, as adapted to participants' age.\nNotes on 
- the Class\nThis workshop is adapted for kids 3 years-old and older accompan
- ied by an adult. \nOne ticket is for one child accompanied by an adult. One
-  adult may accompany two children older than 4 or one child under 4. Price 
- includes one fairy house per child. Additional kits may be available for pu
- rchase.\nWe will use non-toxic washable paints (we recommend the houses to 
- be varnished before being installed outdoors)\, but we recommend dressing i
- n "play condition" clothes or bringing a paint apron. \nAbout Sequoia Fabri
- ca\nWe're an organization of volunteer makers and artists who like to share
-  our knowledge and skills with others. All money goes towards the workshop'
- s operating costs. Invite your friends and family for an enriching experien
- ce.\nJoin our Newsletter: https://newsletter.sequoiafabrica.org\nCheck out 
- our Website: https://sequoiafabrica.org\nFollow us on Instagram: https://ww
- w.instagram.com/sequoia.fabrica/\nDonate: https://donate.sequoiafabrica.org
- \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sjlb-20240427103000
+DTSTART:20240607T020000Z
+DTEND:20240607T040000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-s8v4-20240606190000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-s8v4-20240606190000
+CREATED:20240516T161923Z
+DESCRIPTION:Dive into the art of spoon-making in our hands-on workshop desi
+ gned for both beginners and seasoned crafters! Join us for a session where 
+ you'll learn to power carve and perfect your own small condiment spoons usi
+ ng a Rotary (Dremel) tool. Then everyone has a chance to customize their sp
+ oon with laser engraving. This class demonstrates how to make traditional o
+ bjects with modern tools.\nThis workshop will guide you through the fundame
+ ntals of rotary tools\, and mastering the techniques needed to create beaut
+ iful and functional spoons. \nWhat You Will Learn:\nDremel Basics: Get to k
+ now how to use a variety of Dremel bits for carving and smoothing\nEngravin
+ g: Everyone will have the opportunity to engrave their spoon with a design 
+ of their choice using our laser cutter\nFinishing: We will finish the spoon
+ s with a coating of beeswax to seal and protect the wood\n\n\nhttps://bookw
+ hen.com/sequoiafabrica/e/ev-s8v4-20240606190000
 LAST-MODIFIED:20240516T161949Z
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Build a Fairy House
+SUMMARY:Spoonmaking and Engraving
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240518T170000Z
+DTEND:20240518T193000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sfh5-20240518100000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sfh5-20240518100000
+CREATED:20240516T161923Z
+DESCRIPTION:We get it: when you become a parent\, it becomes difficult to f
+ ind space and motivation for yourself and to work on your projects. Let's d
+ o it together - and bring your children! \nWhile parents set up in one side
+  of the room (with a laser cutter\, 3d printer\, sewing machine\, knitting 
+ machine\, and desks)\, kids under 8 do crafts with an experienced children 
+ instructor or play on the other side. Older kids can work on their own proj
+ ects with their parents\, Children stay in view at all times. Parents can g
+ o from working on their project to do crafts with their child at any point.
+  This week\, kids will be making wings they can wear (fairy wings\, dragon 
+ wings or unicorn wings!) using cardboard. This activity is appropriate to a
+ ll ages.\nCost covers all craft materials and activity for kids (up to two 
+ kids per tickets)\, and use of workshop space for adults. Materials such as
+  plywood for the laser cutter for your project are available at the worksho
+ p at extra cost. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sfh5-202405
+ 18100000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Parents and Kids Make Saturdays: Make Wings!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240319T190000
+DTEND;TZID=America/Los_Angeles:20240319T200000
+RRULE:FREQ=MONTHLY;UNTIL=20260120T075959Z;BYDAY=3TU
+EXDATE;TZID=America/Los_Angeles:20241217T190000
+DTSTAMP:20260215T100912Z
+UID:7qslse1b8ulj7d1hp340p1bfkt@google.com
+CREATED:20240317T171240Z
+LAST-MODIFIED:20260106T171458Z
+LOCATION:Sequoia Fabrica Community Workshop\, 1736 18th St\, San Francisco\
+ , CA 94107\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:New Member Orientation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240327T010000Z
+DTEND:20240327T040000Z
+DTSTAMP:20260215T100912Z
+UID:event_299537749@meetup.com
+URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
+ vents/299537749/
+CLASS:PUBLIC
+CREATED:20240307T181544Z
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, March
+  26 at 6:00 PM\n\nGet ready for summer with a child- or adult-size sunbonne
+ t This is a great project for those who are familiar with using a sewing ma
+ chine and basic te...\n\nPrice: 20.00 USD\n\nhttps://www.meetup.com/sequoia
+ -fabrica-community-workshop-and-classes/events/299537749/
+LAST-MODIFIED:20240307T181702Z
+LOCATION:Sequoia Fabrica Community Workshop (1736 18th St\, San Francisco\,
+  CA 94107)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sew A Sunbonnet
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240517T013000Z
+DTEND:20240517T033000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sr2l-20240516183000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sr2l-20240516183000
+CREATED:20240516T161923Z
+DESCRIPTION:Meet with local Wikipedians and work on your Wikipedia to-do li
+ st\, either online or in person! All contributors\, active or not\, on any 
+ Wikimedia project\, welcome. If you have never edited Wikipedia before\, we
+  will help you set up a new account and tools designed to help you get star
+ ted.\nWe will have a short round of intros and an opportunity to do lightni
+ ng talk on your fav Wikipedia thing. We'll have foods and drinks (please br
+ ing some too!)\, and time to talk\, collaborate\, or work on our wiki proje
+ cts.\nPlease let us know if you would like to attend online.\nhttps://en.wi
+ kipedia.org/wiki/Wikipedia:BayAreaWikiSalon\n\n\nhttps://bookwhen.com/sequo
+ iafabrica/e/ev-sr2l-20240516183000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Learn to edit Wikipedia / Wikisalon
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20241205T013000Z
 DTEND:20241205T033000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 ORGANIZER;CN=91b175c79eef4be83eaa6c45a14becc67b8521302b4446d3900347c61c1e44
  1c@group.calendar.google.com:mailto:91b175c79eef4be83eaa6c45a14becc67b85213
  02b4446d3900347c61c1e441c@group.calendar.google.com
@@ -622,79 +572,92 @@ ATTACH;FILENAME=Well Crafted - Red Tail - Registration List.pdf;FMTTYPE=app
  sTWw
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240508T023000Z
-DTEND:20240508T040000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-so16-20240507193000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-so16-20240507193000
-CREATED:20240516T161922Z
-DESCRIPTION:Are you a knitter and curious about knitting machines? Are you 
- generally curious about how knitting machines function? Are you interested 
- in fiber arts or clothes making and want to expand your range of tools? Thi
- s workshop is for you! \nKnitting machines are amazing pieces of equipment 
- able to replicate virtually all hand knitting patterns - at a much faster p
- ace.\nWe will demonstrate a range of knitting machines\, flat and circular\
- , manual and computerized\, and will teach you the basic operations on a ho
- me knitting machine. This knowledge can be applied to more complex machines
- . You can then use our knitting machine during our open project classes\, o
- pen workshop hours\, when you become a member\, or we can help you procure 
- your own.\nAbout Sequoia Fabrica\nWe're an organization of volunteer makers
-  and artists who like to share our knowledge and skills with others. All mo
- ney goes towards the workshop's operating costs. Invite your friends and fa
- mily for an enriching experience.\nJoin our Newsletter: https://newsletter.
- sequoiafabrica.org\nCheck out our Website: https://sequoiafabrica.org\nFoll
- ow us on Instagram: https://www.instagram.com/sequoia.fabrica/\nDonate: htt
- ps://donate.sequoiafabrica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/e
- v-so16-20240507193000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+DTSTART:20241212T013000Z
+DTEND:20241212T033000Z
+DTSTAMP:20260215T100912Z
+ORGANIZER;CN=91b175c79eef4be83eaa6c45a14becc67b8521302b4446d3900347c61c1e44
+ 1c@group.calendar.google.com:mailto:91b175c79eef4be83eaa6c45a14becc67b85213
+ 02b4446d3900347c61c1e441c@group.calendar.google.com
+UID:797cirv6je60cike1mmjsghlth@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
+ afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
+X-GOOGLE-CONFERENCE:https://meet.google.com/okr-nhms-vgh
+CREATED:20241030T233629Z
+DESCRIPTION:Lazer printing<br><br>Hello! This is scheduled! If I could plea
+ se get the below info by this friday 11/1 please and thank you! <br><br>@ S
+ equoia please provide the name/email/phone # of the teacher for this activa
+ tion plus a brief description. Also please have them fill out this form <a 
+ href="https://docs.google.com/forms/d/e/1FAIpQLSfKXfMgp1nM3JG7z5ffHP10dos7H
+ HP-g3xYCX8F50D3Aj90MA/viewform">https://docs.google.com/forms/d/e/1FAIpQLSf
+ KXfMgp1nM3JG7z5ffHP10dos7HHP-g3xYCX8F50D3Aj90MA/viewform</a> it is $300 to 
+ the instructor plus a reimbursement of up to $100 for supplies with receipt
+ . <br><br>@ Stella they will need access to an outlet. Pay for venues is $3
+ 00. Please fill out this form to receive your payment Also please have them
+  fill out this form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKXf
+ Mgp1nM3JG7z5ffHP10dos7HHP-g3xYCX8F50D3Aj90MA/viewform">https://docs.google.
+ com/forms/d/e/1FAIpQLSfKXfMgp1nM3JG7z5ffHP10dos7HHP-g3xYCX8F50D3Aj90MA/view
+ form</a> if you could also include a quick blurb about your space. <br><br>
+ @ Abra let me know if you need anything ese! Thank you! <br><br>Also ! Plea
+ se join us for WorkshopSF's First friday party on 11/1 on the house :) <a h
+ ref="https://www.workshopsf.org/class/workshop-sf-first-friday-melt-pour-so
+ ap-and-bath-salts/">https://www.workshopsf.org/class/workshop-sf-first-frid
+ ay-melt-pour-soap-and-bath-salts/</a>\n\nJoin with Google Meet: https://mee
+ t.google.com/okr-nhms-vgh\n\nLearn more about Meet at: https://support.goog
+ le.com/a/users/answer/9282720
+LAST-MODIFIED:20241211T164217Z
+LOCATION:Saluhall SF\, 945 Market St Suite 102\, San Francisco\, CA 94103\,
+  USA
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Learn to use a Knitting Machine
+SUMMARY:LAZER PRINTING @ SALUHALL
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240414T180000Z
-DTEND:20240414T210000Z
-DTSTAMP:20260214T100853Z
-UID:3532bc1cun2vsorfugnt7sddtd@google.com
-CREATED:20240407T162630Z
-LAST-MODIFIED:20240407T163342Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:Craft Supply Swap
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240406T200000Z
-DTEND:20240406T210000Z
-DTSTAMP:20260214T100853Z
-UID:3sk5s8n939u2i5uh866b694qqr@google.com
-CREATED:20240315T031109Z
-LAST-MODIFIED:20240315T031108Z
+DTEND:20240415T030000Z
+DTSTAMP:20260215T100912Z
+UID:2mab9l390lh3cce1h76raq7fns@google.com
+CREATED:20240407T162618Z
+LAST-MODIFIED:20240408T222113Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Coffee roasting at Western Addition Library
+SUMMARY:Prusa Upgrade
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240324T190000Z
-DTEND:20240324T220000Z
-DTSTAMP:20260214T100853Z
-UID:20lqd97jcb0h5o5lihuh6fch7q@google.com
-CREATED:20240307T184556Z
-LAST-MODIFIED:20240307T184556Z
+DTSTART;TZID=America/Los_Angeles:20250507T180000
+DTEND;TZID=America/Los_Angeles:20250507T190000
+RRULE:FREQ=MONTHLY;COUNT=3;INTERVAL=3;BYMONTHDAY=7
+DTSTAMP:20260215T100912Z
+UID:rc8is2jm93okkd0c5aqvsjta7k@google.com
+CREATED:20250206T064817Z
+LAST-MODIFIED:20250206T065024Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:HOLD: Board Member Quarterly Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20240521T190000
+DTEND;TZID=America/Los_Angeles:20240521T200000
+DTSTAMP:20260215T100912Z
+UID:7qslse1b8ulj7d1hp340p1bfkt@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
+ afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20240521T190000
+CREATED:20240317T171240Z
+LAST-MODIFIED:20260106T171458Z
 LOCATION:Sequoia Fabrica Community Workshop\, 1736 18th St\, San Francisco\
  , CA 94107\, USA
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:DIY Museum Art Event
+SUMMARY:New Member Orientation
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240316T170000Z
 DTEND:20240316T183000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 UID:7kukuqrfedlm2f9tcbbh78pab7ur5jl0vfkurgq0foa7d5bnuma7hchrdtattihpg820
 ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
  afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
@@ -708,9 +671,277 @@ SUMMARY:Canceled: Saturday Morning Kids Craft: Sock Snakes!
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20240320T013000Z
+DTEND:20240320T033000Z
+DTSTAMP:20260215T100912Z
+UID:event_299423269@meetup.com
+URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
+ vents/299423269/
+CLASS:PUBLIC
+CREATED:20240307T181544Z
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, March
+  19 at 6:30 PM\n\nJoin a professional tailor and your fellow makers for an 
+ evening of patching jeans\, replacing bag straps\, hemming t-shirts\, and a
+ nything else you need...\n\nPrice: 5.00 USD\n\nhttps://www.meetup.com/sequo
+ ia-fabrica-community-workshop-and-classes/events/299423269/
+LAST-MODIFIED:20240307T181702Z
+LOCATION:1736 18th St (1736 18th St\, San Francisco\, CA 94107)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sewing: Mending\, Fitting\, & Alterations 
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240508T020000Z
+DTEND:20240508T033000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-s8a9-20240507190000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-s8a9-20240507190000
+CREATED:20240516T161922Z
+DESCRIPTION:Learn domestic sewing machine basics\, including how to set up 
+ the machine and operate it. You may bring your own machine or use ours. The
+  class covers threading\, basic maintenance and troubleshooting\, how to ch
+ oose needles and feet pressers\, types of stitches and some thread basics.\
+ nOur Sewing 101 classes usually have a waitlist\, so if you are unable to a
+ ttend we ask that you cancel so that someone else can come to the class. Pl
+ ease cancel even if it is last minute.\nThe registration fee for this class
+  is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-s8a9-20240507190000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T020000Z
+DTEND:20240419T033000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240418190000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240418190000
+CREATED:20240516T161922Z
+DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
+ nd using a soldering iron. Walk away with a circuit kit you assembled yours
+ elf that will do a fun little trick\, like flash LEDs\, or respond to light
+ . This is a great chance to learn a new skill with us over at Sequoia Fabri
+ ca.\nNotes on the Class\nSoldering performed properly is a safe\, fun proje
+ ct. We will go over best practices for working with the iron and give you t
+ he chance to practice the skill.\nAbout Sequoia Fabrica\nWe're an organizat
+ ion of volunteer makers and artists who like to share our knowledge and ski
+ lls with others. All money goes towards the workshop's operating costs. Inv
+ ite your friends and family for an enriching experience.\n\n\nhttps://bookw
+ hen.com/sequoiafabrica/e/ev-sxtv-20240418190000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Introduction to Soldering
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240509T160000Z
+DTEND:20240509T180000Z
+DTSTAMP:20260215T100912Z
+UID:84vu28s5iav6n8lcpvqh4qt86c@google.com
+CREATED:20240430T164204Z
+LAST-MODIFIED:20240430T164204Z
+LOCATION:Sequoia Fabrica Community Workshop\, 1736 18th St\, San Francisco\
+ , CA 94107\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Corporate Workshop with Stanford Lab
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240414T180000Z
+DTEND:20240414T210000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-syhy-20240414110000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-syhy-20240414110000
+CREATED:20240516T161922Z
+DESCRIPTION:Bring up to 2 bags of fabric\, glue\, glitter\, paper\, tools\,
+  yarn\, paints\, markers\, etc.\nWe may be able to donate to SCRAP (https:/
+ /www.scrap-sf.org/)\, but please be prepared to take any leftover supplies 
+ home with you!\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-syhy-202404141
+ 10000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Crafts supply swap
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240322T020000Z
+DTEND:20240322T033000Z
+DTSTAMP:20260215T100912Z
+UID:event_wrjrktygcfbcc@meetup.com
+URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
+ vents/299599695/
+CLASS:PUBLIC
+CREATED:20240307T181544Z
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, Marc
+ h 21 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of sold
+ ering and using a soldering iron. Walk away with a circuit you assembled yo
+ urself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoi
+ a-fabrica-community-workshop-and-classes/events/299599695/
+LAST-MODIFIED:20240307T181702Z
+LOCATION:Sequoia Fabrica Community Workshop (1736 18th St\, San Francisco\,
+  CA 94107)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Solder & Circuit Thursdays
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240710T020000Z
+DTEND:20240710T033000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sok7-20240709190000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sok7-20240709190000
+CREATED:20240516T161923Z
+DESCRIPTION:Learn domestic sewing machine basics\, including how to set up 
+ the machine and operate it. You may bring your own machine or use ours. The
+  class covers threading\, basic maintenance and troubleshooting\, how to ch
+ oose needles and feet pressers\, types of stitches and some thread basics.\
+ nOur Sewing 101 classes usually have a waitlist\, so if you are unable to a
+ ttend we ask that you cancel so that someone else can come to the class. Pl
+ ease cancel even if it is last minute.\nThe registration fee for this class
+  is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sok7-20240709190000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240309T190000Z
+DTEND:20240309T220000Z
+DTSTAMP:20260215T100912Z
+UID:4mt6445ns1veecjvk0nflqc02j@google.com
+CREATED:20240309T003248Z
+LAST-MODIFIED:20240309T003248Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:OPEN HOUSE
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240327T010000Z
+DTEND:20240327T023000Z
+DTSTAMP:20260215T100912Z
+UID:event_299351476@meetup.com
+URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
+ vents/299351476/
+CLASS:PUBLIC
+CREATED:20240307T181544Z
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, March
+  26 at 6:00 PM\n\nCreate a beeswax candle at our one-hour workshop! Join us
+  to make a dipped beeswax candle with your own hands at Sequoia Fabrica. Su
+ itable for all ski...\n\nPrice: 18.00 USD\n\nhttps://www.meetup.com/sequoia
+ -fabrica-community-workshop-and-classes/events/299351476/
+LAST-MODIFIED:20240307T181702Z
+LOCATION:1736 18th St (1736 18th St\, San Francisco\, CA 94107)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dip Candlestick Making
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240309T190000Z
+DTEND:20240309T220000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-skx3-20240309110000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-skx3-20240309110000
+CREATED:20240516T161922Z
+DESCRIPTION:https://bookwhen.com/sequoiafabrica/e/ev-skx3-20240309110000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sequoia Fabrica - Neighborhood Open House
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240511T170000Z
+DTEND:20240511T183000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-s4bb-20240511100000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-s4bb-20240511100000
+CREATED:20240516T161923Z
+DESCRIPTION:Work on DIY projects together. :) This event is for members and
+  member guests only. Please don't register if you aren't a member.\n\n\nhtt
+ ps://bookwhen.com/sequoiafabrica/e/ev-s4bb-20240511100000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Projects Co-working [members and +1s only]
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240612T030000Z
+DTEND:20240612T043000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-s03z-20240611200000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-s03z-20240611200000
+CREATED:20240516T161923Z
+DESCRIPTION:In this class\, you will make a mini quilt\, to discover and pr
+ actice hand and machine quilting techniques. This class is appropriate for 
+ those with basic knowledge of hand sewing and how to operate a sewing machi
+ ne.\nWe will:\n- assemble four quilt blocks\;\n- assemble the blocks and th
+ e batting (and discuss how to choose the right batting for your project)\;\
+ n- use a free motion foot\;\n- make our own bias binding\;\n- bind off the 
+ quilt.\n(note that you may need to finish binding off the quilt at home\, w
+ hich is done by hand)\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-s03z-20
+ 240611200000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Quilting Basics
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240321T220000Z
+DTEND:20240322T010000Z
+DTSTAMP:20260215T100912Z
+UID:2ph17qlcg8e59b7jejdrb4rsn8@google.com
+CREATED:20240307T184639Z
+LAST-MODIFIED:20240320T201631Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Team Building Event
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240524T021500Z
+DTEND:20240524T034500Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sgkz-20240523191500
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sgkz-20240523191500
+CREATED:20240516T161923Z
+DESCRIPTION:Are you a fiber artist? Are you an artist working with textile?
+  A fabric designer? This meetup is for you!\nWe will have short introductio
+ ns on our past and current work\, a tour of the space and its tool\, and a 
+ skillshare on knitweaving. If you have a project to work on\, bring it too!
+ \nSequoia Fabrica maintains many textile tools and resources that could be 
+ helpful to your work\, but more importantly\, we want a place where artists
+  can meet. Our community includes artists interested in electronics and tex
+ tile\, Wearable art\, performance...\n\n\nhttps://bookwhen.com/sequoiafabri
+ ca/e/ev-sgkz-20240523191500
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bay Area Fibers Artists and Designers meetup
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20240417T020000Z
 DTEND:20240417T033000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 UID:bwnp-x3ixm04f5wj7-ev-scd2-20240416190000
 URL:https://bookwhen.com/sequoiafabrica/e/ev-scd2-20240416190000
 CREATED:20240516T161922Z
@@ -742,86 +973,82 @@ SUMMARY:Learn sewing basics and make a fashionable unisex scarf!
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240605T180000Z
-DTEND:20240605T193000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-ss2m-20240605110000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-ss2m-20240605110000
+DTSTART:20240605T023000Z
+DTEND:20240605T040000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-stz8-20240604193000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-stz8-20240604193000
 CREATED:20240516T161923Z
-DESCRIPTION:A sewing workshop for expecting and new parents (no experience 
- required). Meet expecting or new parents and make a one-of-a-kind gift for 
- your little one. Sewing is a surprisingly easy hobby to pick-up in your fou
- rth trimester! The instructor is herself a new-ish mom.\nWe will be sewing 
- a velveteen rabbit (in reference to the beloved children classic) using org
- anic fabric. Several colors are available. We are providing the pattern and
-  the materials\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-ss2m-202406051
- 10000
+DESCRIPTION:Are you a knitter and curious about knitting machines? Are you 
+ generally curious about how knitting machines function? Are you interested 
+ in fiber arts or clothes making and want to expand your range of tools? Thi
+ s workshop is for you! \nKnitting machines are amazing pieces of equipment 
+ able to replicate virtually all hand knitting patterns - at a much faster p
+ ace.\nWe will demonstrate a range of knitting machines\, flat and circular\
+ , manual and computerized\, and will teach you the basic operations on a ho
+ me knitting machine. This knowledge can be applied to more complex machines
+ . You can then use our knitting machine during our open project classes\, o
+ pen workshop hours\, when you become a member\, or we can help you procure 
+ your own.\nAbout Sequoia Fabrica\nWe're an organization of volunteer makers
+  and artists who like to share our knowledge and skills with others. All mo
+ ney goes towards the workshop's operating costs. Invite your friends and fa
+ mily for an enriching experience.\nJoin our Newsletter: https://newsletter.
+ sequoiafabrica.org\nCheck out our Website: https://sequoiafabrica.org\nFoll
+ ow us on Instagram: https://www.instagram.com/sequoia.fabrica/\nDonate: htt
+ ps://donate.sequoiafabrica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/e
+ v-stz8-20240604193000
 LAST-MODIFIED:20240516T161949Z
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Sew your Baby’s First Lovey
+SUMMARY:Learn to use a Knitting Machine
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240327T010000Z
-DTEND:20240327T040000Z
-DTSTAMP:20260214T100853Z
-UID:event_299537749@meetup.com
-URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/299537749/
-CLASS:PUBLIC
-CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, March
-  26 at 6:00 PM\n\nGet ready for summer with a child- or adult-size sunbonne
- t This is a great project for those who are familiar with using a sewing ma
- chine and basic te...\n\nPrice: 20.00 USD\n\nhttps://www.meetup.com/sequoia
- -fabrica-community-workshop-and-classes/events/299537749/
-LAST-MODIFIED:20240307T181702Z
-LOCATION:Sequoia Fabrica Community Workshop (1736 18th St\, San Francisco\,
-  CA 94107)
+DTSTART:20240324T190000Z
+DTEND:20240324T220000Z
+DTSTAMP:20260215T100912Z
+UID:20lqd97jcb0h5o5lihuh6fch7q@google.com
+CREATED:20240307T184556Z
+LAST-MODIFIED:20240307T184556Z
+LOCATION:Sequoia Fabrica Community Workshop\, 1736 18th St\, San Francisco\
+ , CA 94107\, USA
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Sew A Sunbonnet
+SUMMARY:DIY Museum Art Event
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250914T000000Z
-DTEND:20250914T040000Z
-DTSTAMP:20260214T100853Z
-UID:cgs3ee1i6csmabb4c5j68b9kc8pjib9o74p36b9g68q3adhpckpm2e9j68@google.com
-CREATED:20250908T165237Z
-LAST-MODIFIED:20250908T165237Z
-SEQUENCE:0
+DTSTART:20240414T180000Z
+DTEND:20240414T210000Z
+DTSTAMP:20260215T100912Z
+UID:3532bc1cun2vsorfugnt7sddtd@google.com
+CREATED:20240407T162630Z
+LAST-MODIFIED:20240407T163342Z
+SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:Old world Vs alcaras
+SUMMARY:Craft Supply Swap
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240327T010000Z
-DTEND:20240327T023000Z
-DTSTAMP:20260214T100853Z
-UID:event_299351476@meetup.com
-URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/299351476/
-CLASS:PUBLIC
-CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, March
-  26 at 6:00 PM\n\nCreate a beeswax candle at our one-hour workshop! Join us
-  to make a dipped beeswax candle with your own hands at Sequoia Fabrica. Su
- itable for all ski...\n\nPrice: 18.00 USD\n\nhttps://www.meetup.com/sequoia
- -fabrica-community-workshop-and-classes/events/299351476/
-LAST-MODIFIED:20240307T181702Z
-LOCATION:1736 18th St (1736 18th St\, San Francisco\, CA 94107)
-SEQUENCE:0
+DTSTART;TZID=America/Los_Angeles:20240402T190000
+DTEND;TZID=America/Los_Angeles:20240402T200000
+RRULE:FREQ=MONTHLY;UNTIL=20260106T075959Z;BYDAY=1TU
+DTSTAMP:20260215T100912Z
+UID:57q3gsjcehm3f9n1ks994c6i3k@google.com
+CREATED:20240317T171333Z
+LAST-MODIFIED:20260106T171454Z
+LOCATION:Sequoia Fabrica Community Workshop\, 1736 18th St\, San Francisco\
+ , CA 94107\, USA
+SEQUENCE:1
 STATUS:CONFIRMED
-SUMMARY:Dip Candlestick Making
+SUMMARY:New Member Orientation
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250630T170000Z
 DTEND:20250630T173000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 ORGANIZER;CN=amelara@sfmoma.org:mailto:amelara@sfmoma.org
 UID:040000008200E00074C5B7101A82E008000000005CCD458CD9E9DB01000000000000000
  0100000006F53BE951893984AB834BD649FB7A27B
@@ -886,36 +1113,29 @@ X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
 X-MICROSOFT-LOCATIONSOURCE:None
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240607T020000Z
-DTEND:20240607T040000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-s8v4-20240606190000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s8v4-20240606190000
-CREATED:20240516T161923Z
-DESCRIPTION:Dive into the art of spoon-making in our hands-on workshop desi
- gned for both beginners and seasoned crafters! Join us for a session where 
- you'll learn to power carve and perfect your own small condiment spoons usi
- ng a Rotary (Dremel) tool. Then everyone has a chance to customize their sp
- oon with laser engraving. This class demonstrates how to make traditional o
- bjects with modern tools.\nThis workshop will guide you through the fundame
- ntals of rotary tools\, and mastering the techniques needed to create beaut
- iful and functional spoons. \nWhat You Will Learn:\nDremel Basics: Get to k
- now how to use a variety of Dremel bits for carving and smoothing\nEngravin
- g: Everyone will have the opportunity to engrave their spoon with a design 
- of their choice using our laser cutter\nFinishing: We will finish the spoon
- s with a coating of beeswax to seal and protect the wood\n\n\nhttps://bookw
- hen.com/sequoiafabrica/e/ev-s8v4-20240606190000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+DTSTART:20240816T020000Z
+DTEND:20240816T033000Z
+DTSTAMP:20260215T100912Z
+UID:event_wrjrktygclbtb@meetup.com
+URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
+ vents/wrjrktygclbtb/
+CLASS:PUBLIC
+CREATED:20240307T181544Z
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, Augu
+ st 15 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of sol
+ dering and using a soldering iron. Walk away with a circuit you assembled y
+ ourself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequo
+ ia-fabrica-community-workshop-and-classes/events/wrjrktygclbtb/
+LAST-MODIFIED:20240307T181702Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Spoonmaking and Engraving
+SUMMARY:Solder & Circuit Thursdays
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240530T013000Z
 DTEND:20240530T033000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 UID:bwnp-x3ixm04f5wj7-ev-s6ck-20240529183000
 URL:https://bookwhen.com/sequoiafabrica/e/ev-s6ck-20240529183000
 CREATED:20240516T161923Z
@@ -938,71 +1158,184 @@ SUMMARY:Linocut/Printmaking Basics
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240621T020000Z
-DTEND:20240621T033000Z
-DTSTAMP:20260214T100853Z
-UID:event_wrjrktygcjbbc@meetup.com
+DTSTART:20240313T021000Z
+DTEND:20240313T040000Z
+DTSTAMP:20260215T100912Z
+UID:event_299343885@meetup.com
 URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/wrjrktygcjbbc/
+ vents/299343885/
 CLASS:PUBLIC
 CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, June
-  20 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of solde
- ring and using a soldering iron. Walk away with a circuit you assembled you
- rself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoia
- -fabrica-community-workshop-and-classes/events/wrjrktygcjbbc/
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, March
+  12 at 7:10 PM\n\nBring a project you need help with or just come to have f
+ un working with your fellow makers **What we do:** * Clothing\, costumes\, 
+ accessories* Profess...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequo
+ ia-fabrica-community-workshop-and-classes/events/299343885/
 LAST-MODIFIED:20240307T181702Z
+LOCATION:1736 18th St (1736 18th St\, San Francisco\, CA 94107)
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Solder & Circuit Thursdays
+SUMMARY:Sewing: Open Project Night
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240517T020000Z
-DTEND:20240517T033000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240516190000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240516190000
-CREATED:20240516T161923Z
-DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
- nd using a soldering iron. Walk away with a circuit kit you assembled yours
- elf that will do a fun little trick\, like flash LEDs\, or respond to light
- . This is a great chance to learn a new skill with us over at Sequoia Fabri
- ca.\nNotes on the Class\nSoldering performed properly is a safe\, fun proje
- ct. We will go over best practices for working with the iron and give you t
- he chance to practice the skill.\nAbout Sequoia Fabrica\nWe're an organizat
- ion of volunteer makers and artists who like to share our knowledge and ski
- lls with others. All money goes towards the workshop's operating costs. Inv
- ite your friends and family for an enriching experience.\n\n\nhttps://bookw
- hen.com/sequoiafabrica/e/ev-sxtv-20240516190000
+DTSTART:20240504T173000Z
+DTEND:20240504T190000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sp45-20240504103000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sp45-20240504103000
+CREATED:20240516T161922Z
+DESCRIPTION:Sewing is a great life skill and a fantastic way to bond! Disco
+ ver the basics of hand and machine sewing with your child. The instructor i
+ s experienced in sewing with young children\, including her 18 months old. 
+ The class will cover the basics. Children will draw and make a felt plushie
+  or keyholder. \nNotes on the class\nPrice includes materials.\nEach ticket
+  admits one child. Kids under 6 need to be accompanied by an adult. For kid
+ s older than 6\, one adult can accompany up to two kids.\nPlease do not wea
+ r long loose sleeves that can get caught in the sewing machine.\nAbout Sequ
+ oia Fabrica\nWe're an organization of volunteer makers and artists who like
+  to share our knowledge and skills with others. All money goes towards the 
+ workshop's operating costs. Invite your friends and family for an enriching
+  experience.\nJoin our Newsletter: https://newsletter.sequoiafabrica.org\nC
+ heck out our Website: https://sequoiafabrica.org\nFollow us on Instagram: h
+ ttps://www.instagram.com/sequoia.fabrica/\nDonate: https://donate.sequoiafa
+ brica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-sp45-20240504103000
 LAST-MODIFIED:20240516T161949Z
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Introduction to Soldering
+SUMMARY:Sew a Plushie! Parents and Kids Learn to Sew
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20240521T190000
-DTEND;TZID=America/Los_Angeles:20240521T200000
-DTSTAMP:20260214T100853Z
-UID:7qslse1b8ulj7d1hp340p1bfkt@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
- afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
-RECURRENCE-ID;TZID=America/Los_Angeles:20240521T190000
-CREATED:20240317T171240Z
-LAST-MODIFIED:20260106T171458Z
-LOCATION:Sequoia Fabrica Community Workshop\, 1736 18th St\, San Francisco\
- , CA 94107\, USA
+DTSTART:20240406T200000Z
+DTEND:20240406T210000Z
+DTSTAMP:20260215T100912Z
+UID:3sk5s8n939u2i5uh866b694qqr@google.com
+CREATED:20240315T031109Z
+LAST-MODIFIED:20240315T031108Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:New Member Orientation
+SUMMARY:Coffee roasting at Western Addition Library
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20231221T173000Z
+DTEND:20231221T183000Z
+DTSTAMP:20260215T100912Z
+ORGANIZER;CN=charlie.hanafin@jll.com:mailto:charlie.hanafin@jll.com
+UID:040000008200E00074C5B7101A82E0080000000030335B38BA31DA01000000000000000
+ 0100000003CB61422215A5044BE8E2C7E3BA87FD4
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
+ afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
+CREATED:20231218T220241Z
+DESCRIPTION:Emeline - WELCOME TO PIER 70\n\n\nWe’re looking forward to havi
+ ng you join us on-site\, attached is a map to get there\, really easy – ent
+ er down 20th Street\, take your first right\, follow the L-shaped to the pa
+ rking lot (image attached)\n\n\nDirections to Pier 70:\nRoute to 579 20th S
+ treet\, San Francisco\, CA 94107\n\n  *   Enter the site from 20th street\n
+   *   Park in the lot behind Building 12 in any open spot\n\nContact:\nDon’
+ t hesitate to reach out with questions\, concerns or assistance on the day 
+ of the tour. My number is 206-595-4909\n\n
+LAST-MODIFIED:20231218T225746Z
+LOCATION:579 20th Street\, San Francisco\, CA 94107
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sequoia Fabrica - Pier 70 Tour 
+TRANSP:OPAQUE
+ATTACH;FILENAME=Pier 70 Directions Map.pdf:https://mail.google.com/?view=at
+ t&th=18c7ef3fe0143b10&attid=0.1&disp=attd&zw
+X-MICROSOFT-REQUESTEDATTENDANCEMODE:DEFAULT
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "579 20th Street\, San Francisco\
+ , CA 94107"\, "LocationAnnotation" : ""\, "LocationSource" : 0\, "Unresolve
+ d" : false\, "LocationUri" : "" } ]
+X-MICROSOFT-CDO-OWNERAPPTID:1163053031
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-ISRESPONSEREQUESTED:TRUE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250205T193000Z
+DTEND:20250205T200000Z
+DTSTAMP:20260215T100912Z
+ORGANIZER;CN=drew@centerhardware.com:mailto:drew@centerhardware.com
+UID:g3i46ggjih4ek1rhiemls5hir8@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
+ afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
+CREATED:20250128T201901Z
+DESCRIPTION:<html><head></head><body><p>──────────<br/>Drew Brent is inviti
+ ng you to a scheduled Zoom meeting.<br/>Join Zoom Meeting<br/>https://us04w
+ eb.zoom.us/j/77559650002?pwd=6YGHKpfo5IeBbDRFF0MrZ3bhZc6yoq.1<br/><br/>Meet
+ ing ID: 775 5965 0002<br/>Passcode: 7Wg0rS<br/><br/><br>──────────</p></bod
+ y></html>
+LAST-MODIFIED:20250128T211734Z
+LOCATION:https://us04web.zoom.us/j/77559650002?pwd=6YGHKpfo5IeBbDRFF0MrZ3bh
+ Zc6yoq.1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Center + Sequoia Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250914T000000Z
+DTEND:20250914T040000Z
+DTSTAMP:20260215T100912Z
+UID:cgs3ee1i6csmabb4c5j68b9kc8pjib9o74p36b9g68q3adhpckpm2e9j68@google.com
+CREATED:20250908T165237Z
+LAST-MODIFIED:20250908T165237Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Old world Vs alcaras
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240403T011000Z
+DTEND:20240403T023000Z
+DTSTAMP:20260215T100912Z
+UID:event_299638086@meetup.com
+URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
+ vents/299638086/
+CLASS:PUBLIC
+CREATED:20240307T181544Z
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, April
+  2 at 6:10 PM\n\nThis class is open to total beginners or anyone who has ex
+ perience on a domestic machine and would like to expand their sewing option
+ s. The industrial...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoia-
+ fabrica-community-workshop-and-classes/events/299638086/
+LAST-MODIFIED:20240307T181702Z
+LOCATION:Sequoia Fabrica Community Workshop (1736 18th St\, San Francisco\,
+  CA 94107)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sewing 101: Introduction to Industrial Sewing Machines
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20241205T013000Z
+DTEND:20241205T033000Z
+DTSTAMP:20260215T100912Z
+UID:5tpio49h2j90bpevdt696sgmdp@google.com
+CREATED:20241112T042851Z
+DESCRIPTION:Sequoia Fabrica Members will be running a printmaking event at 
+ Red Tail Bar in Middle Market
+LAST-MODIFIED:20241112T042851Z
+LOCATION:The Red Tail Beer & Wine Bar\, 992 Market St\, San Francisco\, CA 
+ 94102\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Postcard Making @ Red Tail Bar
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240605T020000Z
 DTEND:20240605T033000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 UID:bwnp-x3ixm04f5wj7-ev-sl1e-20240604190000
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sl1e-20240604190000
 CREATED:20240516T161923Z
@@ -1022,282 +1355,9 @@ SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240508T020000Z
-DTEND:20240508T033000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-s8a9-20240507190000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s8a9-20240507190000
-CREATED:20240516T161922Z
-DESCRIPTION:Learn domestic sewing machine basics\, including how to set up 
- the machine and operate it. You may bring your own machine or use ours. The
-  class covers threading\, basic maintenance and troubleshooting\, how to ch
- oose needles and feet pressers\, types of stitches and some thread basics.\
- nOur Sewing 101 classes usually have a waitlist\, so if you are unable to a
- ttend we ask that you cancel so that someone else can come to the class. Pl
- ease cancel even if it is last minute.\nThe registration fee for this class
-  is $20. \n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-s8a9-20240507190000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sewing 101: Introduction to Domestic Sewing Machines
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240403T023000Z
-DTEND:20240403T040000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sn05-20240402193000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
-CREATED:20240516T161922Z
-DESCRIPTION:Learn domestic sewing machine basics\, including how to set up 
- the machine and safely operate it\, available accessories and stitches. You
-  may bring your own machine or use ours.\nThe registration fee for this cla
- ss is $15. \nAbout Sequoia Fabrica:\nWe are a 501c3 non-profit entirely run
-  by volunteers. We welcome any additional donations to help us in serving t
- he community.\n- sequoiafabrica.org\n- instagram.com/sequoia.fabrica\n\n\nh
- ttps://bookwhen.com/sequoiafabrica/e/ev-sn05-20240402193000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Learn to Use a Sewing Machine
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240503T013000Z
-DTEND:20240503T030000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-stg3-20240502183000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-stg3-20240502183000
-CREATED:20240516T161922Z
-DESCRIPTION:Guest Instructor: Lynn McLeod (lynn.mcleod@gmail.com) Sequoia F
- abrica Facilitator: Alaina\nThis class is for the beginner to intermediate 
- sewist who would like to understand fabrics in more depth so their projects
-  turn out perfectly. We’ll touch lots of fabric samples\, learn about fiber
-  content\, and examine the characteristics of different types of textiles. 
- Students will bring a project idea and/or fabric to share and discuss.\nWha
- t we will cover:\n- Fabric structures and types\n- Selecting fabrics for di
- fferent types of projects\n- Preparing fabric for sewing\n- Resources for s
- hopping and learning more\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-stg
- 3-20240502183000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Selecting the Perfect Fabrics for Your Projects
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240719T020000Z
-DTEND:20240719T033000Z
-DTSTAMP:20260214T100853Z
-UID:event_wrjrktygckbxb@meetup.com
-URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/wrjrktygckbxb/
-CLASS:PUBLIC
-CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, July
-  18 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of solde
- ring and using a soldering iron. Walk away with a circuit you assembled you
- rself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoia
- -fabrica-community-workshop-and-classes/events/wrjrktygckbxb/
-LAST-MODIFIED:20240307T181702Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Solder & Circuit Thursdays
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20240319T190000
-DTEND;TZID=America/Los_Angeles:20240319T200000
-RRULE:FREQ=MONTHLY;UNTIL=20260120T075959Z;BYDAY=3TU
-EXDATE;TZID=America/Los_Angeles:20241217T190000
-DTSTAMP:20260214T100853Z
-UID:7qslse1b8ulj7d1hp340p1bfkt@google.com
-CREATED:20240317T171240Z
-LAST-MODIFIED:20260106T171458Z
-LOCATION:Sequoia Fabrica Community Workshop\, 1736 18th St\, San Francisco\
- , CA 94107\, USA
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:New Member Orientation
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240309T190000Z
-DTEND:20240309T220000Z
-DTSTAMP:20260214T100853Z
-UID:4mt6445ns1veecjvk0nflqc02j@google.com
-CREATED:20240309T003248Z
-LAST-MODIFIED:20240309T003248Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:OPEN HOUSE
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240320T013000Z
-DTEND:20240320T033000Z
-DTSTAMP:20260214T100853Z
-UID:event_299423269@meetup.com
-URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/299423269/
-CLASS:PUBLIC
-CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, March
-  19 at 6:30 PM\n\nJoin a professional tailor and your fellow makers for an 
- evening of patching jeans\, replacing bag straps\, hemming t-shirts\, and a
- nything else you need...\n\nPrice: 5.00 USD\n\nhttps://www.meetup.com/sequo
- ia-fabrica-community-workshop-and-classes/events/299423269/
-LAST-MODIFIED:20240307T181702Z
-LOCATION:1736 18th St (1736 18th St\, San Francisco\, CA 94107)
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sewing: Mending\, Fitting\, & Alterations 
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20241212T013000Z
-DTEND:20241212T033000Z
-DTSTAMP:20260214T100853Z
-ORGANIZER;CN=91b175c79eef4be83eaa6c45a14becc67b8521302b4446d3900347c61c1e44
- 1c@group.calendar.google.com:mailto:91b175c79eef4be83eaa6c45a14becc67b85213
- 02b4446d3900347c61c1e441c@group.calendar.google.com
-UID:797cirv6je60cike1mmjsghlth@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
- afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
-X-GOOGLE-CONFERENCE:https://meet.google.com/okr-nhms-vgh
-CREATED:20241030T233629Z
-DESCRIPTION:Lazer printing<br><br>Hello! This is scheduled! If I could plea
- se get the below info by this friday 11/1 please and thank you! <br><br>@ S
- equoia please provide the name/email/phone # of the teacher for this activa
- tion plus a brief description. Also please have them fill out this form <a 
- href="https://docs.google.com/forms/d/e/1FAIpQLSfKXfMgp1nM3JG7z5ffHP10dos7H
- HP-g3xYCX8F50D3Aj90MA/viewform">https://docs.google.com/forms/d/e/1FAIpQLSf
- KXfMgp1nM3JG7z5ffHP10dos7HHP-g3xYCX8F50D3Aj90MA/viewform</a> it is $300 to 
- the instructor plus a reimbursement of up to $100 for supplies with receipt
- . <br><br>@ Stella they will need access to an outlet. Pay for venues is $3
- 00. Please fill out this form to receive your payment Also please have them
-  fill out this form <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKXf
- Mgp1nM3JG7z5ffHP10dos7HHP-g3xYCX8F50D3Aj90MA/viewform">https://docs.google.
- com/forms/d/e/1FAIpQLSfKXfMgp1nM3JG7z5ffHP10dos7HHP-g3xYCX8F50D3Aj90MA/view
- form</a> if you could also include a quick blurb about your space. <br><br>
- @ Abra let me know if you need anything ese! Thank you! <br><br>Also ! Plea
- se join us for WorkshopSF's First friday party on 11/1 on the house :) <a h
- ref="https://www.workshopsf.org/class/workshop-sf-first-friday-melt-pour-so
- ap-and-bath-salts/">https://www.workshopsf.org/class/workshop-sf-first-frid
- ay-melt-pour-soap-and-bath-salts/</a>\n\nJoin with Google Meet: https://mee
- t.google.com/okr-nhms-vgh\n\nLearn more about Meet at: https://support.goog
- le.com/a/users/answer/9282720
-LAST-MODIFIED:20241211T164217Z
-LOCATION:Saluhall SF\, 945 Market St Suite 102\, San Francisco\, CA 94103\,
-  USA
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:LAZER PRINTING @ SALUHALL
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240517T013000Z
-DTEND:20240517T033000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sr2l-20240516183000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sr2l-20240516183000
-CREATED:20240516T161923Z
-DESCRIPTION:Meet with local Wikipedians and work on your Wikipedia to-do li
- st\, either online or in person! All contributors\, active or not\, on any 
- Wikimedia project\, welcome. If you have never edited Wikipedia before\, we
-  will help you set up a new account and tools designed to help you get star
- ted.\nWe will have a short round of intros and an opportunity to do lightni
- ng talk on your fav Wikipedia thing. We'll have foods and drinks (please br
- ing some too!)\, and time to talk\, collaborate\, or work on our wiki proje
- cts.\nPlease let us know if you would like to attend online.\nhttps://en.wi
- kipedia.org/wiki/Wikipedia:BayAreaWikiSalon\n\n\nhttps://bookwhen.com/sequo
- iafabrica/e/ev-sr2l-20240516183000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Learn to edit Wikipedia / Wikisalon
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240321T220000Z
-DTEND:20240322T010000Z
-DTSTAMP:20260214T100853Z
-UID:2ph17qlcg8e59b7jejdrb4rsn8@google.com
-CREATED:20240307T184639Z
-LAST-MODIFIED:20240320T201631Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:Team Building Event
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20250507T180000
-DTEND;TZID=America/Los_Angeles:20250507T190000
-DTSTAMP:20260214T100853Z
-UID:rc8is2jm93okkd0c5aqvsjta7k@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
- afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
-RECURRENCE-ID;TZID=America/Los_Angeles:20250507T180000
-CREATED:20250206T064817Z
-LAST-MODIFIED:20250207T022923Z
-SEQUENCE:1
-STATUS:CONFIRMED
-SUMMARY:HOLD: Board Member Quarterly Meeting
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240419T020000Z
-DTEND:20240419T033000Z
-DTSTAMP:20260214T100853Z
-UID:event_wrjrktygcgbxb@meetup.com
-URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/wrjrktygcgbxb/
-CLASS:PUBLIC
-CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, Apri
- l 18 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of sold
- ering and using a soldering iron. Walk away with a circuit you assembled yo
- urself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoi
- a-fabrica-community-workshop-and-classes/events/wrjrktygcgbxb/
-LAST-MODIFIED:20240307T181702Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Solder & Circuit Thursdays
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240419T020000Z
-DTEND:20240419T033000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240418190000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240418190000
-CREATED:20240516T161922Z
-DESCRIPTION:Join us every third Thursday to learn the basics of soldering a
- nd using a soldering iron. Walk away with a circuit kit you assembled yours
- elf that will do a fun little trick\, like flash LEDs\, or respond to light
- . This is a great chance to learn a new skill with us over at Sequoia Fabri
- ca.\nNotes on the Class\nSoldering performed properly is a safe\, fun proje
- ct. We will go over best practices for working with the iron and give you t
- he chance to practice the skill.\nAbout Sequoia Fabrica\nWe're an organizat
- ion of volunteer makers and artists who like to share our knowledge and ski
- lls with others. All money goes towards the workshop's operating costs. Inv
- ite your friends and family for an enriching experience.\n\n\nhttps://bookw
- hen.com/sequoiafabrica/e/ev-sxtv-20240418190000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Introduction to Soldering
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20240517T020000Z
 DTEND:20240517T033000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 UID:event_wrjrktygchbvb@meetup.com
 URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
  vents/wrjrktygchbvb/
@@ -1315,48 +1375,44 @@ SUMMARY:Solder & Circuit Thursdays
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240414T180000Z
-DTEND:20240414T210000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-syhy-20240414110000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-syhy-20240414110000
-CREATED:20240516T161922Z
-DESCRIPTION:Bring up to 2 bags of fabric\, glue\, glitter\, paper\, tools\,
-  yarn\, paints\, markers\, etc.\nWe may be able to donate to SCRAP (https:/
- /www.scrap-sf.org/)\, but please be prepared to take any leftover supplies 
- home with you!\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-syhy-202404141
- 10000
+DTSTART;VALUE=DATE:20240414
+DTEND;VALUE=DATE:20240415
+DTSTAMP:20260215T100912Z
+UID:459gmvjmv9rik4m60eqvl8nrkd@google.com
+CREATED:20240320T205532Z
+LAST-MODIFIED:20240320T205556Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Craft supplies swap ? TBA
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240515T013000Z
+DTEND:20240515T033000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-sp2n-20240514183000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-sp2n-20240514183000
+CREATED:20240516T161923Z
+DESCRIPTION:Bring a project you need help with or just come to have fun wor
+ king with your fellow makers.  If you are new to machine sewing and your pr
+ oject requires it we recommend (but don’t require) a machine intro class fi
+ rst.\nWhat we do:\n- Clothing\, costumes\, accessories\n- Professional-styl
+ e mending (we have other classes dedicated to decorative mending like sashi
+ ko)\n- Fitting and alterations\n- Pattern making and draping\n- Machine mai
+ ntenance and repair\nMany other subjects\; write us about your project if y
+ ou’d like to check if we can help\n\n\nhttps://bookwhen.com/sequoiafabrica/
+ e/ev-sp2n-20240514183000
 LAST-MODIFIED:20240516T161949Z
 LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Crafts supply swap
+SUMMARY:Sewing: Open Project Night
 TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240720T220000Z
-DTEND:20240720T230000Z
-DTSTAMP:20260214T100853Z
-UID:5d4nvplcs2sbb347854rojjlbv@google.com
-CREATED:20240315T031144Z
-LAST-MODIFIED:20240315T031144Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Coffee Roasting at Park Branch Library
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250917T150000Z
-DTEND:20250917T160000Z
-DTSTAMP:20260214T100853Z
-UID:50aev94u9l92ecvhtl4squa7ap@google.com
-ATTENDEE;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
-SUMMARY:Busy
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20240621T020000Z
 DTEND:20240621T033000Z
-DTSTAMP:20260214T100853Z
+DTSTAMP:20260215T100912Z
 UID:bwnp-x3ixm04f5wj7-ev-sxtv-20240620190000
 URL:https://bookwhen.com/sequoiafabrica/e/ev-sxtv-20240620190000
 CREATED:20240516T161923Z
@@ -1379,201 +1435,145 @@ SUMMARY:Introduction to Soldering
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240322T020000Z
-DTEND:20240322T033000Z
-DTSTAMP:20260214T100853Z
-UID:event_wrjrktygcfbcc@meetup.com
+DTSTART:20240310T210000Z
+DTEND:20240311T000000Z
+DTSTAMP:20260215T100912Z
+UID:7kukuqrfedlm2f9tvfcd2u8g10f9hlnv6nt8hi9nubisnjiohqjlt8bt1oimtb0p601g
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
+ afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
+CLASS:PUBLIC
+CREATED:20240215T203221Z
+LAST-MODIFIED:20241011T124148Z
+LOCATION:Sequoia Fabrica Community Workshop\, San Francisco\, CA\, 94107\, 
+ us
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Women in Design Editathon: Learn to edit Wikipedia!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T150000Z
+DTEND:20250917T160000Z
+DTSTAMP:20260215T100912Z
+UID:50aev94u9l92ecvhtl4squa7ap@google.com
+ATTENDEE;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
+SUMMARY:Busy
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240419T013000Z
+DTEND:20240419T033000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-scjb-20240418183000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-scjb-20240418183000
+CREATED:20240516T161922Z
+DESCRIPTION:Meet with local Wikipedians and work on your Wikipedia to-do li
+ st\, either online or in person! All contributors\, active or not\, on any 
+ Wikimedia project\, welcome. If you have never edited Wikipedia before\, we
+  will help you set up a new account and tools designed to help you get star
+ ted.\nWe will have a short round of intros and an opportunity to do lightni
+ ng talk on your fav Wikipedia thing. We'll have foods and drinks (please br
+ ing some too!)\, and time to talk\, collaborate\, or work on our wiki proje
+ cts.\nJoin us online at: https://meet.google.com/ytu-cghy-qfo\nhttps://en.w
+ ikipedia.org/wiki/Wikipedia:BayAreaWikiSalon\n\n\nhttps://bookwhen.com/sequ
+ oiafabrica/e/ev-scjb-20240418183000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bay Area Wikipedia Salon
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/Los_Angeles:20250507T180000
+DTEND;TZID=America/Los_Angeles:20250507T190000
+DTSTAMP:20260215T100912Z
+UID:rc8is2jm93okkd0c5aqvsjta7k@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
+ afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
+RECURRENCE-ID;TZID=America/Los_Angeles:20250507T180000
+CREATED:20250206T064817Z
+LAST-MODIFIED:20250207T022923Z
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:HOLD: Board Member Quarterly Meeting
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240605T180000Z
+DTEND:20240605T193000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-ss2m-20240605110000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-ss2m-20240605110000
+CREATED:20240516T161923Z
+DESCRIPTION:A sewing workshop for expecting and new parents (no experience 
+ required). Meet expecting or new parents and make a one-of-a-kind gift for 
+ your little one. Sewing is a surprisingly easy hobby to pick-up in your fou
+ rth trimester! The instructor is herself a new-ish mom.\nWe will be sewing 
+ a velveteen rabbit (in reference to the beloved children classic) using org
+ anic fabric. Several colors are available. We are providing the pattern and
+  the materials\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-ss2m-202406051
+ 10000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sew your Baby’s First Lovey
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240503T013000Z
+DTEND:20240503T030000Z
+DTSTAMP:20260215T100912Z
+UID:bwnp-x3ixm04f5wj7-ev-stg3-20240502183000
+URL:https://bookwhen.com/sequoiafabrica/e/ev-stg3-20240502183000
+CREATED:20240516T161922Z
+DESCRIPTION:Guest Instructor: Lynn McLeod (lynn.mcleod@gmail.com) Sequoia F
+ abrica Facilitator: Alaina\nThis class is for the beginner to intermediate 
+ sewist who would like to understand fabrics in more depth so their projects
+  turn out perfectly. We’ll touch lots of fabric samples\, learn about fiber
+  content\, and examine the characteristics of different types of textiles. 
+ Students will bring a project idea and/or fabric to share and discuss.\nWha
+ t we will cover:\n- Fabric structures and types\n- Selecting fabrics for di
+ fferent types of projects\n- Preparing fabric for sewing\n- Resources for s
+ hopping and learning more\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-stg
+ 3-20240502183000
+LAST-MODIFIED:20240516T161949Z
+LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Selecting the Perfect Fabrics for Your Projects
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20240621T020000Z
+DTEND:20240621T033000Z
+DTSTAMP:20260215T100912Z
+UID:event_wrjrktygcjbbc@meetup.com
 URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/299599695/
+ vents/wrjrktygcjbbc/
 CLASS:PUBLIC
 CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, Marc
- h 21 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of sold
- ering and using a soldering iron. Walk away with a circuit you assembled yo
- urself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoi
- a-fabrica-community-workshop-and-classes/events/299599695/
+DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nThursday\, June
+  20 at 7:00 PM\n\nJoin us every third Thursday to learn the basics of solde
+ ring and using a soldering iron. Walk away with a circuit you assembled you
+ rself that will do...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoia
+ -fabrica-community-workshop-and-classes/events/wrjrktygcjbbc/
 LAST-MODIFIED:20240307T181702Z
-LOCATION:Sequoia Fabrica Community Workshop (1736 18th St\, San Francisco\,
-  CA 94107)
 SEQUENCE:0
 STATUS:CONFIRMED
 SUMMARY:Solder & Circuit Thursdays
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20240612T030000Z
-DTEND:20240612T043000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-s03z-20240611200000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s03z-20240611200000
-CREATED:20240516T161923Z
-DESCRIPTION:In this class\, you will make a mini quilt\, to discover and pr
- actice hand and machine quilting techniques. This class is appropriate for 
- those with basic knowledge of hand sewing and how to operate a sewing machi
- ne.\nWe will:\n- assemble four quilt blocks\;\n- assemble the blocks and th
- e batting (and discuss how to choose the right batting for your project)\;\
- n- use a free motion foot\;\n- make our own bias binding\;\n- bind off the 
- quilt.\n(note that you may need to finish binding off the quilt at home\, w
- hich is done by hand)\n\n\nhttps://bookwhen.com/sequoiafabrica/e/ev-s03z-20
- 240611200000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
+DTSTART:20240302T220000Z
+DTEND:20240302T230000Z
+DTSTAMP:20260215T100912Z
+UID:2nb10fi4ol0i3epmlqukke2g3b@google.com
+CREATED:20240315T030940Z
+LAST-MODIFIED:20240315T030939Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:Quilting Basics
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240515T013000Z
-DTEND:20240515T033000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sp2n-20240514183000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sp2n-20240514183000
-CREATED:20240516T161923Z
-DESCRIPTION:Bring a project you need help with or just come to have fun wor
- king with your fellow makers.  If you are new to machine sewing and your pr
- oject requires it we recommend (but don’t require) a machine intro class fi
- rst.\nWhat we do:\n- Clothing\, costumes\, accessories\n- Professional-styl
- e mending (we have other classes dedicated to decorative mending like sashi
- ko)\n- Fitting and alterations\n- Pattern making and draping\n- Machine mai
- ntenance and repair\nMany other subjects\; write us about your project if y
- ou’d like to check if we can help\n\n\nhttps://bookwhen.com/sequoiafabrica/
- e/ev-sp2n-20240514183000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sewing: Open Project Night
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250205T193000Z
-DTEND:20250205T200000Z
-DTSTAMP:20260214T100853Z
-ORGANIZER;CN=drew@centerhardware.com:mailto:drew@centerhardware.com
-UID:g3i46ggjih4ek1rhiemls5hir8@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
- afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
-CREATED:20250128T201901Z
-DESCRIPTION:<html><head></head><body><p>──────────<br/>Drew Brent is inviti
- ng you to a scheduled Zoom meeting.<br/>Join Zoom Meeting<br/>https://us04w
- eb.zoom.us/j/77559650002?pwd=6YGHKpfo5IeBbDRFF0MrZ3bhZc6yoq.1<br/><br/>Meet
- ing ID: 775 5965 0002<br/>Passcode: 7Wg0rS<br/><br/><br>──────────</p></bod
- y></html>
-LAST-MODIFIED:20250128T211734Z
-LOCATION:https://us04web.zoom.us/j/77559650002?pwd=6YGHKpfo5IeBbDRFF0MrZ3bh
- Zc6yoq.1
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Center + Sequoia Meeting
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250213T193000Z
-DTEND:20250213T200000Z
-DTSTAMP:20260214T100853Z
-ORGANIZER;CN=madeline.robertson@setcreative.com:mailto:madeline.robertson@s
- etcreative.com
-UID:6frc1eiph5gae49fd3rdi7sqic@google.com
-ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=sequoi
- afabrica@gmail.com;X-NUM-GUESTS=0:mailto:sequoiafabrica@gmail.com
-X-GOOGLE-CONFERENCE:https://meet.google.com/ohq-heuz-gsh
-CREATED:20250213T150846Z
-DESCRIPTION:Join with Google Meet: https://meet.google.com/ohq-heuz-gsh\nOr
-  dial: (US) +1 417-986-4723 PIN: 294020133#\nMore phone numbers: https://te
- l.meet/ohq-heuz-gsh?pin=4394141423195&hs=7\n\nLearn more about Meet at: htt
- ps://support.google.com/a/users/answer/9282720
-LAST-MODIFIED:20250213T163136Z
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Set Creative x Sequoia Fabrica
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240416T013000Z
-DTEND:20240416T033000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-sm8f-20240415183000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sm8f-20240415183000
-CREATED:20240516T161922Z
-DESCRIPTION:Join a professional tailor and your fellow makers for an evenin
- g of patching jeans\, replacing bag straps\, hemming t-shirts\, and anythin
- g else you need to get that thing usable.\nNo sewing experience necessary\,
-  though basic skills will help.\nWhat we can help with:\nProfessional-style
-  mending (we have other classes dedicated to decorative mending like sashik
- o)\nFitting and alterations\nWhat to bring:\nYour project\nWe are a new spa
- ce and don’t yet have a broad stock of materials (specialty thread & notion
- s\, specialty tools\, material for patching\, etc). However if you text wit
- h a description of your project we may be able to bring in what you need. P
- lease make your request at least two days advance.\nHow to find the class:\
- n1736 18th St in Potrero Hill.\nIf you will be late the front door may be l
- ocked. Knock loudly.\nPlease make sure to cancel on the Meetup App as early
-  as possible so that your spot opens up to other attendees\, or you can tex
- t 718-496-5468 so we can cancel you.\nWe welcome your class requests. As a 
- new making space we would love to hear what subjects you are interested in.
-  Our instructors have experience in areas like machine knitting\, corsetry\
- , embroidery\, machine rug tufting\, leatherwork\, woodworking\, electronic
- s\, laser cutting\, and many more.\n\n\nhttps://bookwhen.com/sequoiafabrica
- /e/ev-sm8f-20240415183000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sewing: Mending\, Fitting\, & Alterations 
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240605T023000Z
-DTEND:20240605T040000Z
-DTSTAMP:20260214T100853Z
-UID:bwnp-x3ixm04f5wj7-ev-stz8-20240604193000
-URL:https://bookwhen.com/sequoiafabrica/e/ev-stz8-20240604193000
-CREATED:20240516T161923Z
-DESCRIPTION:Are you a knitter and curious about knitting machines? Are you 
- generally curious about how knitting machines function? Are you interested 
- in fiber arts or clothes making and want to expand your range of tools? Thi
- s workshop is for you! \nKnitting machines are amazing pieces of equipment 
- able to replicate virtually all hand knitting patterns - at a much faster p
- ace.\nWe will demonstrate a range of knitting machines\, flat and circular\
- , manual and computerized\, and will teach you the basic operations on a ho
- me knitting machine. This knowledge can be applied to more complex machines
- . You can then use our knitting machine during our open project classes\, o
- pen workshop hours\, when you become a member\, or we can help you procure 
- your own.\nAbout Sequoia Fabrica\nWe're an organization of volunteer makers
-  and artists who like to share our knowledge and skills with others. All mo
- ney goes towards the workshop's operating costs. Invite your friends and fa
- mily for an enriching experience.\nJoin our Newsletter: https://newsletter.
- sequoiafabrica.org\nCheck out our Website: https://sequoiafabrica.org\nFoll
- ow us on Instagram: https://www.instagram.com/sequoia.fabrica/\nDonate: htt
- ps://donate.sequoiafabrica.org\n\n\nhttps://bookwhen.com/sequoiafabrica/e/e
- v-stz8-20240604193000
-LAST-MODIFIED:20240516T161949Z
-LOCATION:1736 18th Street\, San Francisco CA 94107-2343
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Learn to use a Knitting Machine
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20240403T011000Z
-DTEND:20240403T023000Z
-DTSTAMP:20260214T100853Z
-UID:event_299638086@meetup.com
-URL:https://www.meetup.com/sequoia-fabrica-community-workshop-and-classes/e
- vents/299638086/
-CLASS:PUBLIC
-CREATED:20240307T181544Z
-DESCRIPTION:Sequoia Fabrica Community Workshop and Classes\nTuesday\, April
-  2 at 6:10 PM\n\nThis class is open to total beginners or anyone who has ex
- perience on a domestic machine and would like to expand their sewing option
- s. The industrial...\n\nPrice: 10.00 USD\n\nhttps://www.meetup.com/sequoia-
- fabrica-community-workshop-and-classes/events/299638086/
-LAST-MODIFIED:20240307T181702Z
-LOCATION:Sequoia Fabrica Community Workshop (1736 18th St\, San Francisco\,
-  CA 94107)
-SEQUENCE:0
-STATUS:CONFIRMED
-SUMMARY:Sewing 101: Introduction to Industrial Sewing Machines
+SUMMARY:coffee roasting at mission bay library
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
