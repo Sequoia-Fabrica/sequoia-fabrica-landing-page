@@ -11,5 +11,6 @@ export const urlConstants = {
     mastodon: "https://sfba.social/@sequoiafabrica",
     wiki: "https://wiki.sequoiafabrica.org/wiki",
     tiktok: "https://www.tiktok.com/@sequoiafabrica",
-    donateStripe: "https://donate.stripe.com/eVa14Mef87bM7XGeUU"
+    donateStripe: "https://donate.stripe.com/eVa14Mef87bM7XGeUU",
+    docusealWaiver: "https://docuseal.sequoia.garden/d/gUqNoB6XXcokAL",
 }
