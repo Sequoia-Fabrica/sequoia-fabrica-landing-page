@@ -23,7 +23,7 @@ TZNAME:PST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-s1o3x-20260112183000
 DTSTART;TZID=America/Los_Angeles:20260112T183000
 DTEND;TZID=America/Los_Angeles:20260112T200000
@@ -41,10 +41,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Sketching Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s1o3x-20260112183000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s1o3x-20260112183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-st7en-20260114180000
 DTSTART;TZID=America/Los_Angeles:20260114T180000
 DTEND;TZID=America/Los_Angeles:20260114T210000
@@ -61,10 +61,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Make a Cherry Charcuterie Board
-URL:https://bookwhen.com/sequoiafabrica/e/ev-st7en-20260114180000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-st7en-20260114180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-ssogj-20260115190000
 DTSTART;TZID=America/Los_Angeles:20260115T190000
 DTEND;TZID=America/Los_Angeles:20260115T210000
@@ -77,10 +77,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Crochet Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-ssogj-20260115190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-ssogj-20260115190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-srd6p-20260116180000
 DTSTART;TZID=America/Los_Angeles:20260116T180000
 DTEND;TZID=America/Los_Angeles:20260116T201500
@@ -100,10 +100,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Block Printmaking Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-srd6p-20260116180000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-srd6p-20260116180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-sn4px-20260120180000
 DTSTART;TZID=America/Los_Angeles:20260120T180000
 DTEND;TZID=America/Los_Angeles:20260120T200000
@@ -116,10 +116,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CANCELLED
 SUMMARY:Let's make BioYarn!
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sn4px-20260120180000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sn4px-20260120180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-s3xv-20260120200000
 DTSTART;TZID=America/Los_Angeles:20260120T200000
 DTEND;TZID=America/Los_Angeles:20260120T204500
@@ -136,10 +136,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260120200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260120200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20260121190000
 DTSTART;TZID=America/Los_Angeles:20260121T190000
 DTEND;TZID=America/Los_Angeles:20260121T200000
@@ -150,10 +150,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Space Closed - Meeting
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260121190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260121190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-sw31f-20260125110000
 DTSTART;TZID=America/Los_Angeles:20260125T110000
 DTEND;TZID=America/Los_Angeles:20260125T170000
@@ -181,10 +181,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Hullabaloo: Lamp Making Workshop
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sw31f-20260125110000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sw31f-20260125110000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-sn5u9-20260126190000
 DTSTART;TZID=America/Los_Angeles:20260126T190000
 DTEND;TZID=America/Los_Angeles:20260126T203000
@@ -199,10 +199,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:How to Read a Sewing Pattern
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sn5u9-20260126190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sn5u9-20260126190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-s6b27-20260129190000
 DTSTART;TZID=America/Los_Angeles:20260129T190000
 DTEND;TZID=America/Los_Angeles:20260129T210000
@@ -218,10 +218,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Embroidery Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s6b27-20260129190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s6b27-20260129190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-syf1-20260203200000
 DTSTART;TZID=America/Los_Angeles:20260203T200000
 DTEND;TZID=America/Los_Angeles:20260203T204500
@@ -238,10 +238,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260203200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260203200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-skb2j-20260207090000
 DTSTART;TZID=America/Los_Angeles:20260207T090000
 DTEND;TZID=America/Los_Angeles:20260207T120000
@@ -258,10 +258,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Make a Cherry Charcuterie Board
-URL:https://bookwhen.com/sequoiafabrica/e/ev-skb2j-20260207090000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-skb2j-20260207090000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-s1o3x-20260209183000
 DTSTART;TZID=America/Los_Angeles:20260209T183000
 DTEND;TZID=America/Los_Angeles:20260209T200000
@@ -279,10 +279,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Sketching Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s1o3x-20260209183000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s1o3x-20260209183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-s7f84-20260210190000
 DTSTART;TZID=America/Los_Angeles:20260210T190000
 DTEND;TZID=America/Los_Angeles:20260210T203000
@@ -294,10 +294,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Sewing 101
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s7f84-20260210190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s7f84-20260210190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-s4vfj-20260213180000
 DTSTART;TZID=America/Los_Angeles:20260213T180000
 DTEND;TZID=America/Los_Angeles:20260213T201500
@@ -317,10 +317,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Block Printmaking Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s4vfj-20260213180000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s4vfj-20260213180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-s3xv-20260217200000
 DTSTART;TZID=America/Los_Angeles:20260217T200000
 DTEND;TZID=America/Los_Angeles:20260217T204500
@@ -337,10 +337,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260217200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260217200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20260218190000
 DTSTART;TZID=America/Los_Angeles:20260218T190000
 DTEND;TZID=America/Los_Angeles:20260218T200000
@@ -351,10 +351,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Space Closed - Meeting
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260218190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260218190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-sh2yu-20260221130000
 DTSTART;TZID=America/Los_Angeles:20260221T130000
 DTEND;TZID=America/Los_Angeles:20260221T153000
@@ -381,10 +381,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Fabrication: Design and 3D Print an Organizer. Part 1.
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sh2yu-20260221130000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sh2yu-20260221130000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-sh1e6-20260224190000
 DTSTART;TZID=America/Los_Angeles:20260224T190000
 DTEND;TZID=America/Los_Angeles:20260224T210000
@@ -394,10 +394,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Advanced Industrial Sewing Machine Maintenance
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sh1e6-20260224190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sh1e6-20260224190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102735Z
 UID:bwnp-x3ixm04f5wj7-ev-sh6ua-20260225180000
 DTSTART;TZID=America/Los_Angeles:20260225T180000
 DTEND;TZID=America/Los_Angeles:20260225T200000
@@ -418,10 +418,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Upcycling/Mending Workshop
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sh6ua-20260225180000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sh6ua-20260225180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-sq0ki-20260228130000
 DTSTART;TZID=America/Los_Angeles:20260228T130000
 DTEND;TZID=America/Los_Angeles:20260228T153000
@@ -436,10 +436,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Fabrication: Design and 3D Print an Organizer. Part 2
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sq0ki-20260228130000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sq0ki-20260228130000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-syf1-20260303200000
 DTSTART;TZID=America/Los_Angeles:20260303T200000
 DTEND;TZID=America/Los_Angeles:20260303T204500
@@ -456,10 +456,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260303200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260303200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s9pdg-20260305133000
 DTSTART;TZID=America/Los_Angeles:20260305T133000
 DTEND;TZID=America/Los_Angeles:20260305T150000
@@ -470,10 +470,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY: Class Visit: SFUSD
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s9pdg-20260305133000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s9pdg-20260305133000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-sr0dx-20260305183000
 DTSTART;TZID=America/Los_Angeles:20260305T183000
 DTEND;TZID=America/Los_Angeles:20260305T210000
@@ -489,10 +489,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Electronics: Introduction to Soldering
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sr0dx-20260305183000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sr0dx-20260305183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-sp0a8-20260306133000
 DTSTART;TZID=America/Los_Angeles:20260306T133000
 DTEND;TZID=America/Los_Angeles:20260306T150000
@@ -503,10 +503,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY: Class Visit: SFUSD
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sp0a8-20260306133000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sp0a8-20260306133000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s1o3x-20260309183000
 DTSTART;TZID=America/Los_Angeles:20260309T183000
 DTEND;TZID=America/Los_Angeles:20260309T200000
@@ -524,10 +524,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Sketching Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s1o3x-20260309183000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s1o3x-20260309183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s6jp2-20260310190000
 DTSTART;TZID=America/Los_Angeles:20260310T190000
 DTEND;TZID=America/Los_Angeles:20260310T203000
@@ -539,10 +539,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Sewing 101
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s6jp2-20260310190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s6jp2-20260310190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s3xv-20260317200000
 DTSTART;TZID=America/Los_Angeles:20260317T200000
 DTEND;TZID=America/Los_Angeles:20260317T204500
@@ -559,10 +559,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260317200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260317200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20260318190000
 DTSTART;TZID=America/Los_Angeles:20260318T190000
 DTEND;TZID=America/Los_Angeles:20260318T200000
@@ -573,10 +573,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Space Closed - Meeting
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260318190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260318190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-slz3z-20260319180000
 DTSTART;TZID=America/Los_Angeles:20260319T180000
 DTEND;TZID=America/Los_Angeles:20260319T200000
@@ -596,10 +596,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Block Printmaking Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-slz3z-20260319180000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-slz3z-20260319180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-shi2p-20260326190000
 DTSTART;TZID=America/Los_Angeles:20260326T190000
 DTEND;TZID=America/Los_Angeles:20260326T210000
@@ -621,10 +621,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Knit a Scarf: Introduction to Machine Knitting
-URL:https://bookwhen.com/sequoiafabrica/e/ev-shi2p-20260326190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-shi2p-20260326190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-ssbp4-20260407190000
 DTSTART;TZID=America/Los_Angeles:20260407T190000
 DTEND;TZID=America/Los_Angeles:20260407T203000
@@ -636,10 +636,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Sewing 101
-URL:https://bookwhen.com/sequoiafabrica/e/ev-ssbp4-20260407190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-ssbp4-20260407190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-syf1-20260407200000
 DTSTART;TZID=America/Los_Angeles:20260407T200000
 DTEND;TZID=America/Los_Angeles:20260407T204500
@@ -656,10 +656,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260407200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260407200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-se5d4-20260407200000
 DTSTART;TZID=America/Los_Angeles:20260407T200000
 DTEND;TZID=America/Los_Angeles:20260407T210000
@@ -678,10 +678,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Member Applicant Orientation
-URL:https://bookwhen.com/sequoiafabrica/e/ev-se5d4-20260407200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-se5d4-20260407200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-snvjd-20260411110000
 DTSTART;TZID=America/Los_Angeles:20260411T110000
 DTEND;TZID=America/Los_Angeles:20260411T140000
@@ -700,10 +700,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Ukrainian Easter Egg (pysanka) Painting 
-URL:https://bookwhen.com/sequoiafabrica/e/ev-snvjd-20260411110000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-snvjd-20260411110000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s1o3x-20260413183000
 DTSTART;TZID=America/Los_Angeles:20260413T183000
 DTEND;TZID=America/Los_Angeles:20260413T200000
@@ -721,10 +721,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Sketching Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s1o3x-20260413183000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s1o3x-20260413183000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-sclq-20260415190000
 DTSTART;TZID=America/Los_Angeles:20260415T190000
 DTEND;TZID=America/Los_Angeles:20260415T200000
@@ -735,10 +735,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Space Closed - Meeting
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260415190000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sclq-20260415190000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s3xv-20260421200000
 DTSTART;TZID=America/Los_Angeles:20260421T200000
 DTEND;TZID=America/Los_Angeles:20260421T204500
@@ -755,10 +755,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260421200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260421200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-sijra-20260422140000
 DTSTART;TZID=America/Los_Angeles:20260422T140000
 DTEND;TZID=America/Los_Angeles:20260422T170000
@@ -770,10 +770,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Class Visit: SFSU Class
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sijra-20260422140000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sijra-20260422140000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s72ne-20260422180000
 DTSTART;TZID=America/Los_Angeles:20260422T180000
 DTEND;TZID=America/Los_Angeles:20260422T210000
@@ -794,10 +794,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Upmending (upcycling + mending) Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s72ne-20260422180000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s72ne-20260422180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s6ptb-20260423180000
 DTSTART;TZID=America/Los_Angeles:20260423T180000
 DTEND;TZID=America/Los_Angeles:20260423T200000
@@ -817,10 +817,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Block Printmaking Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s6ptb-20260423180000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s6ptb-20260423180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-sjqfp-20260425153000
 DTSTART;TZID=America/Los_Angeles:20260425T153000
 DTEND;TZID=America/Los_Angeles:20260425T183000
@@ -839,10 +839,10 @@ ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Cricut Beginner Workshop: Design & Create a Personalized Vinyl Tumb
  ler
-URL:https://bookwhen.com/sequoiafabrica/e/ev-sjqfp-20260425153000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-sjqfp-20260425153000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-syf1-20260505200000
 DTSTART;TZID=America/Los_Angeles:20260505T200000
 DTEND;TZID=America/Los_Angeles:20260505T204500
@@ -859,10 +859,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260505200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260505200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-se5d4-20260505200000
 DTSTART;TZID=America/Los_Angeles:20260505T200000
 DTEND;TZID=America/Los_Angeles:20260505T210000
@@ -881,10 +881,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Member Applicant Orientation
-URL:https://bookwhen.com/sequoiafabrica/e/ev-se5d4-20260505200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-se5d4-20260505200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-shopu-20260514180000
 DTSTART;TZID=America/Los_Angeles:20260514T180000
 DTEND;TZID=America/Los_Angeles:20260514T200000
@@ -904,10 +904,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Block Printmaking Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-shopu-20260514180000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-shopu-20260514180000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s3xv-20260519200000
 DTSTART;TZID=America/Los_Angeles:20260519T200000
 DTEND;TZID=America/Los_Angeles:20260519T204500
@@ -924,10 +924,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260519200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260519200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-syf1-20260602200000
 DTSTART;TZID=America/Los_Angeles:20260602T200000
 DTEND;TZID=America/Los_Angeles:20260602T204500
@@ -944,10 +944,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260602200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-syf1-20260602200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-se5d4-20260602200000
 DTSTART;TZID=America/Los_Angeles:20260602T200000
 DTEND;TZID=America/Los_Angeles:20260602T210000
@@ -966,10 +966,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Member Applicant Orientation
-URL:https://bookwhen.com/sequoiafabrica/e/ev-se5d4-20260602200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-se5d4-20260602200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-s3xv-20260616200000
 DTSTART;TZID=America/Los_Angeles:20260616T200000
 DTEND;TZID=America/Los_Angeles:20260616T204500
@@ -986,10 +986,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Volunteer Office Hours
-URL:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260616200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-s3xv-20260616200000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-szoo1-20260618100000
 DTSTART;TZID=America/Los_Angeles:20260618T100000
 DTEND;TZID=America/Los_Angeles:20260618T110000
@@ -1009,10 +1009,10 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Block Printmaking Social
-URL:https://bookwhen.com/sequoiafabrica/e/ev-szoo1-20260618100000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-szoo1-20260618100000
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260409T103114Z
+DTSTAMP:20260410T102736Z
 UID:bwnp-x3ixm04f5wj7-ev-se5d4-20260707200000
 DTSTART;TZID=America/Los_Angeles:20260707T200000
 DTEND;TZID=America/Los_Angeles:20260707T210000
@@ -1031,6 +1031,6 @@ LOCATION:1736 18th Street\, San Francisco CA 94107-2343
 ORGANIZER:mailto:info@sequoiafabrica.org
 STATUS:CONFIRMED
 SUMMARY:Member Applicant Orientation
-URL:https://bookwhen.com/sequoiafabrica/e/ev-se5d4-20260707200000
+URL;VALUE=URI:https://bookwhen.com/sequoiafabrica/e/ev-se5d4-20260707200000
 END:VEVENT
 END:VCALENDAR
